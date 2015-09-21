@@ -1,0 +1,14 @@
+#+LATEX_HEADER: \pageav
+#+LATEX_HEADER: \setpagecc{\paperheight}{\paperwidth}{*}
+#+LATEX_HEADER: \settrimmedsize{9.5in}{6.25in}{*}
+#+LATEX_HEADER: \settrims{1.095in}{1.01in}
+#+LATEX_HEADER: \setlrmarginsandblock{0.75in}{0.75in}{*}
+#+LATEX_HEADER: \setulmarginsandblock{0.75in}{0.5in}{*}
+#+LATEX_HEADER: \checkandfixthelayout
+#+LATEX_HEADER: \renewcommand*{\trimmark}{%
+#+LATEX_HEADER:  \begin{picture}(0,0)
+#+LATEX_HEADER:    \unitlength 5mm % set new length
+#+LATEX_HEADER:    \thinlines
+#+LATEX_HEADER:    \put(-2,0){\line(1,0){4}}
+#+LATEX_HEADER:    \put(0,-2){\line(0,1){4}}
+#+LATEX_HEADER:  \end{picture}}

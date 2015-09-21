@@ -1,0 +1,84 @@
+#+LATEX_HEADER: \usepackage{comment,multirow,tabulary,booktabs,threeparttable,tabularx,xcolor,lmodern,graphicx,longtable,float,wrapfig,url,underscore}
+#+LATEX_HEADER: \usepackage{pdflscape}
+#+LATEX_HEADER: \usepackage{array}
+#+LATEX_HEADER: \usepackage{ragged2e}
+#+LATEX_HEADER: \newcolumntype{P}[1]{>{\RaggedRight\hspace{0pt}}p{#1}}
+#+LATEX_HEADER: \usepackage{xparse}
+#+LATEX_HEADER: \newcounter{infobox}[chapter]
+#+LATEX_HEADER: \renewcommand{\theinfobox}{\thechapter.\arabic{infobox}}
+#+LATEX_HEADER: \usepackage[skipabove=25pt,skipbelow=25pt,leftmargin=10pt,rightmargin=10pt,framemethod=TikZ]{mdframed}
+#+LATEX_HEADER: \newenvironment{infobox}[1][]{%
+#+LATEX_HEADER: \refstepcounter{infobox}%
+#+LATEX_HEADER: \begin{mdframed}[%
+#+LATEX_HEADER: frametitle={\textsc{Box \theinfobox}\ #1},
+#+LATEX_HEADER: skipabove=\baselineskip plus 2pt minus 1pt,
+#+LATEX_HEADER: skipbelow=\baselineskip plus 2pt minus 1pt,
+#+LATEX_HEADER: linewidth=1pt,
+#+LATEX_HEADER: frametitlerule=true,
+#+LATEX_HEADER: frametitlealignment=\raggedright,
+#+LATEX_HEADER: frametitlerulewidth=1pt,
+#+LATEX_HEADER: font=\small,
+#+LATEX_HEADER: ]%
+#+LATEX_HEADER: \addcontentsline{lob}{figure}{\numberline{\theinfobox}#1}%
+#+LATEX_HEADER: }{%
+#+LATEX_HEADER: \end{mdframed}
+#+LATEX_HEADER: }
+#+LATEX_HEADER: \newlistof{listofboxes}{lob}{Boxes}
+#+LATEX_HEADER: \usepackage[within=chapter]{newfloat}
+#+LATEX_HEADER: \DeclareFloatingEnvironment[fileext=ibox,listname={Iboxes},name=boxfloat]{boxfloat}
+#+LATEX_HEADER: \newenvironment{icn2box}[1][]{%
+#+LATEX_HEADER:     \addcontentsline{box}{icn2boxes}{\protect\numberline #1}
+#+LATEX_HEADER:     \begin{mdframed}[%
+#+LATEX_HEADER:         frametitle={#1},
+#+LATEX_HEADER:         skipabove=\baselineskip plus 25pt minus 1pt,
+#+LATEX_HEADER:         skipbelow=\baselineskip plus 25pt minus 1pt,
+#+LATEX_HEADER:         linewidth=0pt,
+#+LATEX_HEADER:         linecolor==gray!30,
+#+LATEX_HEADER:         frametitlerule=true,
+#+LATEX_HEADER:         repeatframetitle=true,
+#+LATEX_HEADER:         frametitlebackgroundcolor=gray!30,
+#+LATEX_HEADER:         backgroundcolor=gray!30,
+#+LATEX_HEADER:     ]%
+#+LATEX_HEADER: }{%
+#+LATEX_HEADER:     \end{mdframed}
+#+LATEX_HEADER: }
+#+LATEX_HEADER: \usepackage{framed}
+#+LATEX_HEADER: % environment derived from framed.sty: see leftbar environment definition
+#+LATEX_HEADER: \definecolor{formalshade}{rgb}{0.95,0.95,1}
+#+LATEX_HEADER: \newenvironment{formal}{%
+#+LATEX_HEADER:   \def\FrameCommand{%
+#+LATEX_HEADER:     \hspace{1pt}%
+#+LATEX_HEADER:     {\color{darkblue}\vrule width 2pt}%
+#+LATEX_HEADER:     {\color{formalshade}\vrule width 4pt}%
+#+LATEX_HEADER:     \colorbox{formalshade}%
+#+LATEX_HEADER:   }%
+#+LATEX_HEADER:   \MakeFramed{\advance\hsize-\width\FrameRestore}%
+#+LATEX_HEADER:   \noindent\hspace{-4.55pt}% disable indenting first paragraph
+#+LATEX_HEADER:   \begin{adjustwidth}{}{7pt}%
+#+LATEX_HEADER:   \vspace{2pt}\vspace{2pt}%
+#+LATEX_HEADER: }
+#+LATEX_HEADER: {%
+#+LATEX_HEADER:   \vspace{2pt}\end{adjustwidth}\endMakeFramed%
+#+LATEX_HEADER: }
+#+LATEX_HEADER: \newenvironment{shadedbox}{% open (top or bottom) framed
+#+LATEX_HEADER:   \def\FrameCommand{\OpenFBox\FrameRule\FrameRule \fcolorbox{framecolor}{formalshade}}%
+#+LATEX_HEADER:   \def\FirstFrameCommand{\OpenFBox\FrameRule\z@}%
+#+LATEX_HEADER:   \def\MidFrameCommand{\OpenFBox\z@\z@}%
+#+LATEX_HEADER:   \def\LastFrameCommand{\OpenFBox\z@\FrameRule}%
+#+LATEX_HEADER:   \MakeFramed {\advance\hsize-\width \FrameRestore}%
+#+LATEX_HEADER:   }{\endMakeFramed}
+#+LATEX_HEADER: \newcommand{\startsquarepar}{%
+#+LATEX_HEADER:     \par\begingroup \parfillskip 0pt \relax}
+#+LATEX_HEADER: \newcommand{\stopsquarepar}{%
+#+LATEX_HEADER:     \par\endgroup}
+#+LATEX_HEADER: \usepackage{parnotes,comment,multirow,amsmath,amssymb,marvosym,wasysym}
+#+LaTeX_HEADER: \usepackage[normalem]{ulem}
+#+LaTeX_HEADER: \usepackage[version=3]{mhchem}
+#+LaTeX_HEADER: \usepackage[below]{placeins}
+#+LATEX_HEADER: \hypersetup{colorlinks=true,citecolor=black,linkcolor=black,citebordercolor={0 1 0},linktocpage,pdfstartview=FitH,anchorcolor=black,filecolor=black,menucolor=black,urlcolor=black}
+#+LATEX_HEADER: \pretolerance=100
+#+LATEX_HEADER: \tolerance=1500
+#+LATEX_HEADER: \emergencystretch=10pt
+#+LATEX_HEADER: \emergencystretch=\maxdimen
+#+LATEX_HEADER: \hbadness=10000
+#+LATEX_HEADER: \usepackage{microtype}

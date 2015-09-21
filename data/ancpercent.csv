@@ -1,0 +1,330 @@
+"iso2"|"Country"|"year"|"ancpercent"
+"AFG"|"Afghanistan"|"2010-2011"|15
+"AFG"|"Afghanistan"|2010|16
+"ALB"|"Albania"|"2008-2009"|67
+"ALB"|"Albania"|"2002"|41
+"DZA"|"Algeria"|"2012"|68
+"AGO"|"Angola"|"1996"|32
+"ARG"|"Argentina"|"2011-2012"|90
+"ARG"|"Argentina"|"2004-2005"|89
+"ARM"|"Armenia"|"2010"|93
+"ARM"|"Armenia"|"2005"|71
+"ARM"|"Armenia"|"2000"|65
+"AUS"|"Australia"|"2008"|92
+"AZE"|"Azerbaijan"|"2006"|45
+"AZE"|"Azerbaijan"|"1996-2001"|30
+"BGD"|"Bangladesh"|"2013"|25
+"BGD"|"Bangladesh"|"2011"|26
+"BGD"|"Bangladesh"|"2010"|23
+"BGD"|"Bangladesh"|"2007"|21
+"BGD"|"Bangladesh"|"2004"|16
+"BGD"|"Bangladesh"|"2001"|12
+"BGD"|"Bangladesh"|"1999-2000"|11
+"BGD"|"Bangladesh"|"1996-1997"|6
+"BGD"|"Bangladesh"|"1993-1994"|6
+"BLR"|"Belarus"|"2012"|100
+"BLZ"|"Belize"|"2011"|83
+"BLZ"|"Belize"|"1986-1991"|76
+"BEN"|"Benin"|"2011-2012"|58
+"BEN"|"Benin"|"2006"|61
+"BEN"|"Benin"|"2001"|62
+"BEN"|"Benin"|"1996"|54
+"BTN"|"Bhutan"|"2010"|77
+"BOL"|"Bolivia (Plurinational State of)"|"2008"|72
+"BOL"|"Bolivia (Plurinational State of)"|"2003"|58
+"BOL"|"Bolivia (Plurinational State of)"|"1998"|48
+"BIH"|"Bosnia and Herzegovina"|"2011-2012"|84
+"BWA"|"Botswana"|"2007"|73
+"BRA"|"Brazil"|"2011"|90
+"BRA"|"Brazil"|"2009"|91
+"BRA"|"Brazil"|"2007"|89
+"BRA"|"Brazil"|"2006"|89
+"BRA"|"Brazil"|"2005"|87
+"BRA"|"Brazil"|"1996"|76
+"BFA"|"Burkina Faso"|"2010"|34
+"BFA"|"Burkina Faso"|"2003"|18
+"BFA"|"Burkina Faso"|"1998-1999"|23
+"BFA"|"Burkina Faso"|"1993"|23
+"BDI"|"Burundi"|"2010"|33
+"CPV"|"Cabo Verde"|"2005"|72
+"CPV"|"Cabo Verde"|"1998"|64
+"KHM"|"Cambodia"|"2010"|59
+"KHM"|"Cambodia"|"2005"|27
+"KHM"|"Cambodia"|"2000"|9
+"CMR"|"Cameroon"|"2011"|62
+"CMR"|"Cameroon"|"2004"|60
+"CMR"|"Cameroon"|"1998"|52
+"CMR"|"Cameroon"|"1991"|49
+"CAN"|"Canada"|"2006-2007"|99
+"CAF"|"Central African Republic"|"2010"|38
+"CAF"|"Central African Republic"|"1994-1995"|40
+"TCD"|"Chad"|"2010"|23
+"TCD"|"Chad"|"2004"|18
+"TCD"|"Chad"|"1996-1997"|15
+"COL"|"Colombia"|"2010"|89
+"COL"|"Colombia"|"2005"|83
+"COL"|"Colombia"|"2000"|81
+"COL"|"Colombia"|"1990"|67
+"COM"|"Comoros"|"2012"|49
+"COM"|"Comoros"|"1996"|52
+"COG"|"Congo"|"2011-2012"|79
+"COG"|"Congo"|"2005"|75
+"CRI"|"Costa Rica"|"2011"|90
+"CRI"|"Costa Rica"|"2008"|86
+"CIV"|"Côte d'Ivoire"|"2011-2012"|44
+"CIV"|"Côte d'Ivoire"|"2005"|45
+"CIV"|"Côte d'Ivoire"|"1998-1999"|36
+"CIV"|"Côte d'Ivoire"|"1994"|29
+"CUB"|"Cuba"|"2012"|100
+"CUB"|"Cuba"|"2011"|100
+"CUB"|"Cuba"|"2010"|100
+"CUB"|"Cuba"|"2009"|99
+"CZE"|"Czech Republic"|"1993"|97
+"PRK"|"Democratic People's Republic of Korea"|"2009"|94
+"COD"|"Democratic Republic of the Congo"|"2010"|45
+"COD"|"Democratic Republic of the Congo"|"2007"|47
+"DJI"|"Djibouti"|"2012"|23
+"DJI"|"Djibouti"|"2002"|7
+"DOM"|"Dominican Republic"|"2007"|95
+"DOM"|"Dominican Republic"|"2002"|94
+"DOM"|"Dominican Republic"|"1996"|88
+"ECU"|"Ecuador"|"2004"|58
+"ECU"|"Ecuador"|"1994"|64
+"ECU"|"Ecuador"|"1984"|64
+"EGY"|"Egypt"|"2008"|66
+"EGY"|"Egypt"|"2005"|59
+"EGY"|"Egypt"|"2003"|56
+"EGY"|"Egypt"|"2000"|37
+"EGY"|"Egypt"|"1998"|33
+"EGY"|"Egypt"|"1997"|32
+"EGY"|"Egypt"|"1995"|28
+"EGY"|"Egypt"|"1992"|23
+"SLV"|"El Salvador"|"2003-2008"|78
+"SLV"|"El Salvador"|"2002-2003"|71
+"GNQ"|"Equatorial Guinea"|"2011"|67
+"ERI"|"Eritrea"|"2010"|57
+"ERI"|"Eritrea"|"2002"|41
+"ERI"|"Eritrea"|"1995"|27
+"ETH"|"Ethiopia"|"2011"|19
+"ETH"|"Ethiopia"|"2005"|12
+"ETH"|"Ethiopia"|"2000"|10
+"FJI"|"Fiji"|"2013"|94
+"GAB"|"Gabon"|"2012"|78
+"GAB"|"Gabon"|"2000"|63
+"GMB"|"Gambia"|"2010"|72
+"GEO"|"Georgia"|"2012-2013"|84
+"GEO"|"Georgia"|"2010"|90
+"GEO"|"Georgia"|"2005"|75
+"GHA"|"Ghana"|"2011"|87
+"GHA"|"Ghana"|"2008"|78
+"GHA"|"Ghana"|"2007"|77
+"GHA"|"Ghana"|"2003"|69
+"GHA"|"Ghana"|"1998"|62
+"GHA"|"Ghana"|"1993"|59
+"GIN"|"Guinea"|"2012"|57
+"GIN"|"Guinea"|"2007"|50
+"GIN"|"Guinea"|"2005"|49
+"GIN"|"Guinea"|"1999"|46
+"GIN"|"Guinea"|"1992"|25
+"GNB"|"Guinea-Bissau"|"2010"|68
+"GUY"|"Guyana"|"2009"|79
+"HTI"|"Haiti"|"2012"|67
+"HTI"|"Haiti"|"2005-2006"|54
+"HTI"|"Haiti"|"2000"|44
+"HTI"|"Haiti"|"1994-1995"|36
+"HND"|"Honduras"|"2011-2012"|89
+"HND"|"Honduras"|"2005-2006"|81
+"HND"|"Honduras"|"2001"|59
+"IND"|"India"|"2005-2006"|37
+"IND"|"India"|"1998-1999"|30
+"IND"|"India"|"1992-1993"|27
+"IDN"|"Indonesia"|"2012"|88
+"IDN"|"Indonesia"|"2007"|82
+"IDN"|"Indonesia"|"2002-2003"|81
+"IDN"|"Indonesia"|"1997"|70
+"IDN"|"Indonesia"|"1994"|63
+"IDN"|"Indonesia"|"1991"|55
+"IRN"|"Iran (Islamic Republic of)"|"2005"|94
+"IRQ"|"Iraq"|"2011"|50
+"ITA"|"Italy"|"2003"|68
+"JAM"|"Jamaica"|"2011"|86
+"JAM"|"Jamaica"|"2008"|87
+"JAM"|"Jamaica"|"1997"|87
+"JOR"|"Jordan"|"2012"|95
+"JOR"|"Jordan"|"2007"|94
+"JOR"|"Jordan"|"2002"|91
+"JOR"|"Jordan"|"1997"|86
+"JOR"|"Jordan"|"1990"|67
+"KAZ"|"Kazakhstan"|"2010-2011"|87
+"KAZ"|"Kazakhstan"|"1999"|70
+"KAZ"|"Kazakhstan"|"1995"|82
+"KEN"|"Kenya"|"2008-2009"|47
+"KEN"|"Kenya"|"2003"|52
+"KEN"|"Kenya"|"1998"|61
+"KEN"|"Kenya"|"1993"|64
+"KIR"|"Kiribati"|"2009"|71
+"KGZ"|"Kyrgyzstan"|"2012"|84
+"KGZ"|"Kyrgyzstan"|"1997"|81
+"LAO"|"Lao People's Democratic Republic"|"2011-2012"|37
+"LSO"|"Lesotho"|"2009"|70
+"LSO"|"Lesotho"|"2004"|70
+"LBR"|"Liberia"|"2007"|66
+"MDG"|"Madagascar"|"2012-2013"|51
+"MDG"|"Madagascar"|"2008-2009"|49
+"MDG"|"Madagascar"|"2003-2004"|40
+"MDG"|"Madagascar"|"1997"|40
+"MDG"|"Madagascar"|"1992"|43
+"MWI"|"Malawi"|"2010"|46
+"MWI"|"Malawi"|"2004"|57
+"MWI"|"Malawi"|"2000"|56
+"MWI"|"Malawi"|"1992"|63
+"MDV"|"Maldives"|"2009"|85
+"MDV"|"Maldives"|"2004"|91
+"MDV"|"Maldives"|"1999"|65
+"MLI"|"Mali"|"2010"|35
+"MLI"|"Mali"|"2006"|35
+"MLI"|"Mali"|"2001"|30
+"MLI"|"Mali"|"1995-1996"|26
+"MHL"|"Marshall Islands"|"2007"|77
+"MRT"|"Mauritania"|"2011"|48
+"MRT"|"Mauritania"|"2000-2001"|16
+"MEX"|"Mexico"|"2012"|93
+"MEX"|"Mexico"|"2009"|86
+"MEX"|"Mexico"|"2006"|88
+"MNG"|"Mongolia"|"2010"|81
+"MAR"|"Morocco"|"2010-2011"|55
+"MAR"|"Morocco"|"2003-2004"|31
+"MAR"|"Morocco"|"1995"|12
+"MOZ"|"Mozambique"|"2011"|51
+"MOZ"|"Mozambique"|"2003"|53
+"MOZ"|"Mozambique"|"1997"|37
+"MMR"|"Myanmar"|"2007"|73
+"MMR"|"Myanmar"|"2001"|66
+"NAM"|"Namibia"|"2006-2007"|70
+"NAM"|"Namibia"|"2000"|69
+"NAM"|"Namibia"|"1992"|56
+"NRU"|"Nauru"|"2007"|40
+"NPL"|"Nepal"|"2011"|50
+"NPL"|"Nepal"|"2006"|29
+"NPL"|"Nepal"|"2001"|14
+"NPL"|"Nepal"|"1996"|9
+"NIC"|"Nicaragua"|"2011-2012"|88
+"NIC"|"Nicaragua"|"2006-2007"|78
+"NIC"|"Nicaragua"|"2001"|72
+"NIC"|"Nicaragua"|"1998"|62
+"NER"|"Niger"|"2012"|33
+"NER"|"Niger"|"2006"|15
+"NER"|"Niger"|"1998"|11
+"NER"|"Niger"|"1992"|8
+"NGA"|"Nigeria"|"2013"|51
+"NGA"|"Nigeria"|"2011"|57
+"NGA"|"Nigeria"|"2008"|45
+"NGA"|"Nigeria"|"2003"|47
+"NGA"|"Nigeria"|"1999"|47
+"NGA"|"Nigeria"|"1990"|52
+"OMN"|"Oman"|"2008"|96
+"OMN"|"Oman"|"2007"|86
+"OMN"|"Oman"|"2006"|83
+"PAK"|"Pakistan"|"2012-2013"|37
+"PAK"|"Pakistan"|"2006-2007"|28
+"PAK"|"Pakistan"|"1990-1991"|14
+"PLW"|"Palau"|"2010"|81
+"PLW"|"Palau"|"2007"|88
+"PNG"|"Papua New Guinea"|"2006"|55
+"PRY"|"Paraguay"|"2008"|91
+"PRY"|"Paraguay"|"2004"|79
+"PRY"|"Paraguay"|"1990"|65
+"PER"|"Peru"|"2012"|94
+"PER"|"Peru"|"2011"|94
+"PER"|"Peru"|"2010"|93
+"PER"|"Peru"|"2009"|93
+"PER"|"Peru"|"2004-2006"|87
+"PER"|"Peru"|"2004"|87
+"PER"|"Peru"|"2000"|69
+"PER"|"Peru"|"1996"|54
+"PER"|"Peru"|"1991-1992"|47
+"PHL"|"Philippines"|"2011"|78
+"PHL"|"Philippines"|"2008"|78
+"PHL"|"Philippines"|"2003"|70
+"PHL"|"Philippines"|"1998"|77
+"PHL"|"Philippines"|"1993"|52
+"MDA"|"Republic of Moldova"|"2012"|95
+"MDA"|"Republic of Moldova"|"2005"|89
+"MDA"|"Republic of Moldova"|"1997"|87
+"ROU"|"Romania"|"2004"|76
+"ROU"|"Romania"|"1999"|59
+"RWA"|"Rwanda"|"2010"|35
+"RWA"|"Rwanda"|"2007-2008"|24
+"RWA"|"Rwanda"|"2005"|13
+"RWA"|"Rwanda"|"2000"|10
+"RWA"|"Rwanda"|"1992"|12
+"LCA"|"Saint Lucia"|"2012"|90
+"WSM"|"Samoa"|"2009"|58
+"STP"|"Sao Tome and Principe"|"2008-2009"|72
+"SEN"|"Senegal"|"2012-2013"|47
+"SEN"|"Senegal"|"2010-2011"|50
+"SEN"|"Senegal"|"2005"|40
+"SEN"|"Senegal"|"1997"|17
+"SEN"|"Senegal"|"1992-1993"|13
+"SRB"|"Serbia"|"2010"|94
+"SLE"|"Sierra Leone"|"2010"|75
+"SLE"|"Sierra Leone"|"2008"|56
+"SLB"|"Solomon Islands"|"2007"|65
+"SOM"|"Somalia"|"2006"|6
+"ZAF"|"South Africa"|"2008"|87
+"ZAF"|"South Africa"|"2003"|56
+"ZAF"|"South Africa"|"1998"|73
+"SSD"|"South Sudan"|"2010"|17
+"LKA"|"Sri Lanka"|"2006-2007"|93
+"PSE"|"State of Palestine"|"2010"|94
+"SDN"|"Sudan"|"2010"|47
+"SUR"|"Suriname"|"2010"|67
+"SWZ"|"Swaziland"|"2010"|77
+"SWZ"|"Swaziland"|"2006-2007"|79
+"SYR"|"Syrian Arab Republic"|"2009"|64
+"TJK"|"Tajikistan"|"2012"|53
+"TJK"|"Tajikistan"|"2007"|49
+"THA"|"Thailand"|"2012"|93
+"THA"|"Thailand"|"2009"|80
+"MKD"|"The former Yugoslav Republic of Macedonia"|"2011"|94
+"TLS"|"Timor-Leste"|"2009-2010"|55
+"TLS"|"Timor-Leste"|"2003"|30
+"TGO"|"Togo"|"2010"|55
+"TGO"|"Togo"|"1998"|46
+"TON"|"Tonga"|"2012"|70
+"TUN"|"Tunisia"|"2011-2012"|85
+"TUN"|"Tunisia"|"2006"|68
+"TUR"|"Turkey"|"2008"|74
+"TUR"|"Turkey"|"2003"|54
+"TUR"|"Turkey"|"1998"|42
+"TUR"|"Turkey"|"1993"|36
+"TKM"|"Turkmenistan"|"2000"|83
+"TUV"|"Tuvalu"|"2007"|67
+"UGA"|"Uganda"|"2011"|48
+"UGA"|"Uganda"|"2006"|47
+"UGA"|"Uganda"|"2000-2001"|42
+"UGA"|"Uganda"|"1995"|47
+"UKR"|"Ukraine"|"2012"|87
+"UKR"|"Ukraine"|"2007"|75
+"TZA"|"United Republic of Tanzania"|"2010"|43
+"TZA"|"United Republic of Tanzania"|"2004-2005"|62
+"TZA"|"United Republic of Tanzania"|"1999"|70
+"TZA"|"United Republic of Tanzania"|"1996"|70
+"TZA"|"United Republic of Tanzania"|"1991-1992"|70
+"URY"|"Uruguay"|"2007"|90
+"UZB"|"Uzbekistan"|"1996"|79
+"VUT"|"Vanuatu"|"2013"|52
+"VNM"|"Viet Nam"|"2011"|60
+"VNM"|"Viet Nam"|"2002"|29
+"VNM"|"Viet Nam"|"1997"|15
+"YEM"|"Yemen"|"2003"|14
+"YEM"|"Yemen"|"1997"|11
+"ZMB"|"Zambia"|"2007"|60
+"ZMB"|"Zambia"|"2002"|72
+"ZMB"|"Zambia"|"1996"|71
+"ZMB"|"Zambia"|"1992"|69
+"ZWE"|"Zimbabwe"|"2010-2011"|65
+"ZWE"|"Zimbabwe"|"2009"|57
+"ZWE"|"Zimbabwe"|"2005-2006"|71
+"ZWE"|"Zimbabwe"|"1999"|64
+"ZWE"|"Zimbabwe"|"1994"|74

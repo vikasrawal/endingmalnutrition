@@ -1,0 +1,39 @@
+FAOST_CODE|Region|Include
+5000|World|0
+5009|Total FAO|0
+5100|Africa|0
+5101|Eastern Africa|1
+5102|Middle Africa|1
+5103|Northern Africa|1
+5104|Southern Africa|1
+5105|Western Africa|1
+5200|Americas|0
+5203|Northern America|1
+5204|Central America|1
+5206|Caribbean|1
+5207|South America|1
+5300|Asia|0
+5301|Central Asia|1
+5302|Eastern Asia|1
+5303|Southern Asia|1
+5304|South-Eastern Asia|1
+5305|Western Asia|1
+5400|Europe|1
+5401|Eastern Europe|0
+5402|Northern Europe|0
+5403|Southern Europe|0
+5404|Western Europe|0
+5500|Oceania|1
+5501|Australia & New Zealand|0
+5502|Melanesia|0
+5503|Micronesia|0
+5504|Polynesia|0
+5600|Antarctic Region|0
+5706|European Union|0
+5801|Least Developed Countries|0
+5802|Land Locked Developing Countries|0
+5803|Small Island Developing States|0
+5815|Low Income Food Deficit Countries|0
+5817|Net Food Importing Developing Countries|0
+5848|Annex I countries|0
+5849|Non-Annex I countries|0

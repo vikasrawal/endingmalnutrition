@@ -1,0 +1,198 @@
+"ISO3"|"country"|"Year"|"iodised.salt.coverage.who"|"iodised.salt.coverage"
+"AFG"|"Afghanistan"|2011|20|28
+"ALB"|"Albania"|2009|75|75.6
+"DZA"|"Algeria"|2006|61|60.7
+"AND"|"Andorra"|||
+"AGO"|"Angola"|2007|45|44.7
+"ATG"|"Antigua and Barbuda"|||
+"ARG"|"Argentina"|1996||90
+"ARM"|"Armenia"|2005|97|97
+"AUS"|"Australia"|||
+"AUT"|"Austria"|||
+"AZE"|"Azerbaijan"|2006|54|53.8
+"BHS"|"Bahamas"|||
+"BHR"|"Bahrain"|||
+"BGD"|"Bangladesh"|2013|58|84.3
+"BRB"|"Barbados"|2012|17|
+"BLR"|"Belarus"|2012|85|94
+"BEL"|"Belgium"|||
+"BLZ"|"Belize"|||90
+"BEN"|"Benin"|2011|86|67.2
+"BTN"|"Bhutan"|||96.2
+"BOL"|"Bolivia (Plurinational State of)"|" "||88.8
+"BIH"|"Bosnia and Herzegovina"|2005|62|62
+"BWA"|"Botswana"|2007|65|65.8
+"BRA"|"Brazil"|2006|96|95.7
+"BRN"|"Brunei Darussalam"|||
+"BGR"|"Bulgaria"|2012|92|100
+"BFA"|"Burkina Faso"|2006|34|33.7
+"BDI"|"Burundi"|" "||98
+"CPV"|"Cape Verde"|2008|75|74.8
+"KHM"|"Cambodia"|" "||82.7
+"CMR"|"Cameroon"|2011|85|49.1
+"CAN"|"Canada"|||
+"CAF"|"Central African Republic"|2010|65|62.3
+"TCD"|"Chad"|2010|54|55.8
+"CHL"|"Chile"|||100
+"CHN"|"China"|2011|97|96.6
+"COL"|"Colombia"|||92
+"COM"|"Comoros"|2000|77|82.3
+"COG"|"Congo"|2005|73|82
+"COK"|"Cook Islands"|||
+"CRI"|"Costa Rica"|||92
+"CIV"|"Côte d'Ivoire"|2000|30|84.4
+"HRV"|"Croatia"|||90
+"CUB"|"Cuba"|2005|88|88
+"CYP"|"Cyprus"|||
+"CZE"|"Czech Republic"|||
+"PRK"|"Democratic People's Republic of Korea"|2009|25|24.5
+"COD"|"Democratic Republic of the Congo"|2010|59|58.6
+"DNK"|"Denmark"|||
+"DJI"|"Djibouti"|2006|0|0.4
+"DMA"|"Dominica"|||
+"DOM"|"Dominican Republic"|" "||18.5
+"ECU"|"Ecuador"|||99
+"EGY"|"Egypt"|2008|78|78.7
+"SLV"|"El Salvador"|2002|62|62
+"GNQ"|"Equatorial Guinea"|" "||33.3
+"ERI"|"Eritrea"|2002|68|68
+"EST"|"Estonia"|||
+"ETH"|"Ethiopia"|2005|20|19.9
+"FJI"|"Fiji"|||31
+"FIN"|"Finland"|||
+"FRA"|"France"|||
+"GAB"|"Gabon"|||36
+"GMB"|"Gambia"|2010|22|21.1
+"GEO"|"Georgia"|2009|100|99.9
+"DEU"|"Germany"|||
+"GHA"|"Ghana"|2011|35|32.4
+"GRC"|"Greece"|||
+"GRD"|"Grenada"|||
+"GTM"|"Guatemala"|||76
+"GIN"|"Guinea"|" "||41.1
+"GNB"|"Guinea-Bissau"|2010|12|11.7
+"GUY"|"Guyana"|2009|10|10.5
+"HTI"|"Haiti"|2006|3|3.1
+"VAT"|"Holy See"|||
+"HND"|"Honduras"|||80
+"HUN"|"Hungary"|||
+"ISL"|"Iceland"|||
+"IND"|"India"|2009|71|51.1
+"IDN"|"Indonesia"|2013|58|62.3
+"IRN"|"Iran (Islamic Republic of)"|||98.7
+"IRQ"|"Iraq"|2011|29|28.4
+"IRL"|"Ireland"|||
+"ISR"|"Israel"|||
+"ITA"|"Italy"|||
+"JAM"|"Jamaica"|||100
+"JPN"|"Japan"|||
+"JOR"|"Jordan"|||88.3
+"KAZ"|"Kazakhstan"|"2010-11"|85|92
+"KEN"|"Kenya"|2009|93|97.6
+"KIR"|"Kiribati"|||
+"KWT"|"Kuwait"|||
+"KGZ"|"Kyrgyzstan"|2006|76|76.1
+"LAO"|"Lao People's Democratic Republic"|" "||83.8
+"LVA"|"Latvia"|||
+"LBN"|"Lebanon"|2009|71|92
+"LSO"|"Lesotho"|2009|79|84.4
+"LBR"|"Liberia"|||
+"LBY"|"Libya"|||90
+"LIE"|"Liechtenstein"|||
+"LTU"|"Lithuania"|||
+"LUX"|"Luxembourg"|||
+"MDG"|"Madagascar"|2009|50|52.6
+"MWI"|"Malawi"|2010|62|49.7
+"MYS"|"Malaysia"|||17.6
+"MDV"|"Maldives"|2001|44|44
+"MLI"|"Mali"|2006|74|78.9
+"MLT"|"Malta"|||
+"MHL"|"Marshall Islands"|||
+"MRT"|"Mauritania"|2010|7|22.6
+"MUS"|"Mauritius"|||0
+"MEX"|"Mexico"|2003|91|91
+"FSM"|"Micronesia (Federated States of)"|||
+"MCO"|"Monaco"|||
+"MNG"|"Mongolia"|2010|70|83.1
+"MNE"|"Montenegro"|2000|71|70.7
+"MAR"|"Morocco"|2006|21|21.2
+"MOZ"|"Mozambique"|2009|25|25.1
+"MMR"|"Myanmar"|2011|69|92.9
+"NAM"|"Namibia"|2000|57|62.9
+"NRU"|"Nauru"|||
+"NPL"|"Nepal"|2011|80|62.6
+"NLD"|"Netherlands"|||
+"NZL"|"New Zealand"|||83
+"NIC"|"Nicaragua"|"2002-2003"|97|96.8
+"NER"|"Niger"|2012|19|32
+"NGA"|"Nigeria"|2011|80|97.3
+"NIU"|"Niue"|||
+"NOR"|"Norway"|||
+"OMN"|"Oman"|||68.5
+"PAK"|"Pakistan"|2011|69|17
+"PLW"|"Palau"|||
+"PAN"|"Panama"|||94.6
+"PNG"|"Papua New Guinea"|2005|92|91.9
+"PRY"|"Paraguay"|2011|93|93
+"PER"|"Peru"|2012|88|91.2
+"PHL"|"Philippines"|2005|45|44.5
+"POL"|"Poland"|||
+"PRT"|"Portugal"|||
+"QAT"|"Qatar"|||
+"KOR"|"Republic of Korea"|||
+"MDA"|"Republic of Moldova"|2012|44|59.8
+"ROU"|"Romania"|2004|74|74
+"RUS"|"Russian Federation"|||35
+"RWA"|"Rwanda"|2005|87|87.8
+"KNA"|"Saint Kitts and Nevis"|||100
+"LCA"|"Saint Lucia"||46|46
+"VCT"|"Saint Vincent and the Grenadines"|||
+"WSM"|"Samoa"|||
+"SMR"|"San Marino"|||
+"STP"|"Sao Tome and Principe"|2009|65|85.6
+"SAU"|"Saudi Arabia"|||
+"SEN"|"Senegal"|2011|43|41.3
+"SRB"|"Serbia"|2007|32|32.2
+"SYC"|"Seychelles"|||
+"SLE"|"Sierra Leone"|2010|63|58.2
+"SGP"|"Singapore"|||
+"SVK"|"Slovakia"|||
+"SVN"|"Slovenia"|||
+"SLB"|"Solomon Islands"|||
+"SOM"|"Somalia"|2009|4|1.2
+"ZAF"|"South Africa"|||62.4
+"SSD"|"South Sudan"|2010|45|45
+"ESP"|"Spain"|||
+"LKA"|"Sri Lanka"|"2006-07"|92|92.4
+"PSE"|"State of Palestine"|2010|77|85.7
+"SDN"|"Sudan"|2010|10|11
+"SUR"|"Suriname"|||
+"SWZ"|"Swaziland"|2010|52|51.6
+"SWE"|"Sweden"|||
+"CHE"|"Switzerland"|||
+"SYR"|"Syrian Arab Republic"|2005|79|79.3
+"TJK"|"Tajikistan"|2012|39|61.9
+"THA"|"Thailand"|2012|71|47.2
+"MKD"|"The former Yugoslav Republic of Macedonia"|2005|94|94
+"TLS"|"Timor-Leste"|2007|60|59.9
+"TGO"|"Togo"|2010|32|31.6
+"TON"|"Tonga"|||
+"TTO"|"Trinidad and Tobago"|2006|28|27.8
+"TUN"|"Tunisia"|2000|97|96.65
+"TUR"|"Turkey"|2008|69|68.9
+"TKM"|"Turkmenistan"|2000|75|86.5
+"TUV"|"Tuvalu"|||
+"UGA"|"Uganda"|2006|87|95.8
+"UKR"|"Ukraine"|2012|21|18.3
+"ARE"|"United Arab Emirates"|||
+"GBR"|"United Kingdom"|||
+"TZA"|"United Republic of Tanzania"|2010|56|58.5
+"USA"|"United States"|||
+"URY"|"Uruguay"|||
+"UZB"|"Uzbekistan"|2006|53|53.1
+"VUT"|"Vanuatu"|2007|23|22.9
+"VEN"|"Venezuela (Bolivarian Republic of)"|||90
+"VNM"|"Viet Nam"|"2010-11"|45|93.2
+"YEM"|"Yemen"|2003|30|29.5
+"ZMB"|"Zambia"|2002|64|64
+"ZWE"|"Zimbabwe"|" "||90.9

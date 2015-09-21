@@ -1,0 +1,1912 @@
+"State Code"|"State Name"|"District Code"|"District Name"|"TRU"|"Water-in-premises"|"Water.out.premises"|"Unimproved.sanitation"|"Unsafe.drainage"
+"01"|"JAMMU & KASHMIR"|"001"|"Kupwara"|"Total"|21.3|78.7|75.8|96.2
+"01"|"JAMMU & KASHMIR"|"001"|"Kupwara"|"Rural"|19|81|78|96.4
+"01"|"JAMMU & KASHMIR"|"001"|"Kupwara"|"Urban"|43.9|56.1|53.8|94.7
+"01"|"JAMMU & KASHMIR"|"002"|"Badgam"|"Total"|51.8|48.2|64.2|86.5
+"01"|"JAMMU & KASHMIR"|"002"|"Badgam"|"Rural"|48.3|51.7|68.1|88.8
+"01"|"JAMMU & KASHMIR"|"002"|"Badgam"|"Urban"|74.4|25.6|37.8|71
+"01"|"JAMMU & KASHMIR"|"003"|"Leh(Ladakh)"|"Total"|14.6|85.4|24.1|91.2
+"01"|"JAMMU & KASHMIR"|"003"|"Leh(Ladakh)"|"Rural"|10.5|89.5|26.8|96.3
+"01"|"JAMMU & KASHMIR"|"003"|"Leh(Ladakh)"|"Urban"|24.2|75.8|17|79.3
+"01"|"JAMMU & KASHMIR"|"004"|"Kargil"|"Total"|10.8|89.2|37.5|86.2
+"01"|"JAMMU & KASHMIR"|"004"|"Kargil"|"Rural"|7.3|92.7|43.4|91
+"01"|"JAMMU & KASHMIR"|"004"|"Kargil"|"Urban"|30.1|69.9|5.2|59.1
+"01"|"JAMMU & KASHMIR"|"005"|"Punch"|"Total"|19.2|80.8|82.6|96.9
+"01"|"JAMMU & KASHMIR"|"005"|"Punch"|"Rural"|14.6|85.4|87.5|98
+"01"|"JAMMU & KASHMIR"|"005"|"Punch"|"Urban"|72|28|26.7|83.8
+"01"|"JAMMU & KASHMIR"|"006"|"Rajouri"|"Total"|15.2|84.8|86.6|97.4
+"01"|"JAMMU & KASHMIR"|"006"|"Rajouri"|"Rural"|11.5|88.5|90.2|98.3
+"01"|"JAMMU & KASHMIR"|"006"|"Rajouri"|"Urban"|78.1|21.9|25.5|83.2
+"01"|"JAMMU & KASHMIR"|"007"|"Kathua"|"Total"|44.1|55.9|78.8|94.9
+"01"|"JAMMU & KASHMIR"|"007"|"Kathua"|"Rural"|36.9|63.1|86.2|97.2
+"01"|"JAMMU & KASHMIR"|"007"|"Kathua"|"Urban"|85.6|14.4|36.8|81.2
+"01"|"JAMMU & KASHMIR"|"008"|"Baramula"|"Total"|53.6|46.4|58.6|86.3
+"01"|"JAMMU & KASHMIR"|"008"|"Baramula"|"Rural"|47.8|52.2|64.8|89.5
+"01"|"JAMMU & KASHMIR"|"008"|"Baramula"|"Urban"|80.6|19.4|30|71.5
+"01"|"JAMMU & KASHMIR"|"009"|"Bandipore"|"Total"|31.9|68.1|70.9|90.5
+"01"|"JAMMU & KASHMIR"|"009"|"Bandipore"|"Rural"|26.1|73.9|74.3|91
+"01"|"JAMMU & KASHMIR"|"009"|"Bandipore"|"Urban"|62.1|37.9|53.4|88.2
+"01"|"JAMMU & KASHMIR"|"010"|"Srinagar"|"Total"|93.9|6.1|26.6|53.1
+"01"|"JAMMU & KASHMIR"|"010"|"Srinagar"|"Rural"|71.4|28.6|42|82.6
+"01"|"JAMMU & KASHMIR"|"010"|"Srinagar"|"Urban"|94.2|5.8|26.4|52.6
+"01"|"JAMMU & KASHMIR"|"011"|"Ganderbal"|"Total"|58.7|41.3|65.7|86.1
+"01"|"JAMMU & KASHMIR"|"011"|"Ganderbal"|"Rural"|54.5|45.5|69.6|88.4
+"01"|"JAMMU & KASHMIR"|"011"|"Ganderbal"|"Urban"|81.8|18.2|44.1|73.7
+"01"|"JAMMU & KASHMIR"|"012"|"Pulwama"|"Total"|62.6|37.4|51.6|86.6
+"01"|"JAMMU & KASHMIR"|"012"|"Pulwama"|"Rural"|59|41|56.3|88.1
+"01"|"JAMMU & KASHMIR"|"012"|"Pulwama"|"Urban"|87.8|12.2|18.4|75.3
+"01"|"JAMMU & KASHMIR"|"013"|"Shupiyan"|"Total"|47.4|52.6|48.2|85.9
+"01"|"JAMMU & KASHMIR"|"013"|"Shupiyan"|"Rural"|44.5|55.5|50.3|87.4
+"01"|"JAMMU & KASHMIR"|"013"|"Shupiyan"|"Urban"|94.8|5.2|12.2|62.3
+"01"|"JAMMU & KASHMIR"|"014"|"Anantnag"|"Total"|49.8|50.2|64.6|90.6
+"01"|"JAMMU & KASHMIR"|"014"|"Anantnag"|"Rural"|41.7|58.3|69.6|92.7
+"01"|"JAMMU & KASHMIR"|"014"|"Anantnag"|"Urban"|76.4|23.6|48|83.7
+"01"|"JAMMU & KASHMIR"|"015"|"Kulgam"|"Total"|34|66|69.9|94
+"01"|"JAMMU & KASHMIR"|"015"|"Kulgam"|"Rural"|29.5|70.5|72.7|94.7
+"01"|"JAMMU & KASHMIR"|"015"|"Kulgam"|"Urban"|53.3|46.7|57.5|90.8
+"01"|"JAMMU & KASHMIR"|"016"|"Doda"|"Total"|31.9|68.1|74.2|92.3
+"01"|"JAMMU & KASHMIR"|"016"|"Doda"|"Rural"|27.2|72.8|78.4|95.1
+"01"|"JAMMU & KASHMIR"|"016"|"Doda"|"Urban"|88|12|22.8|58.6
+"01"|"JAMMU & KASHMIR"|"017"|"Ramban"|"Total"|23.8|76.2|81.1|95.8
+"01"|"JAMMU & KASHMIR"|"017"|"Ramban"|"Rural"|22|78|83.5|96.5
+"01"|"JAMMU & KASHMIR"|"017"|"Ramban"|"Urban"|71.1|28.9|19.2|77
+"01"|"JAMMU & KASHMIR"|"018"|"Kishtwar"|"Total"|24.4|75.6|83.6|94.1
+"01"|"JAMMU & KASHMIR"|"018"|"Kishtwar"|"Rural"|20.2|79.8|86.8|96.1
+"01"|"JAMMU & KASHMIR"|"018"|"Kishtwar"|"Urban"|93.7|6.3|30.8|59.4
+"01"|"JAMMU & KASHMIR"|"019"|"Udhampur"|"Total"|23.1|76.9|81.1|93.1
+"01"|"JAMMU & KASHMIR"|"019"|"Udhampur"|"Rural"|12|88|92.9|98.6
+"01"|"JAMMU & KASHMIR"|"019"|"Udhampur"|"Urban"|74.9|25.1|26.3|66.9
+"01"|"JAMMU & KASHMIR"|"020"|"Reasi"|"Total"|23.4|76.6|85.3|94.4
+"01"|"JAMMU & KASHMIR"|"020"|"Reasi"|"Rural"|18.3|81.7|91.2|98.4
+"01"|"JAMMU & KASHMIR"|"020"|"Reasi"|"Urban"|75.6|24.4|24.9|53.1
+"01"|"JAMMU & KASHMIR"|"021"|"Jammu"|"Total"|77.2|22.8|48.9|83.1
+"01"|"JAMMU & KASHMIR"|"021"|"Jammu"|"Rural"|64.8|35.2|76|96.5
+"01"|"JAMMU & KASHMIR"|"021"|"Jammu"|"Urban"|90.4|9.6|19.8|68.9
+"01"|"JAMMU & KASHMIR"|"022"|"Samba"|"Total"|68|32|68.3|94.2
+"01"|"JAMMU & KASHMIR"|"022"|"Samba"|"Rural"|65.6|34.4|74.2|95.6
+"01"|"JAMMU & KASHMIR"|"022"|"Samba"|"Urban"|81|19|34.8|86.5
+"02"|"HIMACHAL PRADESH"|"023"|"Chamba"|"Total"|35.5|64.5|49.9|85.5
+"02"|"HIMACHAL PRADESH"|"023"|"Chamba"|"Rural"|31.8|68.2|52.7|87.8
+"02"|"HIMACHAL PRADESH"|"023"|"Chamba"|"Urban"|82.7|17.3|13.5|55.7
+"02"|"HIMACHAL PRADESH"|"024"|"Kangra"|"Total"|59.6|40.4|35.8|84.4
+"02"|"HIMACHAL PRADESH"|"024"|"Kangra"|"Rural"|58.3|41.7|36.9|85.9
+"02"|"HIMACHAL PRADESH"|"024"|"Kangra"|"Urban"|81.1|18.9|18.1|62
+"02"|"HIMACHAL PRADESH"|"025"|"Lahul & Spiti"|"Total"|25.7|74.3|34|86.4
+"02"|"HIMACHAL PRADESH"|"025"|"Lahul & Spiti"|"Rural"|25.7|74.3|34|86.4
+"02"|"HIMACHAL PRADESH"|"026"|"Kullu"|"Total"|48.5|51.5|44.2|74.2
+"02"|"HIMACHAL PRADESH"|"026"|"Kullu"|"Rural"|43.5|56.5|48.8|80.2
+"02"|"HIMACHAL PRADESH"|"026"|"Kullu"|"Urban"|86.6|13.4|10.1|27.9
+"02"|"HIMACHAL PRADESH"|"027"|"Mandi"|"Total"|55.9|44.1|18|79.2
+"02"|"HIMACHAL PRADESH"|"027"|"Mandi"|"Rural"|53.2|46.8|18.8|83.4
+"02"|"HIMACHAL PRADESH"|"027"|"Mandi"|"Urban"|90.6|9.4|8.6|25.1
+"02"|"HIMACHAL PRADESH"|"028"|"Hamirpur"|"Total"|66.3|33.7|11.4|83.8
+"02"|"HIMACHAL PRADESH"|"028"|"Hamirpur"|"Rural"|64.9|35.1|11.6|86.1
+"02"|"HIMACHAL PRADESH"|"028"|"Hamirpur"|"Urban"|86|14|7.8|53.2
+"02"|"HIMACHAL PRADESH"|"029"|"Una"|"Total"|65.3|34.7|40.1|87.3
+"02"|"HIMACHAL PRADESH"|"029"|"Una"|"Rural"|63.7|36.3|41.6|88.5
+"02"|"HIMACHAL PRADESH"|"029"|"Una"|"Urban"|80.6|19.4|25.9|76.1
+"02"|"HIMACHAL PRADESH"|"030"|"Bilaspur"|"Total"|52.9|47.1|29.7|81
+"02"|"HIMACHAL PRADESH"|"030"|"Bilaspur"|"Rural"|50.2|49.8|31.3|84.8
+"02"|"HIMACHAL PRADESH"|"030"|"Bilaspur"|"Urban"|87.8|12.2|6.9|33.5
+"02"|"HIMACHAL PRADESH"|"031"|"Solan"|"Total"|60.7|39.3|27.2|58.5
+"02"|"HIMACHAL PRADESH"|"031"|"Solan"|"Rural"|54.2|45.8|31.5|64.8
+"02"|"HIMACHAL PRADESH"|"031"|"Solan"|"Urban"|84.7|15.3|10.7|34.8
+"02"|"HIMACHAL PRADESH"|"032"|"Sirmaur"|"Total"|40.8|59.2|40.1|69.6
+"02"|"HIMACHAL PRADESH"|"032"|"Sirmaur"|"Rural"|33.4|66.6|43.6|76.7
+"02"|"HIMACHAL PRADESH"|"032"|"Sirmaur"|"Urban"|89.8|10.2|17.1|22.5
+"02"|"HIMACHAL PRADESH"|"033"|"Shimla"|"Total"|56.5|43.5|33.2|47.6
+"02"|"HIMACHAL PRADESH"|"033"|"Shimla"|"Rural"|46.2|53.8|42.3|58.7
+"02"|"HIMACHAL PRADESH"|"033"|"Shimla"|"Urban"|83.2|16.8|9.5|18.6
+"02"|"HIMACHAL PRADESH"|"034"|"Kinnaur"|"Total"|60.2|39.8|36|65.7
+"02"|"HIMACHAL PRADESH"|"034"|"Kinnaur"|"Rural"|60.2|39.8|36|65.7
+"03"|"PUNJAB"|"035"|"Gurdaspur"|"Total"|91.2|8.8|42|83.8
+"03"|"PUNJAB"|"035"|"Gurdaspur"|"Rural"|90.9|9.1|51.4|91.7
+"03"|"PUNJAB"|"035"|"Gurdaspur"|"Urban"|92|8|17.8|63.6
+"03"|"PUNJAB"|"036"|"Kapurthala "|"Total"|88.1|11.9|17.6|68.2
+"03"|"PUNJAB"|"036"|"Kapurthala "|"Rural"|85.2|14.8|23.7|82.8
+"03"|"PUNJAB"|"036"|"Kapurthala "|"Urban"|93.3|6.7|6.3|41.5
+"03"|"PUNJAB"|"037"|"Jalandhar"|"Total"|90.1|9.9|14.4|55.2
+"03"|"PUNJAB"|"037"|"Jalandhar"|"Rural"|85.2|14.8|25.3|86.4
+"03"|"PUNJAB"|"037"|"Jalandhar"|"Urban"|94.4|5.6|4.8|27.6
+"03"|"PUNJAB"|"038"|"Hoshiarpur"|"Total"|84.6|15.4|36.9|85
+"03"|"PUNJAB"|"038"|"Hoshiarpur"|"Rural"|82.7|17.3|43.6|93.1
+"03"|"PUNJAB"|"038"|"Hoshiarpur"|"Urban"|91.6|8.4|11.9|55.3
+"03"|"PUNJAB"|"039"|"Shahid Bhagat Singh Nagar "|"Total"|87.2|12.8|30.1|84.8
+"03"|"PUNJAB"|"039"|"Shahid Bhagat Singh Nagar "|"Rural"|86.3|13.7|34|89.5
+"03"|"PUNJAB"|"039"|"Shahid Bhagat Singh Nagar "|"Urban"|90.6|9.4|15.7|66.6
+"03"|"PUNJAB"|"040"|"Fatehgarh Sahib"|"Total"|90.7|9.3|15|73.8
+"03"|"PUNJAB"|"040"|"Fatehgarh Sahib"|"Rural"|89.7|10.3|18.7|89
+"03"|"PUNJAB"|"040"|"Fatehgarh Sahib"|"Urban"|92.6|7.4|7.5|42.9
+"03"|"PUNJAB"|"041"|"Ludhiana"|"Total"|92.2|7.8|8.9|51.4
+"03"|"PUNJAB"|"041"|"Ludhiana"|"Rural"|88.5|11.5|16.3|86.7
+"03"|"PUNJAB"|"041"|"Ludhiana"|"Urban"|94.6|5.4|4.2|28.8
+"03"|"PUNJAB"|"042"|"Moga"|"Total"|79.4|20.6|20|82.7
+"03"|"PUNJAB"|"042"|"Moga"|"Rural"|76.6|23.4|23.7|91.5
+"03"|"PUNJAB"|"042"|"Moga"|"Urban"|88.4|11.6|7.6|54.9
+"03"|"PUNJAB"|"043"|"Firozpur"|"Total"|76.6|23.4|33.2|84.9
+"03"|"PUNJAB"|"043"|"Firozpur"|"Rural"|71.8|28.2|40.7|96
+"03"|"PUNJAB"|"043"|"Firozpur"|"Urban"|89.5|10.5|13.6|55.6
+"03"|"PUNJAB"|"044"|"Muktsar"|"Total"|72.8|27.2|33.5|81.9
+"03"|"PUNJAB"|"044"|"Muktsar"|"Rural"|66.6|33.4|41.6|93.6
+"03"|"PUNJAB"|"044"|"Muktsar"|"Urban"|88.2|11.8|13.5|52.9
+"03"|"PUNJAB"|"045"|"Faridkot"|"Total"|80.6|19.4|22.1|86.2
+"03"|"PUNJAB"|"045"|"Faridkot"|"Rural"|75.1|24.9|28.3|93.4
+"03"|"PUNJAB"|"045"|"Faridkot"|"Urban"|90.7|9.3|11|72.8
+"03"|"PUNJAB"|"046"|"Bathinda"|"Total"|79.5|20.5|28.9|78.3
+"03"|"PUNJAB"|"046"|"Bathinda"|"Rural"|74.5|25.5|38.2|93.1
+"03"|"PUNJAB"|"046"|"Bathinda"|"Urban"|88.5|11.5|12.2|51.7
+"03"|"PUNJAB"|"047"|"Mansa"|"Total"|73.6|26.4|44.4|90.5
+"03"|"PUNJAB"|"047"|"Mansa"|"Rural"|70|30|51.1|95.8
+"03"|"PUNJAB"|"047"|"Mansa"|"Urban"|86.7|13.3|20.8|70.8
+"03"|"PUNJAB"|"048"|"Patiala"|"Total"|84.9|15.1|16.6|66.3
+"03"|"PUNJAB"|"048"|"Patiala"|"Rural"|77.5|22.5|25.5|88
+"03"|"PUNJAB"|"048"|"Patiala"|"Urban"|94.9|5.1|4.4|36.3
+"03"|"PUNJAB"|"049"|"Amritsar "|"Total"|93.2|6.8|22.7|57
+"03"|"PUNJAB"|"049"|"Amritsar "|"Rural"|92.4|7.6|40.9|89.7
+"03"|"PUNJAB"|"049"|"Amritsar "|"Urban"|93.8|6.2|8.2|31.2
+"03"|"PUNJAB"|"050"|"Tarn Taran"|"Total"|89.9|10.1|34.8|85.7
+"03"|"PUNJAB"|"050"|"Tarn Taran"|"Rural"|89.2|10.8|38.1|91.5
+"03"|"PUNJAB"|"050"|"Tarn Taran"|"Urban"|94.3|5.7|12.9|46.9
+"03"|"PUNJAB"|"051"|"Rupnagar"|"Total"|81.1|18.9|34.1|80.1
+"03"|"PUNJAB"|"051"|"Rupnagar"|"Rural"|76.5|23.5|43.9|91.4
+"03"|"PUNJAB"|"051"|"Rupnagar"|"Urban"|92.9|7.1|8.8|50.7
+"03"|"PUNJAB"|"052"|"Sahibzada Ajit Singh Nagar"|"Total"|86.8|13.2|21.7|59.9
+"03"|"PUNJAB"|"052"|"Sahibzada Ajit Singh Nagar"|"Rural"|81|19|40.2|88.2
+"03"|"PUNJAB"|"052"|"Sahibzada Ajit Singh Nagar"|"Urban"|91|9|8.6|39.5
+"03"|"PUNJAB"|"053"|"Sangrur"|"Total"|81.4|18.6|21.8|84.6
+"03"|"PUNJAB"|"053"|"Sangrur"|"Rural"|76.9|23.1|27.2|92.7
+"03"|"PUNJAB"|"053"|"Sangrur"|"Urban"|91.3|8.7|10|67
+"03"|"PUNJAB"|"054"|"Barnala"|"Total"|84|16|29.2|87.8
+"03"|"PUNJAB"|"054"|"Barnala"|"Rural"|79.5|20.5|35.5|94
+"03"|"PUNJAB"|"054"|"Barnala"|"Urban"|93|7|16.2|75.3
+"04"|"CHANDIGARH"|"055"|"Chandigarh"|"Total"|86.1|13.9|12.5|12.7
+"04"|"CHANDIGARH"|"055"|"Chandigarh"|"Rural"|85.4|14.6|11.9|16.4
+"04"|"CHANDIGARH"|"055"|"Chandigarh"|"Urban"|86.2|13.8|12.6|12.7
+"05"|"UTTARAKHAND"|"056"|"Uttarkashi"|"Total"|42.9|57.1|56.7|85.7
+"05"|"UTTARAKHAND"|"056"|"Uttarkashi"|"Rural"|38.8|61.2|61|88.6
+"05"|"UTTARAKHAND"|"056"|"Uttarkashi"|"Urban"|89.2|10.8|8.9|52.8
+"05"|"UTTARAKHAND"|"057"|"Chamoli"|"Total"|37.1|62.9|47.6|92.7
+"05"|"UTTARAKHAND"|"057"|"Chamoli"|"Rural"|29.6|70.4|53.9|95.8
+"05"|"UTTARAKHAND"|"057"|"Chamoli"|"Urban"|79|21|13|75.7
+"05"|"UTTARAKHAND"|"058"|"Rudraprayag"|"Total"|30.2|69.8|47.8|90.2
+"05"|"UTTARAKHAND"|"058"|"Rudraprayag"|"Rural"|27.6|72.4|49.7|92
+"05"|"UTTARAKHAND"|"058"|"Rudraprayag"|"Urban"|84.6|15.4|8.5|53.6
+"05"|"UTTARAKHAND"|"059"|"Tehri Garhwal"|"Total"|32.2|67.8|44.5|82.5
+"05"|"UTTARAKHAND"|"059"|"Tehri Garhwal"|"Rural"|23.5|76.5|50.1|90.7
+"05"|"UTTARAKHAND"|"059"|"Tehri Garhwal"|"Urban"|94.1|5.9|4.1|23.8
+"05"|"UTTARAKHAND"|"060"|"Dehradun"|"Total"|81|19|14.5|58.5
+"05"|"UTTARAKHAND"|"060"|"Dehradun"|"Rural"|68|32|26|75
+"05"|"UTTARAKHAND"|"060"|"Dehradun"|"Urban"|90.6|9.4|5.9|46.4
+"05"|"UTTARAKHAND"|"061"|"Garhwal"|"Total"|36.2|63.8|45.3|87.8
+"05"|"UTTARAKHAND"|"061"|"Garhwal"|"Rural"|27|73|52.3|92.9
+"05"|"UTTARAKHAND"|"061"|"Garhwal"|"Urban"|87.4|12.6|5.9|59.7
+"05"|"UTTARAKHAND"|"062"|"Pithoragarh"|"Total"|41.8|58.2|45.5|88
+"05"|"UTTARAKHAND"|"062"|"Pithoragarh"|"Rural"|34.4|65.6|52.8|95.3
+"05"|"UTTARAKHAND"|"062"|"Pithoragarh"|"Urban"|84.3|15.7|3.9|45.1
+"05"|"UTTARAKHAND"|"063"|"Bageshwar"|"Total"|24.8|75.2|46.4|92.5
+"05"|"UTTARAKHAND"|"063"|"Bageshwar"|"Rural"|23.3|76.7|47.6|94.5
+"05"|"UTTARAKHAND"|"063"|"Bageshwar"|"Urban"|68.8|31.2|10|35
+"05"|"UTTARAKHAND"|"064"|"Almora
+"|"Total"|26.1|73.9|45.5|88.8
+"05"|"UTTARAKHAND"|"064"|"Almora
+"|"Rural"|20.3|79.7|49.3|93.8
+"05"|"UTTARAKHAND"|"064"|"Almora
+"|"Urban"|83.8|16.2|8.8|39.5
+"05"|"UTTARAKHAND"|"065"|"Champawat"|"Total"|36.6|63.4|54.4|93.2
+"05"|"UTTARAKHAND"|"065"|"Champawat"|"Rural"|29.4|70.6|60.4|95.3
+"05"|"UTTARAKHAND"|"065"|"Champawat"|"Urban"|77.1|22.9|20.9|81.6
+"05"|"UTTARAKHAND"|"066"|"Nainital"|"Total"|62.9|37.1|22.4|69.4
+"05"|"UTTARAKHAND"|"066"|"Nainital"|"Rural"|48.2|51.8|31.5|81.3
+"05"|"UTTARAKHAND"|"066"|"Nainital"|"Urban"|85|15|8.5|51.5
+"05"|"UTTARAKHAND"|"067"|"Udham Singh Nagar"|"Total"|81|19|33.1|90.7
+"05"|"UTTARAKHAND"|"067"|"Udham Singh Nagar"|"Rural"|76.1|23.9|45.4|94.1
+"05"|"UTTARAKHAND"|"067"|"Udham Singh Nagar"|"Urban"|89.9|10.1|9.9|84.4
+"05"|"UTTARAKHAND"|"068"|"Hardwar"|"Total"|75.8|24.2|35.6|81.5
+"05"|"UTTARAKHAND"|"068"|"Hardwar"|"Rural"|67.1|32.9|52.4|94.7
+"05"|"UTTARAKHAND"|"068"|"Hardwar"|"Urban"|89.7|10.3|8.6|60.8
+"06"|"HARYANA"|"069"|"Panchkula"|"Total"|74.6|25.4|30.1|55.4
+"06"|"HARYANA"|"069"|"Panchkula"|"Rural"|60.6|39.4|56.9|92.2
+"06"|"HARYANA"|"069"|"Panchkula"|"Urban"|83.4|16.6|13.1|32.2
+"06"|"HARYANA"|"070"|"Ambala"|"Total"|84.3|15.7|33.4|83.2
+"06"|"HARYANA"|"070"|"Ambala"|"Rural"|79.8|20.2|50.1|92
+"06"|"HARYANA"|"070"|"Ambala"|"Urban"|89.6|10.4|13.9|72.9
+"06"|"HARYANA"|"071"|"Yamunanagar"|"Total"|83.3|16.7|38.1|82.9
+"06"|"HARYANA"|"071"|"Yamunanagar"|"Rural"|77.5|22.5|55.4|94.9
+"06"|"HARYANA"|"071"|"Yamunanagar"|"Urban"|91.3|8.7|13.6|66
+"06"|"HARYANA"|"072"|"Kurukshetra"|"Total"|80.4|19.6|26.1|80.3
+"06"|"HARYANA"|"072"|"Kurukshetra"|"Rural"|75|25|32.8|93.6
+"06"|"HARYANA"|"072"|"Kurukshetra"|"Urban"|93.1|6.9|9.8|48.9
+"06"|"HARYANA"|"073"|"Kaithal"|"Total"|57.1|42.9|39.8|87.6
+"06"|"HARYANA"|"073"|"Kaithal"|"Rural"|49.4|50.6|44.3|95.5
+"06"|"HARYANA"|"073"|"Kaithal"|"Urban"|83.2|16.8|24.6|61.3
+"06"|"HARYANA"|"074"|"Karnal"|"Total"|79.1|20.9|26.9|79.5
+"06"|"HARYANA"|"074"|"Karnal"|"Rural"|73.4|26.6|34.1|95
+"06"|"HARYANA"|"074"|"Karnal"|"Urban"|91.4|8.6|11.8|46.4
+"06"|"HARYANA"|"075"|"Panipat"|"Total"|67.6|32.4|23.7|80.7
+"06"|"HARYANA"|"075"|"Panipat"|"Rural"|54.4|45.6|34.6|94.4
+"06"|"HARYANA"|"075"|"Panipat"|"Urban"|81.9|18.1|12.1|65.9
+"06"|"HARYANA"|"076"|"Sonipat"|"Total"|63.5|36.5|32.9|78.7
+"06"|"HARYANA"|"076"|"Sonipat"|"Rural"|51.8|48.2|44.6|95.9
+"06"|"HARYANA"|"076"|"Sonipat"|"Urban"|87.1|12.9|9.5|44.1
+"06"|"HARYANA"|"077"|"Jind"|"Total"|49|51|41.2|86.4
+"06"|"HARYANA"|"077"|"Jind"|"Rural"|38.6|61.4|49.5|96.8
+"06"|"HARYANA"|"077"|"Jind"|"Urban"|82.6|17.4|13.5|52.4
+"06"|"HARYANA"|"078"|"Fatehabad"|"Total"|69.8|30.2|38.8|85.9
+"06"|"HARYANA"|"078"|"Fatehabad"|"Rural"|65.1|34.9|45.7|95.7
+"06"|"HARYANA"|"078"|"Fatehabad"|"Urban"|88.8|11.2|11.4|46.1
+"06"|"HARYANA"|"079"|"Sirsa"|"Total"|81.8|18.2|35.8|77.6
+"06"|"HARYANA"|"079"|"Sirsa"|"Rural"|78.7|21.3|45.2|95.1
+"06"|"HARYANA"|"079"|"Sirsa"|"Urban"|91|9|8.8|26.7
+"06"|"HARYANA"|"080"|"Hisar"|"Total"|59.9|40.1|33.9|78
+"06"|"HARYANA"|"080"|"Hisar"|"Rural"|50.2|49.8|44.2|96.2
+"06"|"HARYANA"|"080"|"Hisar"|"Urban"|80.4|19.6|11.9|39.2
+"06"|"HARYANA"|"081"|"Bhiwani"|"Total"|53.2|46.8|43.8|88.1
+"06"|"HARYANA"|"081"|"Bhiwani"|"Rural"|46.1|53.9|51.5|96.3
+"06"|"HARYANA"|"081"|"Bhiwani"|"Urban"|81.1|18.9|13.9|56
+"06"|"HARYANA"|"082"|"Rohtak"|"Total"|67.4|32.6|27.8|70.3
+"06"|"HARYANA"|"082"|"Rohtak"|"Rural"|50.3|49.7|42.4|96.9
+"06"|"HARYANA"|"082"|"Rohtak"|"Urban"|90|10|8.4|35
+"06"|"HARYANA"|"083"|"Jhajjar"|"Total"|62.2|37.8|33.2|87.5
+"06"|"HARYANA"|"083"|"Jhajjar"|"Rural"|54.9|45.1|42.1|95.7
+"06"|"HARYANA"|"083"|"Jhajjar"|"Urban"|82.2|17.8|9|65
+"06"|"HARYANA"|"084"|"Mahendragarh"|"Total"|47.7|52.3|56.2|94.1
+"06"|"HARYANA"|"084"|"Mahendragarh"|"Rural"|43.9|56.1|61.4|96.7
+"06"|"HARYANA"|"084"|"Mahendragarh"|"Urban"|71.1|28.9|23.7|78
+"06"|"HARYANA"|"085"|"Rewari"|"Total"|67.8|32.2|41.1|87.6
+"06"|"HARYANA"|"085"|"Rewari"|"Rural"|61.2|38.8|50.7|96.1
+"06"|"HARYANA"|"085"|"Rewari"|"Urban"|87.2|12.8|12.9|62.6
+"06"|"HARYANA"|"086"|"Gurgaon"|"Total"|80.2|19.8|16.3|45.8
+"06"|"HARYANA"|"086"|"Gurgaon"|"Rural"|64.3|35.7|35.3|91.7
+"06"|"HARYANA"|"086"|"Gurgaon"|"Urban"|86.3|13.7|9.1|28.6
+"06"|"HARYANA"|"087"|"Mewat "|"Total"|23.4|76.6|77.7|97.7
+"06"|"HARYANA"|"087"|"Mewat "|"Rural"|17.3|82.7|83.4|98.7
+"06"|"HARYANA"|"087"|"Mewat "|"Urban"|66.2|33.8|39|90.9
+"06"|"HARYANA"|"088"|"Faridabad"|"Total"|71.9|28.1|19.1|62.5
+"06"|"HARYANA"|"088"|"Faridabad"|"Rural"|63.6|36.4|44.2|94.8
+"06"|"HARYANA"|"088"|"Faridabad"|"Urban"|73.6|26.4|13.9|55.8
+"06"|"HARYANA"|"089"|"Palwal "|"Total"|56.9|43.1|57.1|93.6
+"06"|"HARYANA"|"089"|"Palwal "|"Rural"|47.4|52.6|68.8|97.5
+"06"|"HARYANA"|"089"|"Palwal "|"Urban"|86.7|13.3|20.2|81.6
+"07"|"NCT OF DELHI"|"090"|"North West"|"Total"|70.8|29.2|16.1|45.2
+"07"|"NCT OF DELHI"|"090"|"North West"|"Rural"|58.1|41.9|37.5|88.7
+"07"|"NCT OF DELHI"|"090"|"North West"|"Urban"|71.6|28.4|14.7|42.6
+"07"|"NCT OF DELHI"|"091"|"North"|"Total"|74.7|25.3|10.4|32.9
+"07"|"NCT OF DELHI"|"091"|"North"|"Rural"|61.1|38.9|1.9|92
+"07"|"NCT OF DELHI"|"091"|"North"|"Urban"|74.9|25.1|10.4|31.8
+"07"|"NCT OF DELHI"|"092"|"North East"|"Total"|76.8|23.2|16.1|74
+"07"|"NCT OF DELHI"|"092"|"North East"|"Rural"|82|18|8.4|92.4
+"07"|"NCT OF DELHI"|"092"|"North East"|"Urban"|76.7|23.3|16.1|73.9
+"07"|"NCT OF DELHI"|"093"|"East"|"Total"|90.8|9.2|11.2|39.2
+"07"|"NCT OF DELHI"|"093"|"East"|"Rural"|99.8|0.2|2.1|1.9
+"07"|"NCT OF DELHI"|"093"|"East"|"Urban"|90.8|9.2|11.3|39.3
+"07"|"NCT OF DELHI"|"094"|"New Delhi"|"Total"|79|21|22.1|15.5
+"07"|"NCT OF DELHI"|"094"|"New Delhi"|"Urban"|79|21|22.1|15.5
+"07"|"NCT OF DELHI"|"095"|"Central"|"Total"|91.7|8.3|9.2|7
+"07"|"NCT OF DELHI"|"095"|"Central"|"Urban"|91.7|8.3|9.2|7
+"07"|"NCT OF DELHI"|"096"|"West"|"Total"|80.7|19.3|10.4|28.2
+"07"|"NCT OF DELHI"|"096"|"West"|"Rural"|23.3|76.7|12.9|92.6
+"07"|"NCT OF DELHI"|"096"|"West"|"Urban"|80.8|19.2|10.4|28.1
+"07"|"NCT OF DELHI"|"097"|"South West"|"Total"|80.7|19.3|9.6|34.8
+"07"|"NCT OF DELHI"|"097"|"South West"|"Rural"|70.6|29.4|12.9|86.8
+"07"|"NCT OF DELHI"|"097"|"South West"|"Urban"|81.3|18.7|9.4|31.7
+"07"|"NCT OF DELHI"|"098"|"South"|"Total"|76.1|23.9|12.7|40
+"07"|"NCT OF DELHI"|"098"|"South"|"Rural"|80.2|19.8|9.7|46.6
+"07"|"NCT OF DELHI"|"098"|"South"|"Urban"|76.1|23.9|12.7|39.9
+"08"|"RAJASTHAN"|"099"|"Ganganagar "|"Total"|63.3|36.7|51.6|95.5
+"08"|"RAJASTHAN"|"099"|"Ganganagar "|"Rural"|55.1|44.9|63.4|98
+"08"|"RAJASTHAN"|"099"|"Ganganagar "|"Urban"|84.7|15.3|21.3|88.9
+"08"|"RAJASTHAN"|"100"|"Hanumangarh "|"Total"|58.7|41.3|54|97.2
+"08"|"RAJASTHAN"|"100"|"Hanumangarh "|"Rural"|51.3|48.7|62.3|98.5
+"08"|"RAJASTHAN"|"100"|"Hanumangarh "|"Urban"|87.2|12.8|21.3|92.4
+"08"|"RAJASTHAN"|"101"|"Bikaner"|"Total"|51.8|48.2|57.3|88.7
+"08"|"RAJASTHAN"|"101"|"Bikaner"|"Rural"|31.4|68.6|76.9|98.6
+"08"|"RAJASTHAN"|"101"|"Bikaner"|"Urban"|88.8|11.2|22.1|70.7
+"08"|"RAJASTHAN"|"102"|"Churu "|"Total"|44.1|55.9|44.9|96.6
+"08"|"RAJASTHAN"|"102"|"Churu "|"Rural"|27.9|72.1|56.4|98.6
+"08"|"RAJASTHAN"|"102"|"Churu "|"Urban"|88.5|11.5|13.5|91.1
+"08"|"RAJASTHAN"|"103"|"Jhunjhunun"|"Total"|49.9|50.1|46.6|95.1
+"08"|"RAJASTHAN"|"103"|"Jhunjhunun"|"Rural"|42.3|57.7|54.5|96.7
+"08"|"RAJASTHAN"|"103"|"Jhunjhunun"|"Urban"|77.9|22.1|17.8|89.2
+"08"|"RAJASTHAN"|"104"|"Alwar"|"Total"|34.4|65.6|72.9|93.2
+"08"|"RAJASTHAN"|"104"|"Alwar"|"Rural"|23.6|76.4|85.4|97.7
+"08"|"RAJASTHAN"|"104"|"Alwar"|"Urban"|78.5|21.5|21.5|75.1
+"08"|"RAJASTHAN"|"105"|"Bharatpur "|"Total"|24.5|75.5|80|96.2
+"08"|"RAJASTHAN"|"105"|"Bharatpur "|"Rural"|13.6|86.4|92.5|98.4
+"08"|"RAJASTHAN"|"105"|"Bharatpur "|"Urban"|67.6|32.4|31.4|87.4
+"08"|"RAJASTHAN"|"106"|"Dhaulpur"|"Total"|21.1|78.9|84.2|95.2
+"08"|"RAJASTHAN"|"106"|"Dhaulpur"|"Rural"|11.2|88.8|95.5|97.7
+"08"|"RAJASTHAN"|"106"|"Dhaulpur"|"Urban"|60.3|39.7|39|85.2
+"08"|"RAJASTHAN"|"107"|"Karauli "|"Total"|19.3|80.7|84.8|97.7
+"08"|"RAJASTHAN"|"107"|"Karauli "|"Rural"|13.3|86.7|92|99
+"08"|"RAJASTHAN"|"107"|"Karauli "|"Urban"|55|45|40.5|89.7
+"08"|"RAJASTHAN"|"108"|"Sawai Madhopur "|"Total"|22.3|77.7|80.7|95.9
+"08"|"RAJASTHAN"|"108"|"Sawai Madhopur "|"Rural"|11.1|88.9|91.6|98.2
+"08"|"RAJASTHAN"|"108"|"Sawai Madhopur "|"Urban"|70.8|29.2|33.6|85.9
+"08"|"RAJASTHAN"|"109"|"Dausa "|"Total"|20.6|79.4|83.5|97.4
+"08"|"RAJASTHAN"|"109"|"Dausa "|"Rural"|13.4|86.6|91.1|98.4
+"08"|"RAJASTHAN"|"109"|"Dausa "|"Urban"|73.7|26.3|27.6|90.2
+"08"|"RAJASTHAN"|"110"|"Jaipur "|"Total"|55.5|44.5|40.1|64
+"08"|"RAJASTHAN"|"110"|"Jaipur "|"Rural"|23.6|76.4|78.5|97.1
+"08"|"RAJASTHAN"|"110"|"Jaipur "|"Urban"|80.5|19.5|10.3|38.1
+"08"|"RAJASTHAN"|"111"|"Sikar"|"Total"|47.7|52.3|50.7|93.8
+"08"|"RAJASTHAN"|"111"|"Sikar"|"Rural"|38.5|61.5|60.3|96.8
+"08"|"RAJASTHAN"|"111"|"Sikar"|"Urban"|80.1|19.9|16.7|83.2
+"08"|"RAJASTHAN"|"112"|"Nagaur"|"Total"|28.5|71.5|66.2|96.3
+"08"|"RAJASTHAN"|"112"|"Nagaur"|"Rural"|20.6|79.4|73.9|97.9
+"08"|"RAJASTHAN"|"112"|"Nagaur"|"Urban"|66.1|33.9|29.5|88.7
+"08"|"RAJASTHAN"|"113"|"Jodhpur"|"Total"|39.2|60.8|61.4|74.5
+"08"|"RAJASTHAN"|"113"|"Jodhpur"|"Rural"|15.4|84.6|86.7|96.5
+"08"|"RAJASTHAN"|"113"|"Jodhpur"|"Urban"|85.2|14.8|12.2|31.8
+"08"|"RAJASTHAN"|"114"|"Jaisalmer"|"Total"|13.8|86.2|77.1|96.9
+"08"|"RAJASTHAN"|"114"|"Jaisalmer"|"Rural"|6|94|83.6|98.6
+"08"|"RAJASTHAN"|"114"|"Jaisalmer"|"Urban"|64.4|35.6|34.4|85.7
+"08"|"RAJASTHAN"|"115"|"Barmer "|"Total"|12.7|87.3|86.9|97.7
+"08"|"RAJASTHAN"|"115"|"Barmer "|"Rural"|8.2|91.8|90.8|98.6
+"08"|"RAJASTHAN"|"115"|"Barmer "|"Urban"|71.5|28.5|37.7|86
+"08"|"RAJASTHAN"|"116"|"Jalor"|"Total"|35.4|64.6|85.9|97.1
+"08"|"RAJASTHAN"|"116"|"Jalor"|"Rural"|31.3|68.7|89|97.7
+"08"|"RAJASTHAN"|"116"|"Jalor"|"Urban"|81.8|18.2|51.8|89.7
+"08"|"RAJASTHAN"|"117"|"Sirohi"|"Total"|37.3|62.7|73.5|93.5
+"08"|"RAJASTHAN"|"117"|"Sirohi"|"Rural"|28.8|71.2|84|96.4
+"08"|"RAJASTHAN"|"117"|"Sirohi"|"Urban"|70.5|29.5|32.1|81.8
+"08"|"RAJASTHAN"|"118"|"Pali "|"Total"|35|65|74.4|93.5
+"08"|"RAJASTHAN"|"118"|"Pali "|"Rural"|25|75|81.5|95.6
+"08"|"RAJASTHAN"|"118"|"Pali "|"Urban"|74.1|25.9|46.1|85.2
+"08"|"RAJASTHAN"|"119"|"Ajmer"|"Total"|40.1|59.9|58.6|85.6
+"08"|"RAJASTHAN"|"119"|"Ajmer"|"Rural"|11.9|88.1|86.3|96.1
+"08"|"RAJASTHAN"|"119"|"Ajmer"|"Urban"|84.1|15.9|15.7|69.4
+"08"|"RAJASTHAN"|"120"|"Tonk "|"Total"|20.2|79.8|82.7|92.9
+"08"|"RAJASTHAN"|"120"|"Tonk "|"Rural"|8.5|91.5|93.5|96.2
+"08"|"RAJASTHAN"|"120"|"Tonk "|"Urban"|67|33|40|79.3
+"08"|"RAJASTHAN"|"121"|"Bundi "|"Total"|27.6|72.4|82.3|94.2
+"08"|"RAJASTHAN"|"121"|"Bundi "|"Rural"|16.6|83.4|92.1|96.6
+"08"|"RAJASTHAN"|"121"|"Bundi "|"Urban"|73.5|26.5|41.5|84.3
+"08"|"RAJASTHAN"|"122"|"Bhilwara"|"Total"|27.3|72.7|77.1|85.2
+"08"|"RAJASTHAN"|"122"|"Bhilwara"|"Rural"|17.5|82.5|90|92.5
+"08"|"RAJASTHAN"|"122"|"Bhilwara"|"Urban"|66.3|33.7|26.1|56.4
+"08"|"RAJASTHAN"|"123"|"Rajsamand"|"Total"|28.6|71.4|80.8|91
+"08"|"RAJASTHAN"|"123"|"Rajsamand"|"Rural"|21.2|78.8|89|94.4
+"08"|"RAJASTHAN"|"123"|"Rajsamand"|"Urban"|72.1|27.9|32.7|70.8
+"08"|"RAJASTHAN"|"124"|"Dungarpur "|"Total"|18.4|81.6|86.8|96.8
+"08"|"RAJASTHAN"|"124"|"Dungarpur "|"Rural"|14.8|85.2|91.1|98.5
+"08"|"RAJASTHAN"|"124"|"Dungarpur "|"Urban"|70.1|29.9|26.9|73.9
+"08"|"RAJASTHAN"|"125"|"Banswara "|"Total"|15.5|84.5|87.8|95.1
+"08"|"RAJASTHAN"|"125"|"Banswara "|"Rural"|10.5|89.5|93.3|98
+"08"|"RAJASTHAN"|"125"|"Banswara "|"Urban"|78.9|21.1|17.8|58.4
+"08"|"RAJASTHAN"|"126"|"Chittaurgarh "|"Total"|29.6|70.4|79.5|86.6
+"08"|"RAJASTHAN"|"126"|"Chittaurgarh "|"Rural"|20.9|79.1|90.5|91.3
+"08"|"RAJASTHAN"|"126"|"Chittaurgarh "|"Urban"|69.8|30.2|28.1|64.6
+"08"|"RAJASTHAN"|"127"|"Kota "|"Total"|58.1|41.9|51.5|74.9
+"08"|"RAJASTHAN"|"127"|"Kota "|"Rural"|22.4|77.6|88.2|95.1
+"08"|"RAJASTHAN"|"127"|"Kota "|"Urban"|81.3|18.7|27.7|61.8
+"08"|"RAJASTHAN"|"128"|"Baran "|"Total"|25.3|74.7|83.6|93.4
+"08"|"RAJASTHAN"|"128"|"Baran "|"Rural"|15.4|84.6|92.9|96.6
+"08"|"RAJASTHAN"|"128"|"Baran "|"Urban"|64.3|35.7|46.9|81.2
+"08"|"RAJASTHAN"|"129"|"Jhalawar"|"Total"|17.6|82.4|83.9|92.8
+"08"|"RAJASTHAN"|"129"|"Jhalawar"|"Rural"|8.3|91.7|93.1|96.3
+"08"|"RAJASTHAN"|"129"|"Jhalawar"|"Urban"|67.3|32.7|34.9|73.8
+"08"|"RAJASTHAN"|"130"|"Udaipur"|"Total"|26.1|73.9|75.8|90.2
+"08"|"RAJASTHAN"|"130"|"Udaipur"|"Rural"|12|88|91|97.5
+"08"|"RAJASTHAN"|"130"|"Udaipur"|"Urban"|83.9|16.1|14.1|60.5
+"08"|"RAJASTHAN"|"131"|"Pratapgarh "|"Total"|12.3|87.7|88.8|94.4
+"08"|"RAJASTHAN"|"131"|"Pratapgarh "|"Rural"|7.6|92.4|94.1|97.6
+"08"|"RAJASTHAN"|"131"|"Pratapgarh "|"Urban"|65.5|34.5|30.2|57.8
+"09"|"UTTAR PRADESH"|"132"|"Saharanpur"|"Total"|69.4|30.6|45.1|88.5
+"09"|"UTTAR PRADESH"|"132"|"Saharanpur"|"Rural"|59.7|40.3|60.4|94.1
+"09"|"UTTAR PRADESH"|"132"|"Saharanpur"|"Urban"|90.7|9.3|11.7|76.2
+"09"|"UTTAR PRADESH"|"133"|"Muzaffarnagar"|"Total"|70.2|29.8|37.9|90.7
+"09"|"UTTAR PRADESH"|"133"|"Muzaffarnagar"|"Rural"|62.9|37.1|49.2|94
+"09"|"UTTAR PRADESH"|"133"|"Muzaffarnagar"|"Urban"|87.7|12.3|11|82.7
+"09"|"UTTAR PRADESH"|"134"|"Bijnor"|"Total"|70.4|29.6|44.8|90.6
+"09"|"UTTAR PRADESH"|"134"|"Bijnor"|"Rural"|66.1|33.9|55|93.3
+"09"|"UTTAR PRADESH"|"134"|"Bijnor"|"Urban"|84.1|15.9|12.3|82
+"09"|"UTTAR PRADESH"|"135"|"Moradabad"|"Total"|82.9|17.1|47.3|89.2
+"09"|"UTTAR PRADESH"|"135"|"Moradabad"|"Rural"|78|22|64.3|94.8
+"09"|"UTTAR PRADESH"|"135"|"Moradabad"|"Urban"|92.8|7.2|13.5|78.1
+"09"|"UTTAR PRADESH"|"136"|"Rampur"|"Total"|86.7|13.3|43.1|89.5
+"09"|"UTTAR PRADESH"|"136"|"Rampur"|"Rural"|83.9|16.1|53.6|94.7
+"09"|"UTTAR PRADESH"|"136"|"Rampur"|"Urban"|94.8|5.2|13.1|74.8
+"09"|"UTTAR PRADESH"|"137"|"Jyotiba Phule Nagar"|"Total"|80.1|19.9|52.6|92.3
+"09"|"UTTAR PRADESH"|"137"|"Jyotiba Phule Nagar"|"Rural"|76.3|23.7|65.3|95.2
+"09"|"UTTAR PRADESH"|"137"|"Jyotiba Phule Nagar"|"Urban"|91.6|8.4|14.2|83.5
+"09"|"UTTAR PRADESH"|"138"|"Meerut"|"Total"|82.7|17.3|33|83.5
+"09"|"UTTAR PRADESH"|"138"|"Meerut"|"Rural"|73.9|26.1|51.7|95.4
+"09"|"UTTAR PRADESH"|"138"|"Meerut"|"Urban"|90.5|9.5|16.3|72.9
+"09"|"UTTAR PRADESH"|"139"|"Baghpat"|"Total"|46.7|53.3|37.4|92
+"09"|"UTTAR PRADESH"|"139"|"Baghpat"|"Rural"|40.8|59.2|43.1|94.9
+"09"|"UTTAR PRADESH"|"139"|"Baghpat"|"Urban"|68.4|31.6|16.5|81.3
+"09"|"UTTAR PRADESH"|"140"|"Ghaziabad"|"Total"|81.9|18.1|18.3|71.8
+"09"|"UTTAR PRADESH"|"140"|"Ghaziabad"|"Rural"|79.5|20.5|44.1|93.9
+"09"|"UTTAR PRADESH"|"140"|"Ghaziabad"|"Urban"|82.9|17.1|7.6|62.6
+"09"|"UTTAR PRADESH"|"141"|"Gautam Buddha Nagar"|"Total"|84.4|15.6|23.8|62.3
+"09"|"UTTAR PRADESH"|"141"|"Gautam Buddha Nagar"|"Rural"|78.6|21.4|50.2|91.2
+"09"|"UTTAR PRADESH"|"141"|"Gautam Buddha Nagar"|"Urban"|87.4|12.6|10|47.1
+"09"|"UTTAR PRADESH"|"142"|"Bulandshahr "|"Total"|77.4|22.6|58.9|93.3
+"09"|"UTTAR PRADESH"|"142"|"Bulandshahr "|"Rural"|73.4|26.6|71.5|96.2
+"09"|"UTTAR PRADESH"|"142"|"Bulandshahr "|"Urban"|89.3|10.7|19.8|84.4
+"09"|"UTTAR PRADESH"|"143"|"Aligarh"|"Total"|61.9|38.1|60.1|92.2
+"09"|"UTTAR PRADESH"|"143"|"Aligarh"|"Rural"|55.6|44.4|79.9|95.7
+"09"|"UTTAR PRADESH"|"143"|"Aligarh"|"Urban"|74.7|25.3|19.6|85.2
+"09"|"UTTAR PRADESH"|"144"|"Mahamaya Nagar"|"Total"|46.1|53.9|73.2|93.4
+"09"|"UTTAR PRADESH"|"144"|"Mahamaya Nagar"|"Rural"|38.5|61.5|84.4|96.2
+"09"|"UTTAR PRADESH"|"144"|"Mahamaya Nagar"|"Urban"|74.3|25.7|30.7|83.1
+"09"|"UTTAR PRADESH"|"145"|"Mathura"|"Total"|47.2|52.8|64.7|91.8
+"09"|"UTTAR PRADESH"|"145"|"Mathura"|"Rural"|36|64|81.2|96.2
+"09"|"UTTAR PRADESH"|"145"|"Mathura"|"Urban"|74.4|25.6|24.7|81.2
+"09"|"UTTAR PRADESH"|"146"|"Agra"|"Total"|45.7|54.3|56|83.9
+"09"|"UTTAR PRADESH"|"146"|"Agra"|"Rural"|22.8|77.2|84.5|95.3
+"09"|"UTTAR PRADESH"|"146"|"Agra"|"Urban"|73.1|26.9|21.7|70.2
+"09"|"UTTAR PRADESH"|"147"|"Firozabad"|"Total"|33.4|66.6|66.1|92.3
+"09"|"UTTAR PRADESH"|"147"|"Firozabad"|"Rural"|20.6|79.4|89.3|95.8
+"09"|"UTTAR PRADESH"|"147"|"Firozabad"|"Urban"|58.2|41.8|20.9|85.5
+"09"|"UTTAR PRADESH"|"148"|"Mainpuri"|"Total"|41.3|58.7|78.1|92.8
+"09"|"UTTAR PRADESH"|"148"|"Mainpuri"|"Rural"|35.3|64.7|87.6|95.1
+"09"|"UTTAR PRADESH"|"148"|"Mainpuri"|"Urban"|73.5|26.5|27|80.8
+"09"|"UTTAR PRADESH"|"149"|"Budaun"|"Total"|71|29|77.4|96
+"09"|"UTTAR PRADESH"|"149"|"Budaun"|"Rural"|67.7|32.3|85.9|97.5
+"09"|"UTTAR PRADESH"|"149"|"Budaun"|"Urban"|86.2|13.8|38.4|89
+"09"|"UTTAR PRADESH"|"150"|"Bareilly"|"Total"|86.6|13.4|43.8|86.4
+"09"|"UTTAR PRADESH"|"150"|"Bareilly"|"Rural"|82|18|61|94.4
+"09"|"UTTAR PRADESH"|"150"|"Bareilly"|"Urban"|94.8|5.2|13.4|72.4
+"09"|"UTTAR PRADESH"|"151"|"Pilibhit"|"Total"|82.6|17.4|58.8|91.7
+"09"|"UTTAR PRADESH"|"151"|"Pilibhit"|"Rural"|80|20|68.2|95.1
+"09"|"UTTAR PRADESH"|"151"|"Pilibhit"|"Urban"|94.8|5.2|15.7|76
+"09"|"UTTAR PRADESH"|"152"|"Shahjahanpur"|"Total"|71.1|28.9|66.6|91.5
+"09"|"UTTAR PRADESH"|"152"|"Shahjahanpur"|"Rural"|66.6|33.4|76.2|94.7
+"09"|"UTTAR PRADESH"|"152"|"Shahjahanpur"|"Urban"|90.1|9.9|26.1|78.2
+"09"|"UTTAR PRADESH"|"153"|"Kheri"|"Total"|61|39|76.9|95.7
+"09"|"UTTAR PRADESH"|"153"|"Kheri"|"Rural"|57.9|42.1|83.3|96.6
+"09"|"UTTAR PRADESH"|"153"|"Kheri"|"Urban"|85.3|14.7|26.2|88.4
+"09"|"UTTAR PRADESH"|"154"|"Sitapur"|"Total"|44.2|55.8|83.4|92.8
+"09"|"UTTAR PRADESH"|"154"|"Sitapur"|"Rural"|40.1|59.9|89.7|94.9
+"09"|"UTTAR PRADESH"|"154"|"Sitapur"|"Urban"|79|21|30.5|75.2
+"09"|"UTTAR PRADESH"|"155"|"Hardoi"|"Total"|50.9|49.1|78.6|92.4
+"09"|"UTTAR PRADESH"|"155"|"Hardoi"|"Rural"|47.4|52.6|84.9|94.1
+"09"|"UTTAR PRADESH"|"155"|"Hardoi"|"Urban"|75.8|24.2|34.7|80.7
+"09"|"UTTAR PRADESH"|"156"|"Unnao"|"Total"|37.1|62.9|76.6|86.5
+"09"|"UTTAR PRADESH"|"156"|"Unnao"|"Rural"|30.9|69.1|85.4|88.6
+"09"|"UTTAR PRADESH"|"156"|"Unnao"|"Urban"|69.4|30.6|30.8|76.3
+"09"|"UTTAR PRADESH"|"157"|"Lucknow"|"Total"|61.2|38.8|35.7|65.4
+"09"|"UTTAR PRADESH"|"157"|"Lucknow"|"Rural"|22.7|77.3|79.9|88.7
+"09"|"UTTAR PRADESH"|"157"|"Lucknow"|"Urban"|80.5|19.5|13.7|53.7
+"09"|"UTTAR PRADESH"|"158"|"Rae Bareli"|"Total"|28.1|71.9|82.9|91
+"09"|"UTTAR PRADESH"|"158"|"Rae Bareli"|"Rural"|25|75|87.8|93.3
+"09"|"UTTAR PRADESH"|"158"|"Rae Bareli"|"Urban"|62.3|37.7|29.9|67.5
+"09"|"UTTAR PRADESH"|"159"|"Farrukhabad"|"Total"|35.2|64.8|67|87.6
+"09"|"UTTAR PRADESH"|"159"|"Farrukhabad"|"Rural"|30.8|69.2|79.2|92
+"09"|"UTTAR PRADESH"|"159"|"Farrukhabad"|"Urban"|50.4|49.6|24.1|72.4
+"09"|"UTTAR PRADESH"|"160"|"Kannauj"|"Total"|25.9|74.1|71.9|89.7
+"09"|"UTTAR PRADESH"|"160"|"Kannauj"|"Rural"|19.9|80.1|80.7|93
+"09"|"UTTAR PRADESH"|"160"|"Kannauj"|"Urban"|55.9|44.1|27.3|73.3
+"09"|"UTTAR PRADESH"|"161"|"Etawah"|"Total"|33.5|66.5|67.8|89.3
+"09"|"UTTAR PRADESH"|"161"|"Etawah"|"Rural"|22.1|77.9|81.3|91.7
+"09"|"UTTAR PRADESH"|"161"|"Etawah"|"Urban"|73.1|26.9|20.7|80.6
+"09"|"UTTAR PRADESH"|"162"|"Auraiya"|"Total"|34.5|65.5|72.1|91.2
+"09"|"UTTAR PRADESH"|"162"|"Auraiya"|"Rural"|27.9|72.1|81.2|93.2
+"09"|"UTTAR PRADESH"|"162"|"Auraiya"|"Urban"|68|32|25.6|80.8
+"09"|"UTTAR PRADESH"|"163"|"Kanpur Dehat"|"Total"|26|74|74.3|90.6
+"09"|"UTTAR PRADESH"|"163"|"Kanpur Dehat"|"Rural"|21.9|78.1|78.3|91.9
+"09"|"UTTAR PRADESH"|"163"|"Kanpur Dehat"|"Urban"|66.9|33.1|34.4|78.4
+"09"|"UTTAR PRADESH"|"164"|"Kanpur Nagar"|"Total"|50.6|49.4|38.1|58.7
+"09"|"UTTAR PRADESH"|"164"|"Kanpur Nagar"|"Rural"|18.9|81.1|77.7|87.1
+"09"|"UTTAR PRADESH"|"164"|"Kanpur Nagar"|"Urban"|68.1|31.9|16.5|42.9
+"09"|"UTTAR PRADESH"|"165"|"Jalaun "|"Total"|37.6|62.4|61.8|86.7
+"09"|"UTTAR PRADESH"|"165"|"Jalaun "|"Rural"|26.6|73.4|73.6|86.5
+"09"|"UTTAR PRADESH"|"165"|"Jalaun "|"Urban"|71.3|28.7|25.5|87.4
+"09"|"UTTAR PRADESH"|"166"|"Jhansi"|"Total"|37.8|62.2|60.3|85.7
+"09"|"UTTAR PRADESH"|"166"|"Jhansi"|"Rural"|20.1|79.9|80.4|90.7
+"09"|"UTTAR PRADESH"|"166"|"Jhansi"|"Urban"|64.4|35.6|30.2|78.2
+"09"|"UTTAR PRADESH"|"167"|"Lalitpur"|"Total"|17|83|81.7|92.7
+"09"|"UTTAR PRADESH"|"167"|"Lalitpur"|"Rural"|10.3|89.7|89.2|94.3
+"09"|"UTTAR PRADESH"|"167"|"Lalitpur"|"Urban"|56.7|43.3|37.6|82.7
+"09"|"UTTAR PRADESH"|"168"|"Hamirpur"|"Total"|22.5|77.5|68.6|91.5
+"09"|"UTTAR PRADESH"|"168"|"Hamirpur"|"Rural"|13.2|86.8|76.4|93.7
+"09"|"UTTAR PRADESH"|"168"|"Hamirpur"|"Urban"|65|35|32.6|81.6
+"09"|"UTTAR PRADESH"|"169"|"Mahoba"|"Total"|12.2|87.8|75.3|92.9
+"09"|"UTTAR PRADESH"|"169"|"Mahoba"|"Rural"|7|93|83|94.9
+"09"|"UTTAR PRADESH"|"169"|"Mahoba"|"Urban"|32.1|67.9|46.2|85.3
+"09"|"UTTAR PRADESH"|"170"|"Banda"|"Total"|20.9|79.1|73.3|89.6
+"09"|"UTTAR PRADESH"|"170"|"Banda"|"Rural"|13.3|86.7|81.3|93.1
+"09"|"UTTAR PRADESH"|"170"|"Banda"|"Urban"|62.8|37.2|29.1|70.1
+"09"|"UTTAR PRADESH"|"171"|"Chitrakoot"|"Total"|15.7|84.3|84.2|89.6
+"09"|"UTTAR PRADESH"|"171"|"Chitrakoot"|"Rural"|11.4|88.6|88.9|91.4
+"09"|"UTTAR PRADESH"|"171"|"Chitrakoot"|"Urban"|54.5|45.5|42|72.5
+"09"|"UTTAR PRADESH"|"172"|"Fatehpur"|"Total"|18.7|81.3|76.5|90.5
+"09"|"UTTAR PRADESH"|"172"|"Fatehpur"|"Rural"|12.5|87.5|82.9|91.6
+"09"|"UTTAR PRADESH"|"172"|"Fatehpur"|"Urban"|65|35|29.8|82.8
+"09"|"UTTAR PRADESH"|"173"|"Pratapgarh"|"Total"|29.1|70.9|87.1|94.9
+"09"|"UTTAR PRADESH"|"173"|"Pratapgarh"|"Rural"|27.3|72.7|89.7|95.9
+"09"|"UTTAR PRADESH"|"173"|"Pratapgarh"|"Urban"|61.3|38.7|36.7|76.2
+"09"|"UTTAR PRADESH"|"174"|"Kaushambi"|"Total"|12.2|87.8|84.7|89.8
+"09"|"UTTAR PRADESH"|"174"|"Kaushambi"|"Rural"|9.6|90.4|87.5|90.6
+"09"|"UTTAR PRADESH"|"174"|"Kaushambi"|"Urban"|42.5|57.5|50.8|79.6
+"09"|"UTTAR PRADESH"|"175"|"Allahabad "|"Total"|35.9|64.1|70.4|85.5
+"09"|"UTTAR PRADESH"|"175"|"Allahabad "|"Rural"|23.1|76.9|85.8|95.2
+"09"|"UTTAR PRADESH"|"175"|"Allahabad "|"Urban"|80.2|19.8|17.5|52.4
+"09"|"UTTAR PRADESH"|"176"|"Bara Banki"|"Total"|46.6|53.4|83.3|87.8
+"09"|"UTTAR PRADESH"|"176"|"Bara Banki"|"Rural"|43.4|56.6|88.3|89.9
+"09"|"UTTAR PRADESH"|"176"|"Bara Banki"|"Urban"|77.1|22.9|34.1|68.4
+"09"|"UTTAR PRADESH"|"177"|"Faizabad"|"Total"|55|45|78.1|85.7
+"09"|"UTTAR PRADESH"|"177"|"Faizabad"|"Rural"|50.7|49.3|86.5|89.3
+"09"|"UTTAR PRADESH"|"177"|"Faizabad"|"Urban"|82.9|17.1|24.6|62.2
+"09"|"UTTAR PRADESH"|"178"|"Ambedkar Nagar"|"Total"|48|52|82.8|91
+"09"|"UTTAR PRADESH"|"178"|"Ambedkar Nagar"|"Rural"|44.7|55.3|87.3|92.5
+"09"|"UTTAR PRADESH"|"178"|"Ambedkar Nagar"|"Urban"|72.9|27.1|49.1|80.1
+"09"|"UTTAR PRADESH"|"179"|"Sultanpur"|"Total"|36.2|63.8|84.9|92.2
+"09"|"UTTAR PRADESH"|"179"|"Sultanpur"|"Rural"|34.2|65.8|88|94.2
+"09"|"UTTAR PRADESH"|"179"|"Sultanpur"|"Urban"|72.5|27.5|28.3|55.2
+"09"|"UTTAR PRADESH"|"180"|"Bahraich"|"Total"|54.9|45.1|85.2|95.4
+"09"|"UTTAR PRADESH"|"180"|"Bahraich"|"Rural"|52.1|47.9|90.3|96.8
+"09"|"UTTAR PRADESH"|"180"|"Bahraich"|"Urban"|89|11|23.5|78.6
+"09"|"UTTAR PRADESH"|"181"|"Shrawasti"|"Total"|51.9|48.1|89.1|97.2
+"09"|"UTTAR PRADESH"|"181"|"Shrawasti"|"Rural"|51|49|90.8|97.9
+"09"|"UTTAR PRADESH"|"181"|"Shrawasti"|"Urban"|77.6|22.4|38.2|74.1
+"09"|"UTTAR PRADESH"|"182"|"Balrampur"|"Total"|59.6|40.4|85.8|94.7
+"09"|"UTTAR PRADESH"|"182"|"Balrampur"|"Rural"|57.2|42.8|90.5|96.3
+"09"|"UTTAR PRADESH"|"182"|"Balrampur"|"Urban"|87.3|12.7|30|75.9
+"09"|"UTTAR PRADESH"|"183"|"Gonda"|"Total"|53.8|46.2|88.4|93.1
+"09"|"UTTAR PRADESH"|"183"|"Gonda"|"Rural"|51.3|48.7|92.7|94.7
+"09"|"UTTAR PRADESH"|"183"|"Gonda"|"Urban"|89.3|10.7|25.1|69.7
+"09"|"UTTAR PRADESH"|"184"|"Siddharthnagar"|"Total"|46.2|53.8|88|94.1
+"09"|"UTTAR PRADESH"|"184"|"Siddharthnagar"|"Rural"|44.9|55.1|90.3|95.2
+"09"|"UTTAR PRADESH"|"184"|"Siddharthnagar"|"Urban"|66.1|33.9|54.7|77
+"09"|"UTTAR PRADESH"|"185"|"Basti"|"Total"|50.9|49.1|84.5|91.7
+"09"|"UTTAR PRADESH"|"185"|"Basti"|"Rural"|49.2|50.8|87.9|93
+"09"|"UTTAR PRADESH"|"185"|"Basti"|"Urban"|80.8|19.2|29.7|68
+"09"|"UTTAR PRADESH"|"186"|"Sant Kabir Nagar"|"Total"|50.4|49.6|86.2|91.7
+"09"|"UTTAR PRADESH"|"186"|"Sant Kabir Nagar"|"Rural"|48.9|51.1|88.7|92.5
+"09"|"UTTAR PRADESH"|"186"|"Sant Kabir Nagar"|"Urban"|70|30|52|82.2
+"09"|"UTTAR PRADESH"|"187"|"Mahrajganj"|"Total"|47.2|52.8|82.5|92.8
+"09"|"UTTAR PRADESH"|"187"|"Mahrajganj"|"Rural"|45.5|54.5|84.8|93.4
+"09"|"UTTAR PRADESH"|"187"|"Mahrajganj"|"Urban"|78.1|21.9|42.4|82.5
+"09"|"UTTAR PRADESH"|"188"|"Gorakhpur"|"Total"|56.2|43.8|70.3|86.3
+"09"|"UTTAR PRADESH"|"188"|"Gorakhpur"|"Rural"|48.8|51.2|82.5|89.9
+"09"|"UTTAR PRADESH"|"188"|"Gorakhpur"|"Urban"|86.3|13.7|20.7|71.4
+"09"|"UTTAR PRADESH"|"189"|"Kushinagar"|"Total"|54.3|45.7|83.9|94.6
+"09"|"UTTAR PRADESH"|"189"|"Kushinagar"|"Rural"|52.9|47.1|86.2|95.3
+"09"|"UTTAR PRADESH"|"189"|"Kushinagar"|"Urban"|83.3|16.7|38.1|81.4
+"09"|"UTTAR PRADESH"|"190"|"Deoria"|"Total"|58.1|41.9|79.7|88.1
+"09"|"UTTAR PRADESH"|"190"|"Deoria"|"Rural"|55.4|44.6|84.1|89.7
+"09"|"UTTAR PRADESH"|"190"|"Deoria"|"Urban"|83.7|16.3|38.8|72.8
+"09"|"UTTAR PRADESH"|"191"|"Azamgarh"|"Total"|47.9|52.1|80.6|78.4
+"09"|"UTTAR PRADESH"|"191"|"Azamgarh"|"Rural"|45.3|54.7|84.3|81.6
+"09"|"UTTAR PRADESH"|"191"|"Azamgarh"|"Urban"|78.1|21.9|37|40.9
+"09"|"UTTAR PRADESH"|"192"|"Mau"|"Total"|58.3|41.7|73.7|73.2
+"09"|"UTTAR PRADESH"|"192"|"Mau"|"Rural"|51.9|48.1|83.4|79.8
+"09"|"UTTAR PRADESH"|"192"|"Mau"|"Urban"|82|18|37.6|49
+"09"|"UTTAR PRADESH"|"193"|"Ballia"|"Total"|63.4|36.6|75.4|80.8
+"09"|"UTTAR PRADESH"|"193"|"Ballia"|"Rural"|61.7|38.3|78.9|82.8
+"09"|"UTTAR PRADESH"|"193"|"Ballia"|"Urban"|80|20|40.9|62.2
+"09"|"UTTAR PRADESH"|"194"|"Jaunpur"|"Total"|35.7|64.3|81.6|89.6
+"09"|"UTTAR PRADESH"|"194"|"Jaunpur"|"Rural"|33|67|85.9|91.9
+"09"|"UTTAR PRADESH"|"194"|"Jaunpur"|"Urban"|69|31|30.4|62.2
+"09"|"UTTAR PRADESH"|"195"|"Ghazipur"|"Total"|40.8|59.2|79|88.5
+"09"|"UTTAR PRADESH"|"195"|"Ghazipur"|"Rural"|38.2|61.8|82.5|90.5
+"09"|"UTTAR PRADESH"|"195"|"Ghazipur"|"Urban"|72.9|27.1|36|64
+"09"|"UTTAR PRADESH"|"196"|"Chandauli"|"Total"|35|65|75.8|81.6
+"09"|"UTTAR PRADESH"|"196"|"Chandauli"|"Rural"|29.4|70.6|82.2|82
+"09"|"UTTAR PRADESH"|"196"|"Chandauli"|"Urban"|72.3|27.7|32.8|78.7
+"09"|"UTTAR PRADESH"|"197"|"Varanasi"|"Total"|51.4|48.6|46.9|58.5
+"09"|"UTTAR PRADESH"|"197"|"Varanasi"|"Rural"|28.3|71.7|74.1|86.5
+"09"|"UTTAR PRADESH"|"197"|"Varanasi"|"Urban"|80.3|19.7|12.6|23.3
+"09"|"UTTAR PRADESH"|"198"|"Sant Ravidas Nagar (Bhadohi)"|"Total"|27.6|72.4|82.2|88.6
+"09"|"UTTAR PRADESH"|"198"|"Sant Ravidas Nagar (Bhadohi)"|"Rural"|24|76|88.3|93.8
+"09"|"UTTAR PRADESH"|"198"|"Sant Ravidas Nagar (Bhadohi)"|"Urban"|49|51|46.5|57
+"09"|"UTTAR PRADESH"|"199"|"Mirzapur"|"Total"|25.1|74.9|75.3|81.4
+"09"|"UTTAR PRADESH"|"199"|"Mirzapur"|"Rural"|19.8|80.2|82.2|86.7
+"09"|"UTTAR PRADESH"|"199"|"Mirzapur"|"Urban"|57|43|34|49.1
+"09"|"UTTAR PRADESH"|"200"|"Sonbhadra"|"Total"|22|78|77.6|90.5
+"09"|"UTTAR PRADESH"|"200"|"Sonbhadra"|"Rural"|12.2|87.8|88.2|97.5
+"09"|"UTTAR PRADESH"|"200"|"Sonbhadra"|"Urban"|65.9|34.1|30|59.2
+"09"|"UTTAR PRADESH"|"201"|"Etah"|"Total"|41.4|58.6|81.5|94.6
+"09"|"UTTAR PRADESH"|"201"|"Etah"|"Rural"|35.9|64.1|91.8|97.1
+"09"|"UTTAR PRADESH"|"201"|"Etah"|"Urban"|71.2|28.8|24.8|81
+"09"|"UTTAR PRADESH"|"202"|"Kanshiram Nagar"|"Total"|67.2|32.8|79.6|94.3
+"09"|"UTTAR PRADESH"|"202"|"Kanshiram Nagar"|"Rural"|63.5|36.5|91|96.5
+"09"|"UTTAR PRADESH"|"202"|"Kanshiram Nagar"|"Urban"|82.6|17.4|32.7|85.1
+"10"|"BIHAR"|"203"|"Pashchim Champaran"|"Total"|52.1|47.9|84.9|97.5
+"10"|"BIHAR"|"203"|"Pashchim Champaran"|"Rural"|49.2|50.8|89.2|98.6
+"10"|"BIHAR"|"203"|"Pashchim Champaran"|"Urban"|77.3|22.7|47.8|88.2
+"10"|"BIHAR"|"204"|"Purba Champaran"|"Total"|47.8|52.2|82.3|96.2
+"10"|"BIHAR"|"204"|"Purba Champaran"|"Rural"|46.1|53.9|85.1|97.2
+"10"|"BIHAR"|"204"|"Purba Champaran"|"Urban"|69.4|30.6|47.1|83.9
+"10"|"BIHAR"|"205"|"Sheohar"|"Total"|38.9|61.1|80.8|97.1
+"10"|"BIHAR"|"205"|"Sheohar"|"Rural"|38.3|61.7|81.6|97.7
+"10"|"BIHAR"|"205"|"Sheohar"|"Urban"|54.2|45.8|63.6|84.8
+"10"|"BIHAR"|"206"|"Sitamarhi"|"Total"|34.3|65.7|80.2|96.3
+"10"|"BIHAR"|"206"|"Sitamarhi"|"Rural"|32.5|67.5|82.3|97.1
+"10"|"BIHAR"|"206"|"Sitamarhi"|"Urban"|69.9|30.1|41.1|79.7
+"10"|"BIHAR"|"207"|"Madhubani"|"Total"|38.4|61.6|82.5|97.7
+"10"|"BIHAR"|"207"|"Madhubani"|"Rural"|37.7|62.3|83.9|98.1
+"10"|"BIHAR"|"207"|"Madhubani"|"Urban"|58.9|41.1|45.7|87.5
+"10"|"BIHAR"|"208"|"Supaul"|"Total"|62.1|37.9|90|99
+"10"|"BIHAR"|"208"|"Supaul"|"Rural"|61.6|38.4|91.6|99.3
+"10"|"BIHAR"|"208"|"Supaul"|"Urban"|71.4|28.6|54.4|92.5
+"10"|"BIHAR"|"209"|"Araria"|"Total"|56.5|43.5|91.7|98.8
+"10"|"BIHAR"|"209"|"Araria"|"Rural"|55.2|44.8|94.1|99.5
+"10"|"BIHAR"|"209"|"Araria"|"Urban"|78.7|21.3|49.8|87.7
+"10"|"BIHAR"|"210"|"Kishanganj"|"Total"|42.4|57.6|90.8|98.9
+"10"|"BIHAR"|"210"|"Kishanganj"|"Rural"|39.2|60.8|94.8|99.6
+"10"|"BIHAR"|"210"|"Kishanganj"|"Urban"|74|26|50.5|91.8
+"10"|"BIHAR"|"211"|"Purnia"|"Total"|49.1|50.9|88|98
+"10"|"BIHAR"|"211"|"Purnia"|"Rural"|46.4|53.6|92.9|99.3
+"10"|"BIHAR"|"211"|"Purnia"|"Urban"|73.2|26.8|44.2|86.7
+"10"|"BIHAR"|"212"|"Katihar"|"Total"|50.9|49.1|84.6|98.1
+"10"|"BIHAR"|"212"|"Katihar"|"Rural"|48.3|51.7|89.2|99.1
+"10"|"BIHAR"|"212"|"Katihar"|"Urban"|78.5|21.5|35.4|87.8
+"10"|"BIHAR"|"213"|"Madhepura"|"Total"|54.6|45.4|88|98.4
+"10"|"BIHAR"|"213"|"Madhepura"|"Rural"|53.8|46.2|89.6|98.9
+"10"|"BIHAR"|"213"|"Madhepura"|"Urban"|72.6|27.4|51.4|87.8
+"10"|"BIHAR"|"214"|"Saharsa"|"Total"|47.5|52.5|84.8|96.9
+"10"|"BIHAR"|"214"|"Saharsa"|"Rural"|45.1|54.9|88.8|98.4
+"10"|"BIHAR"|"214"|"Saharsa"|"Urban"|76.2|23.8|38.2|79.3
+"10"|"BIHAR"|"215"|"Darbhanga"|"Total"|42.9|57.1|76.6|95.9
+"10"|"BIHAR"|"215"|"Darbhanga"|"Rural"|40.3|59.7|80.8|97.2
+"10"|"BIHAR"|"215"|"Darbhanga"|"Urban"|68.9|31.1|35|82.4
+"10"|"BIHAR"|"216"|"Muzaffarpur"|"Total"|47.1|52.9|74|93.7
+"10"|"BIHAR"|"216"|"Muzaffarpur"|"Rural"|44.1|55.9|79.1|96.5
+"10"|"BIHAR"|"216"|"Muzaffarpur"|"Urban"|76|24|24.1|67
+"10"|"BIHAR"|"217"|"Gopalganj"|"Total"|60.5|39.5|80.8|93.3
+"10"|"BIHAR"|"217"|"Gopalganj"|"Rural"|59.3|40.7|82.7|94.3
+"10"|"BIHAR"|"217"|"Gopalganj"|"Urban"|80.2|19.8|50.3|77.4
+"10"|"BIHAR"|"218"|"Siwan"|"Total"|65.9|34.1|78|90.7
+"10"|"BIHAR"|"218"|"Siwan"|"Rural"|64.7|35.3|80.4|91.9
+"10"|"BIHAR"|"218"|"Siwan"|"Urban"|87.2|12.8|29.9|68.1
+"10"|"BIHAR"|"219"|"Saran"|"Total"|59.5|40.5|79.4|90.2
+"10"|"BIHAR"|"219"|"Saran"|"Rural"|58.4|41.6|82.9|92.2
+"10"|"BIHAR"|"219"|"Saran"|"Urban"|70.5|29.5|41.9|69.1
+"10"|"BIHAR"|"220"|"Vaishali"|"Total"|41|59|74|95.2
+"10"|"BIHAR"|"220"|"Vaishali"|"Rural"|40|60|76.2|96.2
+"10"|"BIHAR"|"220"|"Vaishali"|"Urban"|56.9|43.1|39.9|79.8
+"10"|"BIHAR"|"221"|"Samastipur"|"Total"|41.4|58.6|82.2|96.8
+"10"|"BIHAR"|"221"|"Samastipur"|"Rural"|40.4|59.6|84|97.4
+"10"|"BIHAR"|"221"|"Samastipur"|"Urban"|72.2|27.8|31.1|77.9
+"10"|"BIHAR"|"222"|"Begusarai"|"Total"|52.6|47.4|70.3|91.5
+"10"|"BIHAR"|"222"|"Begusarai"|"Rural"|49.1|50.9|76.1|95.2
+"10"|"BIHAR"|"222"|"Begusarai"|"Urban"|68.7|31.3|44.3|74.8
+"10"|"BIHAR"|"223"|"Khagaria"|"Total"|43.4|56.6|78.2|95.4
+"10"|"BIHAR"|"223"|"Khagaria"|"Rural"|41.9|58.1|80.2|96.2
+"10"|"BIHAR"|"223"|"Khagaria"|"Urban"|74|26|38|79.5
+"10"|"BIHAR"|"224"|"Bhagalpur"|"Total"|44.4|55.6|68.4|91.9
+"10"|"BIHAR"|"224"|"Bhagalpur"|"Rural"|39.1|60.9|76.6|95.7
+"10"|"BIHAR"|"224"|"Bhagalpur"|"Urban"|67.9|32.1|32.1|75.5
+"10"|"BIHAR"|"225"|"Banka"|"Total"|28.7|71.3|88.3|96.8
+"10"|"BIHAR"|"225"|"Banka"|"Rural"|27.5|72.5|89.4|97.2
+"10"|"BIHAR"|"225"|"Banka"|"Urban"|61.2|38.8|56.1|86.2
+"10"|"BIHAR"|"226"|"Munger"|"Total"|47.9|52.1|63.1|90.6
+"10"|"BIHAR"|"226"|"Munger"|"Rural"|38.3|61.7|75.2|94.6
+"10"|"BIHAR"|"226"|"Munger"|"Urban"|74.5|25.5|29.9|80
+"10"|"BIHAR"|"227"|"Lakhisarai"|"Total"|45.8|54.2|69.6|92.9
+"10"|"BIHAR"|"227"|"Lakhisarai"|"Rural"|42.1|57.9|74.7|94.4
+"10"|"BIHAR"|"227"|"Lakhisarai"|"Urban"|68.3|31.7|40.4|83.5
+"10"|"BIHAR"|"228"|"Sheikhpura"|"Total"|37.3|62.7|73.1|90.5
+"10"|"BIHAR"|"228"|"Sheikhpura"|"Rural"|33|67|77.8|93.7
+"10"|"BIHAR"|"228"|"Sheikhpura"|"Urban"|58.4|41.6|49.6|74.6
+"10"|"BIHAR"|"229"|"Nalanda"|"Total"|45.9|54.1|70.8|88.4
+"10"|"BIHAR"|"229"|"Nalanda"|"Rural"|41.7|58.3|78.5|93.1
+"10"|"BIHAR"|"229"|"Nalanda"|"Urban"|69|31|29.4|63.1
+"10"|"BIHAR"|"230"|"Patna"|"Total"|63.5|36.5|48.7|72.3
+"10"|"BIHAR"|"230"|"Patna"|"Rural"|48.3|51.7|74.1|92.5
+"10"|"BIHAR"|"230"|"Patna"|"Urban"|83.6|16.4|15.3|45.9
+"10"|"BIHAR"|"231"|"Bhojpur"|"Total"|75.2|24.8|74|91.4
+"10"|"BIHAR"|"231"|"Bhojpur"|"Rural"|73.4|26.6|80.6|94.1
+"10"|"BIHAR"|"231"|"Bhojpur"|"Urban"|86.6|13.4|33.1|74.2
+"10"|"BIHAR"|"232"|"Buxar"|"Total"|71.8|28.2|76.2|91.9
+"10"|"BIHAR"|"232"|"Buxar"|"Rural"|71.3|28.7|80.7|93.6
+"10"|"BIHAR"|"232"|"Buxar"|"Urban"|76.5|23.5|34.5|75.8
+"10"|"BIHAR"|"233"|"Kaimur (Bhabua)"|"Total"|55.5|44.5|84.2|89.8
+"10"|"BIHAR"|"233"|"Kaimur (Bhabua)"|"Rural"|54.3|45.7|86.5|90.8
+"10"|"BIHAR"|"233"|"Kaimur (Bhabua)"|"Urban"|83.1|16.9|30.4|66
+"10"|"BIHAR"|"234"|"Rohtas"|"Total"|78.2|21.8|72.8|88.9
+"10"|"BIHAR"|"234"|"Rohtas"|"Rural"|77|23|79.9|91.8
+"10"|"BIHAR"|"234"|"Rohtas"|"Urban"|84.8|15.2|33.1|72.3
+"10"|"BIHAR"|"235"|"Aurangabad"|"Total"|64|36|79.1|90.3
+"10"|"BIHAR"|"235"|"Aurangabad"|"Rural"|61.9|38.1|83.7|91.9
+"10"|"BIHAR"|"235"|"Aurangabad"|"Urban"|84.5|15.5|33.6|74.1
+"10"|"BIHAR"|"236"|"Gaya"|"Total"|45.2|54.8|77.4|88.5
+"10"|"BIHAR"|"236"|"Gaya"|"Rural"|40.3|59.7|85.2|93.9
+"10"|"BIHAR"|"236"|"Gaya"|"Urban"|79.3|20.7|24.7|51.3
+"10"|"BIHAR"|"237"|"Nawada"|"Total"|43.2|56.8|79.2|90.4
+"10"|"BIHAR"|"237"|"Nawada"|"Rural"|39.7|60.3|84|93.9
+"10"|"BIHAR"|"237"|"Nawada"|"Urban"|76.3|23.7|33.8|57.6
+"10"|"BIHAR"|"238"|"Jamui"|"Total"|21.7|78.3|86.3|97
+"10"|"BIHAR"|"238"|"Jamui"|"Rural"|18.7|81.3|89.3|97.7
+"10"|"BIHAR"|"238"|"Jamui"|"Urban"|57|43|52.6|88.1
+"10"|"BIHAR"|"239"|"Jehanabad "|"Total"|54.7|45.3|73.5|88.8
+"10"|"BIHAR"|"239"|"Jehanabad "|"Rural"|51.6|48.4|79|92
+"10"|"BIHAR"|"239"|"Jehanabad "|"Urban"|77|23|33.4|65.6
+"10"|"BIHAR"|"240"|"Arwal"|"Total"|70.7|29.3|77.8|93.8
+"10"|"BIHAR"|"240"|"Arwal"|"Rural"|69.7|30.3|78.8|94.1
+"10"|"BIHAR"|"240"|"Arwal"|"Urban"|84|16|62.8|89
+"11"|"SIKKIM"|"241"|"North  District"|"Total"|37.5|62.5|29.7|92.4
+"11"|"SIKKIM"|"241"|"North  District"|"Rural"|32.8|67.2|31.9|92
+"11"|"SIKKIM"|"241"|"North  District"|"Urban"|77|23|11.5|94.9
+"11"|"SIKKIM"|"242"|"West District"|"Total"|36.2|63.8|21|94.4
+"11"|"SIKKIM"|"242"|"West District"|"Rural"|34.9|65.1|21.4|95
+"11"|"SIKKIM"|"242"|"West District"|"Urban"|66|34|12.1|80.6
+"11"|"SIKKIM"|"243"|"South District"|"Total"|60.5|39.5|21|94.2
+"11"|"SIKKIM"|"243"|"South District"|"Rural"|57.6|42.4|24.4|96.8
+"11"|"SIKKIM"|"243"|"South District"|"Urban"|76|24|2.7|80.1
+"11"|"SIKKIM"|"244"|"East District"|"Total"|58.4|41.6|14.4|75.9
+"11"|"SIKKIM"|"244"|"East District"|"Rural"|38|62|21.3|94.4
+"11"|"SIKKIM"|"244"|"East District"|"Urban"|81.1|18.9|6.6|55.3
+"12"|"ARUNACHAL PRADESH"|"245"|"Tawang"|"Total"|40.2|59.8|49.9|96.4
+"12"|"ARUNACHAL PRADESH"|"245"|"Tawang"|"Rural"|29|71|59.3|96.5
+"12"|"ARUNACHAL PRADESH"|"245"|"Tawang"|"Urban"|95.7|4.3|4|95.8
+"12"|"ARUNACHAL PRADESH"|"246"|"West Kameng"|"Total"|42.1|57.9|53.7|94.1
+"12"|"ARUNACHAL PRADESH"|"246"|"West Kameng"|"Rural"|34.7|65.3|65.1|96
+"12"|"ARUNACHAL PRADESH"|"246"|"West Kameng"|"Urban"|66.1|33.9|17|88.1
+"12"|"ARUNACHAL PRADESH"|"247"|"East Kameng"|"Total"|19.4|80.6|73.2|95.6
+"12"|"ARUNACHAL PRADESH"|"247"|"East Kameng"|"Rural"|10.4|89.6|84.5|99.4
+"12"|"ARUNACHAL PRADESH"|"247"|"East Kameng"|"Urban"|47.9|52.1|37.4|83.6
+"12"|"ARUNACHAL PRADESH"|"248"|"Papum Pare"|"Total"|59.1|40.9|28.1|79.9
+"12"|"ARUNACHAL PRADESH"|"248"|"Papum Pare"|"Rural"|42.3|57.7|52.4|90.8
+"12"|"ARUNACHAL PRADESH"|"248"|"Papum Pare"|"Urban"|70.5|29.5|11.4|72.5
+"12"|"ARUNACHAL PRADESH"|"249"|"Upper Subansiri"|"Total"|24.8|75.2|71|96.2
+"12"|"ARUNACHAL PRADESH"|"249"|"Upper Subansiri"|"Rural"|15.1|84.9|81.2|97.9
+"12"|"ARUNACHAL PRADESH"|"249"|"Upper Subansiri"|"Urban"|73|27|19.9|86.9
+"12"|"ARUNACHAL PRADESH"|"250"|"West Siang"|"Total"|47.3|52.7|43.5|94.7
+"12"|"ARUNACHAL PRADESH"|"250"|"West Siang"|"Rural"|37.4|62.6|55.1|97.5
+"12"|"ARUNACHAL PRADESH"|"250"|"West Siang"|"Urban"|77.2|22.8|8.7|86.5
+"12"|"ARUNACHAL PRADESH"|"251"|"East Siang"|"Total"|39.3|60.7|50.9|96.6
+"12"|"ARUNACHAL PRADESH"|"251"|"East Siang"|"Rural"|28.5|71.5|62|98
+"12"|"ARUNACHAL PRADESH"|"251"|"East Siang"|"Urban"|61.8|38.2|28|93.8
+"12"|"ARUNACHAL PRADESH"|"252"|"Upper Siang"|"Total"|35.3|64.7|63|93.5
+"12"|"ARUNACHAL PRADESH"|"252"|"Upper Siang"|"Rural"|25|75|74.2|96.8
+"12"|"ARUNACHAL PRADESH"|"252"|"Upper Siang"|"Urban"|73.4|26.6|22.1|80.9
+"12"|"ARUNACHAL PRADESH"|"253"|"Changlang"|"Total"|42.4|57.6|66.5|98.1
+"12"|"ARUNACHAL PRADESH"|"253"|"Changlang"|"Rural"|38.6|61.4|73.5|98.6
+"12"|"ARUNACHAL PRADESH"|"253"|"Changlang"|"Urban"|65.2|34.8|22.7|94.6
+"12"|"ARUNACHAL PRADESH"|"254"|"Tirap"|"Total"|25.6|74.4|61.8|96.1
+"12"|"ARUNACHAL PRADESH"|"254"|"Tirap"|"Rural"|16.1|83.9|70.4|97.8
+"12"|"ARUNACHAL PRADESH"|"254"|"Tirap"|"Urban"|62|38|29|89.7
+"12"|"ARUNACHAL PRADESH"|"255"|"Lower Subansiri"|"Total"|51.5|48.5|43.9|90.8
+"12"|"ARUNACHAL PRADESH"|"255"|"Lower Subansiri"|"Rural"|42.9|57.1|53.5|94.4
+"12"|"ARUNACHAL PRADESH"|"255"|"Lower Subansiri"|"Urban"|85.6|14.4|6.6|77.1
+"12"|"ARUNACHAL PRADESH"|"256"|"Kurung Kumey"|"Total"|10.6|89.4|87.7|98.3
+"12"|"ARUNACHAL PRADESH"|"256"|"Kurung Kumey"|"Rural"|9.9|90.1|89.9|98.7
+"12"|"ARUNACHAL PRADESH"|"256"|"Kurung Kumey"|"Urban"|29.9|70.1|26.6|87.7
+"12"|"ARUNACHAL PRADESH"|"257"|"Dibang Valley"|"Total"|49.8|50.2|55.8|89.2
+"12"|"ARUNACHAL PRADESH"|"257"|"Dibang Valley"|"Rural"|40.2|59.8|63.6|94.1
+"12"|"ARUNACHAL PRADESH"|"257"|"Dibang Valley"|"Urban"|71.6|28.4|38|78.3
+"12"|"ARUNACHAL PRADESH"|"258"|"Lower Dibang Valley"|"Total"|49.8|50.2|60.2|96.8
+"12"|"ARUNACHAL PRADESH"|"258"|"Lower Dibang Valley"|"Rural"|42.4|57.6|70.5|97.5
+"12"|"ARUNACHAL PRADESH"|"258"|"Lower Dibang Valley"|"Urban"|77.8|22.2|21.1|94.2
+"12"|"ARUNACHAL PRADESH"|"259"|"Lohit"|"Total"|55.7|44.3|65.8|98.3
+"12"|"ARUNACHAL PRADESH"|"259"|"Lohit"|"Rural"|49.9|50.1|75|99.1
+"12"|"ARUNACHAL PRADESH"|"259"|"Lohit"|"Urban"|74.1|25.9|36.2|95.6
+"12"|"ARUNACHAL PRADESH"|"260"|"Anjaw"|"Total"|31.3|68.7|77.3|97.6
+"12"|"ARUNACHAL PRADESH"|"260"|"Anjaw"|"Rural"|30.3|69.7|78.4|99
+"12"|"ARUNACHAL PRADESH"|"260"|"Anjaw"|"Urban"|64.2|35.8|42.5|49.2
+"13"|"NAGALAND"|"261"|"Mon"|"Total"|19.4|80.6|65.7|97.5
+"13"|"NAGALAND"|"261"|"Mon"|"Rural"|15.9|84.1|72.3|97.6
+"13"|"NAGALAND"|"261"|"Mon"|"Urban"|41.6|58.4|22.8|96.5
+"13"|"NAGALAND"|"262"|"Mokokchung"|"Total"|24|76|15.3|94.4
+"13"|"NAGALAND"|"262"|"Mokokchung"|"Rural"|21.5|78.5|17.7|94.8
+"13"|"NAGALAND"|"262"|"Mokokchung"|"Urban"|30.2|69.8|9.2|93.7
+"13"|"NAGALAND"|"263"|"Zunheboto"|"Total"|18.9|81.1|52.3|97
+"13"|"NAGALAND"|"263"|"Zunheboto"|"Rural"|15.9|84.1|56.2|97.9
+"13"|"NAGALAND"|"263"|"Zunheboto"|"Urban"|34.7|65.3|31.6|92.3
+"13"|"NAGALAND"|"264"|"Wokha"|"Total"|12.9|87.1|50.5|95.6
+"13"|"NAGALAND"|"264"|"Wokha"|"Rural"|9.7|90.3|59.2|96.2
+"13"|"NAGALAND"|"264"|"Wokha"|"Urban"|26.7|73.3|12.7|93
+"13"|"NAGALAND"|"265"|"Dimapur "|"Total"|66.7|33.3|20.2|89.9
+"13"|"NAGALAND"|"265"|"Dimapur "|"Rural"|51.2|48.8|32.8|94.3
+"13"|"NAGALAND"|"265"|"Dimapur "|"Urban"|80.4|19.6|8.9|86
+"13"|"NAGALAND"|"266"|"Phek"|"Total"|17.9|82.1|37.3|96.7
+"13"|"NAGALAND"|"266"|"Phek"|"Rural"|14.4|85.6|40.9|96.7
+"13"|"NAGALAND"|"266"|"Phek"|"Urban"|40.6|59.4|13.9|96.9
+"13"|"NAGALAND"|"267"|"Tuensang"|"Total"|23.7|76.3|58.5|96.5
+"13"|"NAGALAND"|"267"|"Tuensang"|"Rural"|21.6|78.4|65|97.2
+"13"|"NAGALAND"|"267"|"Tuensang"|"Urban"|33.9|66.1|28.1|93.8
+"13"|"NAGALAND"|"268"|"Longleng"|"Total"|2.4|97.6|63.5|97.9
+"13"|"NAGALAND"|"268"|"Longleng"|"Rural"|2.8|97.2|70.1|98.5
+"13"|"NAGALAND"|"268"|"Longleng"|"Urban"|0.1|99.9|25.3|94.7
+"13"|"NAGALAND"|"269"|"Kiphire"|"Total"|14.7|85.3|62.1|98.3
+"13"|"NAGALAND"|"269"|"Kiphire"|"Rural"|11.5|88.5|72.5|99
+"13"|"NAGALAND"|"269"|"Kiphire"|"Urban"|27.7|72.3|19.1|95.7
+"13"|"NAGALAND"|"270"|"Kohima"|"Total"|26.2|73.8|35|95.7
+"13"|"NAGALAND"|"270"|"Kohima"|"Rural"|10.7|89.3|56.6|97.4
+"13"|"NAGALAND"|"270"|"Kohima"|"Urban"|42.1|57.9|13|93.9
+"13"|"NAGALAND"|"271"|"Peren"|"Total"|28.8|71.2|50.6|97.7
+"13"|"NAGALAND"|"271"|"Peren"|"Rural"|23.2|76.8|53.2|97.9
+"13"|"NAGALAND"|"271"|"Peren"|"Urban"|60.1|39.9|37|96.9
+"14"|"MANIPUR"|"272"|"Senapati"|"Total"|12.4|87.6|56.3|96.2
+"14"|"MANIPUR"|"272"|"Senapati"|"Rural"|12.1|87.9|56.9|96.2
+"14"|"MANIPUR"|"272"|"Senapati"|"Urban"|26.6|73.4|25|92.9
+"14"|"MANIPUR"|"273"|"Tamenglong "|"Total"|15.5|84.5|57.2|98.1
+"14"|"MANIPUR"|"273"|"Tamenglong "|"Rural"|15.4|84.6|62.1|98.2
+"14"|"MANIPUR"|"273"|"Tamenglong "|"Urban"|16.1|83.9|27.8|97.4
+"14"|"MANIPUR"|"274"|"Churachandpur"|"Total"|16|84|39.2|96
+"14"|"MANIPUR"|"274"|"Churachandpur"|"Rural"|14.1|85.9|41.1|96.5
+"14"|"MANIPUR"|"274"|"Churachandpur"|"Urban"|44|56|12.8|88.6
+"14"|"MANIPUR"|"275"|"Bishnupur"|"Total"|7.7|92.3|39.3|97.5
+"14"|"MANIPUR"|"275"|"Bishnupur"|"Rural"|2.3|97.7|41|97.9
+"14"|"MANIPUR"|"275"|"Bishnupur"|"Urban"|16.8|83.2|36.6|96.6
+"14"|"MANIPUR"|"276"|"Thoubal"|"Total"|4.7|95.3|40.6|97.2
+"14"|"MANIPUR"|"276"|"Thoubal"|"Rural"|2.6|97.4|42.9|97
+"14"|"MANIPUR"|"276"|"Thoubal"|"Urban"|8.4|91.6|36.4|97.3
+"14"|"MANIPUR"|"277"|"Imphal West"|"Total"|30.3|69.7|25.3|93.5
+"14"|"MANIPUR"|"277"|"Imphal West"|"Rural"|8.6|91.4|39.5|96.9
+"14"|"MANIPUR"|"277"|"Imphal West"|"Urban"|43.2|56.8|16.9|91.5
+"14"|"MANIPUR"|"278"|"Imphal East"|"Total"|17.8|82.2|32.8|96.2
+"14"|"MANIPUR"|"278"|"Imphal East"|"Rural"|5.6|94.4|42.8|97.2
+"14"|"MANIPUR"|"278"|"Imphal East"|"Urban"|35.2|64.8|18.5|94.9
+"14"|"MANIPUR"|"279"|"Ukhrul"|"Total"|10.5|89.5|41.6|96.3
+"14"|"MANIPUR"|"279"|"Ukhrul"|"Rural"|6.7|93.3|44.9|96.3
+"14"|"MANIPUR"|"279"|"Ukhrul"|"Urban"|34|66|20|96.1
+"14"|"MANIPUR"|"280"|"Chandel"|"Total"|9.2|90.8|55.1|96.9
+"14"|"MANIPUR"|"280"|"Chandel"|"Rural"|4.4|95.6|59.2|97.8
+"14"|"MANIPUR"|"280"|"Chandel"|"Urban"|47.4|52.6|21.6|89.6
+"15"|"MIZORAM"|"281"|"Mamit"|"Total"|13.8|86.2|38.6|92.7
+"15"|"MIZORAM"|"281"|"Mamit"|"Rural"|8.4|91.6|43.4|93.8
+"15"|"MIZORAM"|"281"|"Mamit"|"Urban"|37.8|62.2|17.1|88.3
+"15"|"MIZORAM"|"282"|"Kolasib"|"Total"|27.4|72.6|21.1|92.4
+"15"|"MIZORAM"|"282"|"Kolasib"|"Rural"|10.9|89.1|27.5|97.7
+"15"|"MIZORAM"|"282"|"Kolasib"|"Urban"|40.5|59.5|16|88.3
+"15"|"MIZORAM"|"283"|"Aizawl"|"Total"|50|50|8.4|77.7
+"15"|"MIZORAM"|"283"|"Aizawl"|"Rural"|7.3|92.7|18.7|91.2
+"15"|"MIZORAM"|"283"|"Aizawl"|"Urban"|61.3|38.7|5.7|74.1
+"15"|"MIZORAM"|"284"|"Champhai"|"Total"|12|88|17.6|92.3
+"15"|"MIZORAM"|"284"|"Champhai"|"Rural"|7.9|92.1|20|91.9
+"15"|"MIZORAM"|"284"|"Champhai"|"Urban"|18.4|81.6|13.9|92.8
+"15"|"MIZORAM"|"285"|"Serchhip"|"Total"|29.7|70.3|17.6|85.2
+"15"|"MIZORAM"|"285"|"Serchhip"|"Rural"|4.5|95.5|20.9|93.7
+"15"|"MIZORAM"|"285"|"Serchhip"|"Urban"|55|45|14.1|76.8
+"15"|"MIZORAM"|"286"|"Lunglei"|"Total"|30.4|69.6|37.7|89.6
+"15"|"MIZORAM"|"286"|"Lunglei"|"Rural"|4.1|95.9|59|97
+"15"|"MIZORAM"|"286"|"Lunglei"|"Urban"|65.9|34.1|9.2|79.5
+"15"|"MIZORAM"|"287"|"Lawngtlai"|"Total"|7.5|92.5|58|97.9
+"15"|"MIZORAM"|"287"|"Lawngtlai"|"Rural"|5.3|94.7|66|98.1
+"15"|"MIZORAM"|"287"|"Lawngtlai"|"Urban"|18.2|81.8|19.5|96.5
+"15"|"MIZORAM"|"288"|"Saiha"|"Total"|21.8|78.2|35.1|95.7
+"15"|"MIZORAM"|"288"|"Saiha"|"Rural"|1.9|98.1|37|98.3
+"15"|"MIZORAM"|"288"|"Saiha"|"Urban"|49.1|50.9|32.5|92.2
+"16"|"TRIPURA"|"289"|"West Tripura "|"Total"|53|47|23.3|94.2
+"16"|"TRIPURA"|"289"|"West Tripura "|"Rural"|36.4|63.6|30.6|96.2
+"16"|"TRIPURA"|"289"|"West Tripura "|"Urban"|77|23|12.8|91.5
+"16"|"TRIPURA"|"290"|"South Tripura "|"Total"|26.5|73.5|30.7|98.5
+"16"|"TRIPURA"|"290"|"South Tripura "|"Rural"|20.4|79.6|34.4|99
+"16"|"TRIPURA"|"290"|"South Tripura "|"Urban"|59.9|40.1|9.9|95.7
+"16"|"TRIPURA"|"291"|"Dhalai"|"Total"|15.7|84.3|50.2|98.3
+"16"|"TRIPURA"|"291"|"Dhalai"|"Rural"|12.1|87.9|54.6|98.6
+"16"|"TRIPURA"|"291"|"Dhalai"|"Urban"|42.4|57.6|18|96.6
+"16"|"TRIPURA"|"292"|"North Tripura"|"Total"|20.6|79.4|37.8|97.8
+"16"|"TRIPURA"|"292"|"North Tripura"|"Rural"|14.5|85.5|43.2|98.3
+"16"|"TRIPURA"|"292"|"North Tripura"|"Urban"|47.1|52.9|14|95.4
+"17"|"MEGHALAYA"|"293"|"West Garo Hills"|"Total"|28.2|71.8|57.8|96.2
+"17"|"MEGHALAYA"|"293"|"West Garo Hills"|"Rural"|24.5|75.5|62.7|97.6
+"17"|"MEGHALAYA"|"293"|"West Garo Hills"|"Urban"|57.7|42.3|18.8|85.9
+"17"|"MEGHALAYA"|"294"|"East Garo Hills"|"Total"|27.4|72.6|53.4|97.3
+"17"|"MEGHALAYA"|"294"|"East Garo Hills"|"Rural"|21.6|78.4|58|98.7
+"17"|"MEGHALAYA"|"294"|"East Garo Hills"|"Urban"|64.3|35.7|24.9|89.2
+"17"|"MEGHALAYA"|"295"|"South Garo Hills"|"Total"|11.2|88.8|53.9|97.4
+"17"|"MEGHALAYA"|"295"|"South Garo Hills"|"Rural"|10.2|89.8|56.9|97.7
+"17"|"MEGHALAYA"|"295"|"South Garo Hills"|"Urban"|20.7|79.3|25.7|95.1
+"17"|"MEGHALAYA"|"296"|"West Khasi Hills"|"Total"|8.8|91.2|73.2|98.6
+"17"|"MEGHALAYA"|"296"|"West Khasi Hills"|"Rural"|7.3|92.7|78|98.9
+"17"|"MEGHALAYA"|"296"|"West Khasi Hills"|"Urban"|21.3|78.7|34.7|95.4
+"17"|"MEGHALAYA"|"297"|"Ribhoi"|"Total"|13.9|86.1|65.5|96.6
+"17"|"MEGHALAYA"|"297"|"Ribhoi"|"Rural"|12.9|87.1|67.9|96.9
+"17"|"MEGHALAYA"|"297"|"Ribhoi"|"Urban"|24|76|39.4|93.3
+"17"|"MEGHALAYA"|"298"|"East Khasi Hills"|"Total"|35.1|64.9|37.9|89
+"17"|"MEGHALAYA"|"298"|"East Khasi Hills"|"Rural"|9.8|90.2|67.6|97.8
+"17"|"MEGHALAYA"|"298"|"East Khasi Hills"|"Urban"|63.2|36.8|5|79.2
+"17"|"MEGHALAYA"|"299"|"Jaintia Hills"|"Total"|12.9|87.1|67.7|94
+"17"|"MEGHALAYA"|"299"|"Jaintia Hills"|"Rural"|9.1|90.9|73.1|95.9
+"17"|"MEGHALAYA"|"299"|"Jaintia Hills"|"Urban"|57.5|42.5|6|72.2
+"18"|"ASSAM"|"300"|"Kokrajhar"|"Total"|57.5|42.5|77.8|98.2
+"18"|"ASSAM"|"300"|"Kokrajhar"|"Rural"|55.3|44.7|81.9|99.2
+"18"|"ASSAM"|"300"|"Kokrajhar"|"Urban"|88.4|11.6|18.2|85.1
+"18"|"ASSAM"|"301"|"Dhubri"|"Total"|65.2|34.8|77.3|98.7
+"18"|"ASSAM"|"301"|"Dhubri"|"Rural"|62.9|37.1|82.8|99.5
+"18"|"ASSAM"|"301"|"Dhubri"|"Urban"|84.8|15.2|32.4|92.1
+"18"|"ASSAM"|"302"|"Goalpara"|"Total"|58.6|41.4|67.4|98.7
+"18"|"ASSAM"|"302"|"Goalpara"|"Rural"|56.8|43.2|72.5|99.2
+"18"|"ASSAM"|"302"|"Goalpara"|"Urban"|68.8|31.2|37.1|95.8
+"18"|"ASSAM"|"303"|"Barpeta"|"Total"|65|35|67.4|98.8
+"18"|"ASSAM"|"303"|"Barpeta"|"Rural"|62.3|37.7|72.2|99.5
+"18"|"ASSAM"|"303"|"Barpeta"|"Urban"|91.2|8.8|20.6|92.8
+"18"|"ASSAM"|"304"|"Morigaon"|"Total"|69.4|30.6|72.7|98.4
+"18"|"ASSAM"|"304"|"Morigaon"|"Rural"|68.1|31.9|77.1|99
+"18"|"ASSAM"|"304"|"Morigaon"|"Urban"|83.2|16.8|28.3|91.3
+"18"|"ASSAM"|"305"|"Nagaon"|"Total"|64.6|35.4|63.8|97.1
+"18"|"ASSAM"|"305"|"Nagaon"|"Rural"|61.3|38.7|70.7|98.8
+"18"|"ASSAM"|"305"|"Nagaon"|"Urban"|84.2|15.8|22.5|87.4
+"18"|"ASSAM"|"306"|"Sonitpur"|"Total"|53.7|46.3|61.2|97.6
+"18"|"ASSAM"|"306"|"Sonitpur"|"Rural"|49.9|50.1|67|98.8
+"18"|"ASSAM"|"306"|"Sonitpur"|"Urban"|85.9|14.1|10.8|87.7
+"18"|"ASSAM"|"307"|"Lakhimpur"|"Total"|56.9|43.1|67|97.9
+"18"|"ASSAM"|"307"|"Lakhimpur"|"Rural"|53.3|46.7|72.3|99
+"18"|"ASSAM"|"307"|"Lakhimpur"|"Urban"|87|13|22.5|89.4
+"18"|"ASSAM"|"308"|"Dhemaji"|"Total"|54.9|45.1|75.7|98.4
+"18"|"ASSAM"|"308"|"Dhemaji"|"Rural"|52.3|47.7|79.4|98.9
+"18"|"ASSAM"|"308"|"Dhemaji"|"Urban"|84.4|15.6|33.6|93.2
+"18"|"ASSAM"|"309"|"Tinsukia"|"Total"|66.2|33.8|50.7|95.3
+"18"|"ASSAM"|"309"|"Tinsukia"|"Rural"|63.6|36.4|60.1|97.8
+"18"|"ASSAM"|"309"|"Tinsukia"|"Urban"|75.4|24.6|17.4|86.1
+"18"|"ASSAM"|"310"|"Dibrugarh"|"Total"|67.6|32.4|50.3|93.7
+"18"|"ASSAM"|"310"|"Dibrugarh"|"Rural"|62.5|37.5|60.6|97.2
+"18"|"ASSAM"|"310"|"Dibrugarh"|"Urban"|87.7|12.3|8.7|80.2
+"18"|"ASSAM"|"311"|"Sivasagar"|"Total"|49.7|50.3|54.5|97.2
+"18"|"ASSAM"|"311"|"Sivasagar"|"Rural"|46.7|53.3|59.1|98.1
+"18"|"ASSAM"|"311"|"Sivasagar"|"Urban"|74.8|25.2|16.4|90.5
+"18"|"ASSAM"|"312"|"Jorhat"|"Total"|44.9|55.1|53.7|95
+"18"|"ASSAM"|"312"|"Jorhat"|"Rural"|37.3|62.7|64.8|98
+"18"|"ASSAM"|"312"|"Jorhat"|"Urban"|72|28|14.5|84.2
+"18"|"ASSAM"|"313"|"Golaghat"|"Total"|46.1|53.9|63.6|97.3
+"18"|"ASSAM"|"313"|"Golaghat"|"Rural"|41.7|58.3|69|98.6
+"18"|"ASSAM"|"313"|"Golaghat"|"Urban"|86.1|13.9|13.6|86.2
+"18"|"ASSAM"|"314"|"Karbi Anglong"|"Total"|35.2|64.8|70.2|98
+"18"|"ASSAM"|"314"|"Karbi Anglong"|"Rural"|32|68|76.3|98.6
+"18"|"ASSAM"|"314"|"Karbi Anglong"|"Urban"|55.8|44.2|31.6|93.7
+"18"|"ASSAM"|"315"|"Dima Hasao"|"Total"|17.8|82.2|47.3|94.9
+"18"|"ASSAM"|"315"|"Dima Hasao"|"Rural"|6.9|93.1|60.3|98
+"18"|"ASSAM"|"315"|"Dima Hasao"|"Urban"|42|58|18.3|88.4
+"18"|"ASSAM"|"316"|"Cachar"|"Total"|21.8|78.2|47.5|94.3
+"18"|"ASSAM"|"316"|"Cachar"|"Rural"|12|88|54.5|96.9
+"18"|"ASSAM"|"316"|"Cachar"|"Urban"|64.1|35.9|17.3|83.1
+"18"|"ASSAM"|"317"|"Karimganj"|"Total"|17.9|82.1|49.8|96.4
+"18"|"ASSAM"|"317"|"Karimganj"|"Rural"|13|87|54.1|97.5
+"18"|"ASSAM"|"317"|"Karimganj"|"Urban"|64.4|35.6|9.6|87.1
+"18"|"ASSAM"|"318"|"Hailakandi"|"Total"|10.7|89.3|54.1|96.5
+"18"|"ASSAM"|"318"|"Hailakandi"|"Rural"|7.1|92.9|57.3|97.6
+"18"|"ASSAM"|"318"|"Hailakandi"|"Urban"|56.4|43.6|12.1|81.1
+"18"|"ASSAM"|"319"|"Bongaigaon"|"Total"|69.1|30.9|67.1|97.4
+"18"|"ASSAM"|"319"|"Bongaigaon"|"Rural"|66.3|33.7|77.7|99.3
+"18"|"ASSAM"|"319"|"Bongaigaon"|"Urban"|83.1|16.9|14.5|87.8
+"18"|"ASSAM"|"320"|"Chirang"|"Total"|52.8|47.2|79.1|98.8
+"18"|"ASSAM"|"320"|"Chirang"|"Rural"|50.5|49.5|83.4|99
+"18"|"ASSAM"|"320"|"Chirang"|"Urban"|80|20|27.9|96.7
+"18"|"ASSAM"|"321"|"Kamrup"|"Total"|64.8|35.2|62.7|98
+"18"|"ASSAM"|"321"|"Kamrup"|"Rural"|63.9|36.1|66.1|98.6
+"18"|"ASSAM"|"321"|"Kamrup"|"Urban"|72.6|27.4|32.3|92.4
+"18"|"ASSAM"|"322"|"Kamrup Metropolitan"|"Total"|76.7|23.3|14.9|77.3
+"18"|"ASSAM"|"322"|"Kamrup Metropolitan"|"Rural"|44.6|55.4|53.3|96.7
+"18"|"ASSAM"|"322"|"Kamrup Metropolitan"|"Urban"|82.2|17.8|8.3|74.1
+"18"|"ASSAM"|"323"|"Nalbari"|"Total"|70.5|29.5|60|98.2
+"18"|"ASSAM"|"323"|"Nalbari"|"Rural"|68.5|31.5|64.1|99
+"18"|"ASSAM"|"323"|"Nalbari"|"Urban"|85.6|14.4|27.9|92.9
+"18"|"ASSAM"|"324"|"Baksa"|"Total"|56.3|43.7|76.6|99.1
+"18"|"ASSAM"|"324"|"Baksa"|"Rural"|55.9|44.1|77.2|99.2
+"18"|"ASSAM"|"324"|"Baksa"|"Urban"|89.7|10.3|29.2|97
+"18"|"ASSAM"|"325"|"Darrang"|"Total"|58.7|41.3|71.3|99
+"18"|"ASSAM"|"325"|"Darrang"|"Rural"|56.5|43.5|75.2|99.3
+"18"|"ASSAM"|"325"|"Darrang"|"Urban"|90|10|19|93.7
+"18"|"ASSAM"|"326"|"Udalguri"|"Total"|52.6|47.4|71.1|98.7
+"18"|"ASSAM"|"326"|"Udalguri"|"Rural"|50.6|49.4|73.7|98.9
+"18"|"ASSAM"|"326"|"Udalguri"|"Urban"|89.7|10.3|22.3|95.8
+"19"|"WEST BENGAL"|"327"|"Darjiling "|"Total"|37.9|62.1|40|92.5
+"19"|"WEST BENGAL"|"327"|"Darjiling "|"Rural"|28.8|71.2|55.3|96.7
+"19"|"WEST BENGAL"|"327"|"Darjiling "|"Urban"|52.3|47.7|15.8|86
+"19"|"WEST BENGAL"|"328"|"Jalpaiguri "|"Total"|55.5|44.5|55|97.6
+"19"|"WEST BENGAL"|"328"|"Jalpaiguri "|"Rural"|53.9|46.1|68.1|98.8
+"19"|"WEST BENGAL"|"328"|"Jalpaiguri "|"Urban"|59.7|40.3|21.1|94.5
+"19"|"WEST BENGAL"|"329"|"Koch Bihar "|"Total"|80.8|19.2|48.5|98.5
+"19"|"WEST BENGAL"|"329"|"Koch Bihar "|"Rural"|81.9|18.1|52.6|98.9
+"19"|"WEST BENGAL"|"329"|"Koch Bihar "|"Urban"|70.6|29.4|13.3|94.6
+"19"|"WEST BENGAL"|"330"|"Uttar Dinajpur"|"Total"|57.4|42.6|74.7|97.7
+"19"|"WEST BENGAL"|"330"|"Uttar Dinajpur"|"Rural"|54.6|45.4|81.5|98.7
+"19"|"WEST BENGAL"|"330"|"Uttar Dinajpur"|"Urban"|79.1|20.9|22.2|89.3
+"19"|"WEST BENGAL"|"331"|"Dakshin Dinajpur"|"Total"|37.6|62.4|65.2|97.2
+"19"|"WEST BENGAL"|"331"|"Dakshin Dinajpur"|"Rural"|30|70|74.6|98.6
+"19"|"WEST BENGAL"|"331"|"Dakshin Dinajpur"|"Urban"|82.7|17.3|9.7|88.3
+"19"|"WEST BENGAL"|"332"|"Maldah "|"Total"|36.4|63.6|70.5|95.5
+"19"|"WEST BENGAL"|"332"|"Maldah "|"Rural"|32.5|67.5|76.7|97.5
+"19"|"WEST BENGAL"|"332"|"Maldah "|"Urban"|62.9|37.1|28.2|82.4
+"19"|"WEST BENGAL"|"333"|"Murshidabad "|"Total"|42|58|64.1|96.8
+"19"|"WEST BENGAL"|"333"|"Murshidabad "|"Rural"|39.4|60.6|69.3|97.7
+"19"|"WEST BENGAL"|"333"|"Murshidabad "|"Urban"|53.9|46.1|40.3|92.7
+"19"|"WEST BENGAL"|"334"|"Birbhum"|"Total"|17.3|82.7|76.6|98
+"19"|"WEST BENGAL"|"334"|"Birbhum"|"Rural"|14.7|85.3|81.9|98.6
+"19"|"WEST BENGAL"|"334"|"Birbhum"|"Urban"|35.6|64.4|39.3|93.5
+"19"|"WEST BENGAL"|"335"|"Barddhaman "|"Total"|35.4|64.6|46.7|92.1
+"19"|"WEST BENGAL"|"335"|"Barddhaman "|"Rural"|30.6|69.4|56.8|96.5
+"19"|"WEST BENGAL"|"335"|"Barddhaman "|"Urban"|43.5|56.5|30.1|84.5
+"19"|"WEST BENGAL"|"336"|"Nadia "|"Total"|68|32|31.6|94.2
+"19"|"WEST BENGAL"|"336"|"Nadia "|"Rural"|65.1|34.9|39.7|96.7
+"19"|"WEST BENGAL"|"336"|"Nadia "|"Urban"|75.1|24.9|11.2|87.9
+"19"|"WEST BENGAL"|"337"|"North Twenty Four Parganas"|"Total"|55.4|44.6|18|88.3
+"19"|"WEST BENGAL"|"337"|"North Twenty Four Parganas"|"Rural"|37.2|62.8|31|97.6
+"19"|"WEST BENGAL"|"337"|"North Twenty Four Parganas"|"Urban"|69.3|30.7|8|81.2
+"19"|"WEST BENGAL"|"338"|"Hugli "|"Total"|38.1|61.9|31.3|90.8
+"19"|"WEST BENGAL"|"338"|"Hugli "|"Rural"|25.3|74.7|43.3|95.1
+"19"|"WEST BENGAL"|"338"|"Hugli "|"Urban"|58.2|41.8|12.3|84.1
+"19"|"WEST BENGAL"|"339"|"Bankura "|"Total"|19.7|80.3|80|97.4
+"19"|"WEST BENGAL"|"339"|"Bankura "|"Rural"|17.5|82.5|83.8|98.2
+"19"|"WEST BENGAL"|"339"|"Bankura "|"Urban"|43.8|56.2|40.4|89.5
+"19"|"WEST BENGAL"|"340"|"Puruliya"|"Total"|9.7|90.3|88.4|98.2
+"19"|"WEST BENGAL"|"340"|"Puruliya"|"Rural"|6.9|93.1|94.3|99.1
+"19"|"WEST BENGAL"|"340"|"Puruliya"|"Urban"|28.7|71.3|50|91.4
+"19"|"WEST BENGAL"|"341"|"Haora "|"Total"|24.9|75.1|28.5|87.4
+"19"|"WEST BENGAL"|"341"|"Haora "|"Rural"|7|93|45|96.8
+"19"|"WEST BENGAL"|"341"|"Haora "|"Urban"|35.7|64.3|18.6|81.8
+"19"|"WEST BENGAL"|"342"|"Kolkata"|"Total"|72.4|27.6|5.9|18.7
+"19"|"WEST BENGAL"|"342"|"Kolkata"|"Urban"|72.4|27.6|5.9|18.7
+"19"|"WEST BENGAL"|"343"|"South Twenty Four Parganas"|"Total"|12.9|87.1|42.9|96.1
+"19"|"WEST BENGAL"|"343"|"South Twenty Four Parganas"|"Rural"|7.3|92.7|51.4|98.6
+"19"|"WEST BENGAL"|"343"|"South Twenty Four Parganas"|"Urban"|28.3|71.7|19.7|89.5
+"19"|"WEST BENGAL"|"344"|"Paschim Medinipur"|"Total"|24.1|75.9|60.9|97.7
+"19"|"WEST BENGAL"|"344"|"Paschim Medinipur"|"Rural"|21.3|78.7|65.9|98.6
+"19"|"WEST BENGAL"|"344"|"Paschim Medinipur"|"Urban"|44.1|55.9|24.6|91.7
+"19"|"WEST BENGAL"|"345"|"Purba Medinipur"|"Total"|10.1|89.9|30.4|97
+"19"|"WEST BENGAL"|"345"|"Purba Medinipur"|"Rural"|8|92|31.7|97.8
+"19"|"WEST BENGAL"|"345"|"Purba Medinipur"|"Urban"|27.3|72.7|20.4|90.1
+"20"|"JHARKHAND"|"346"|"Garhwa "|"Total"|16.7|83.3|93.3|97.2
+"20"|"JHARKHAND"|"346"|"Garhwa "|"Rural"|15.1|84.9|95.5|98.4
+"20"|"JHARKHAND"|"346"|"Garhwa "|"Urban"|45.9|54.1|54.2|74.7
+"20"|"JHARKHAND"|"347"|"Chatra"|"Total"|16.1|83.9|90.5|97.1
+"20"|"JHARKHAND"|"347"|"Chatra"|"Rural"|13.7|86.3|93.7|98.2
+"20"|"JHARKHAND"|"347"|"Chatra"|"Urban"|53.9|46.1|37.5|78.3
+"20"|"JHARKHAND"|"348"|"Kodarma"|"Total"|23.2|76.8|83.9|95.2
+"20"|"JHARKHAND"|"348"|"Kodarma"|"Rural"|15.4|84.6|92.6|97.3
+"20"|"JHARKHAND"|"348"|"Kodarma"|"Urban"|52.6|47.4|50.2|87.1
+"20"|"JHARKHAND"|"349"|"Giridih"|"Total"|16.4|83.6|89.6|96.4
+"20"|"JHARKHAND"|"349"|"Giridih"|"Rural"|12.6|87.4|94.6|98.1
+"20"|"JHARKHAND"|"349"|"Giridih"|"Urban"|54.7|45.3|39.6|79.7
+"20"|"JHARKHAND"|"350"|"Deoghar"|"Total"|19.7|80.3|84|96.1
+"20"|"JHARKHAND"|"350"|"Deoghar"|"Rural"|11.1|88.9|94.8|98.7
+"20"|"JHARKHAND"|"350"|"Deoghar"|"Urban"|60.5|39.5|32.2|83.3
+"20"|"JHARKHAND"|"351"|"Godda"|"Total"|14.5|85.5|89.7|97.9
+"20"|"JHARKHAND"|"351"|"Godda"|"Rural"|12.3|87.7|92.4|98.6
+"20"|"JHARKHAND"|"351"|"Godda"|"Urban"|58.8|41.2|36.1|85.4
+"20"|"JHARKHAND"|"352"|"Sahibganj"|"Total"|19.6|80.4|85.4|97.6
+"20"|"JHARKHAND"|"352"|"Sahibganj"|"Rural"|15.7|84.3|91.4|98.9
+"20"|"JHARKHAND"|"352"|"Sahibganj"|"Urban"|44.5|55.5|48.4|89.4
+"20"|"JHARKHAND"|"353"|"Pakur"|"Total"|6.5|93.5|90.3|98.9
+"20"|"JHARKHAND"|"353"|"Pakur"|"Rural"|4.7|95.3|93.2|99.5
+"20"|"JHARKHAND"|"353"|"Pakur"|"Urban"|29.1|70.9|53.8|90.7
+"20"|"JHARKHAND"|"354"|"Dhanbad"|"Total"|32.8|67.2|61.1|89.5
+"20"|"JHARKHAND"|"354"|"Dhanbad"|"Rural"|16.8|83.2|88.2|97.7
+"20"|"JHARKHAND"|"354"|"Dhanbad"|"Urban"|44.2|55.8|41.9|83.7
+"20"|"JHARKHAND"|"355"|"Bokaro"|"Total"|35.6|64.4|67|83.1
+"20"|"JHARKHAND"|"355"|"Bokaro"|"Rural"|13.4|86.6|93.4|97.7
+"20"|"JHARKHAND"|"355"|"Bokaro"|"Urban"|59.7|40.3|38.2|67.2
+"20"|"JHARKHAND"|"356"|"Lohardaga"|"Total"|11.6|88.4|85.4|97.5
+"20"|"JHARKHAND"|"356"|"Lohardaga"|"Rural"|6.1|93.9|93.1|98.7
+"20"|"JHARKHAND"|"356"|"Lohardaga"|"Urban"|51.8|48.2|29.8|88.2
+"20"|"JHARKHAND"|"357"|"Purbi Singhbhum"|"Total"|45.2|54.8|51.1|75.9
+"20"|"JHARKHAND"|"357"|"Purbi Singhbhum"|"Rural"|12.2|87.8|87.4|97.7
+"20"|"JHARKHAND"|"357"|"Purbi Singhbhum"|"Urban"|73.2|26.8|20.4|57.4
+"20"|"JHARKHAND"|"358"|"Palamu"|"Total"|26.2|73.8|87.5|95.3
+"20"|"JHARKHAND"|"358"|"Palamu"|"Rural"|22.2|77.8|93.1|97.3
+"20"|"JHARKHAND"|"358"|"Palamu"|"Urban"|58.1|41.9|42.8|79
+"20"|"JHARKHAND"|"359"|"Latehar"|"Total"|10.2|89.8|89.9|97.9
+"20"|"JHARKHAND"|"359"|"Latehar"|"Rural"|7.1|92.9|93.5|99.1
+"20"|"JHARKHAND"|"359"|"Latehar"|"Urban"|49.3|50.7|44.7|83.1
+"20"|"JHARKHAND"|"360"|"Hazaribagh"|"Total"|26.1|73.9|80.9|94.4
+"20"|"JHARKHAND"|"360"|"Hazaribagh"|"Rural"|18.5|81.5|91.1|96.9
+"20"|"JHARKHAND"|"360"|"Hazaribagh"|"Urban"|65.6|34.4|27.5|80.8
+"20"|"JHARKHAND"|"361"|"Ramgarh"|"Total"|34.1|65.9|67.4|92.3
+"20"|"JHARKHAND"|"361"|"Ramgarh"|"Rural"|14.9|85.1|89.2|97.4
+"20"|"JHARKHAND"|"361"|"Ramgarh"|"Urban"|57.9|42.1|40.5|85.8
+"20"|"JHARKHAND"|"362"|"Dumka"|"Total"|8.5|91.5|90.9|98.3
+"20"|"JHARKHAND"|"362"|"Dumka"|"Rural"|5.7|94.3|94.5|98.9
+"20"|"JHARKHAND"|"362"|"Dumka"|"Urban"|51.7|48.3|36.6|89.4
+"20"|"JHARKHAND"|"363"|"Jamtara"|"Total"|13.7|86.3|90.6|98.5
+"20"|"JHARKHAND"|"363"|"Jamtara"|"Rural"|8.6|91.4|96|99.4
+"20"|"JHARKHAND"|"363"|"Jamtara"|"Urban"|60.9|39.1|40.2|90.8
+"20"|"JHARKHAND"|"364"|"Ranchi"|"Total"|35.8|64.2|60.2|86.8
+"20"|"JHARKHAND"|"364"|"Ranchi"|"Rural"|10.4|89.6|87.8|98.5
+"20"|"JHARKHAND"|"364"|"Ranchi"|"Urban"|70.7|29.3|22.3|70.6
+"20"|"JHARKHAND"|"365"|"Khunti"|"Total"|8.8|91.2|91.9|99.2
+"20"|"JHARKHAND"|"365"|"Khunti"|"Rural"|4.7|95.3|96.2|99.7
+"20"|"JHARKHAND"|"365"|"Khunti"|"Urban"|51.5|48.5|46.6|93.9
+"20"|"JHARKHAND"|"366"|"Gumla"|"Total"|10.7|89.3|90.5|98.4
+"20"|"JHARKHAND"|"366"|"Gumla"|"Rural"|7.4|92.6|94.4|99.3
+"20"|"JHARKHAND"|"366"|"Gumla"|"Urban"|58.3|41.7|32.7|83.3
+"20"|"JHARKHAND"|"367"|"Simdega"|"Total"|7.8|92.2|92.2|99.1
+"20"|"JHARKHAND"|"367"|"Simdega"|"Rural"|5|95|95.4|99.6
+"20"|"JHARKHAND"|"367"|"Simdega"|"Urban"|46.4|53.6|47.2|92.2
+"20"|"JHARKHAND"|"368"|"Pashchimi Singhbhum"|"Total"|10|90|88.6|97.9
+"20"|"JHARKHAND"|"368"|"Pashchimi Singhbhum"|"Rural"|3.5|96.5|96.7|99.7
+"20"|"JHARKHAND"|"368"|"Pashchimi Singhbhum"|"Urban"|47.7|52.3|41.6|87.2
+"20"|"JHARKHAND"|"369"|"Saraikela-Kharsawan"|"Total"|20.5|79.5|80.1|93.3
+"20"|"JHARKHAND"|"369"|"Saraikela-Kharsawan"|"Rural"|8.1|91.9|93.9|98.8
+"20"|"JHARKHAND"|"369"|"Saraikela-Kharsawan"|"Urban"|60.2|39.8|36.4|75.8
+"21"|"ODISHA"|"370"|"Bargarh"|"Total"|9.9|90.1|85.6|98.1
+"21"|"ODISHA"|"370"|"Bargarh"|"Rural"|6.4|93.6|89.4|98.8
+"21"|"ODISHA"|"370"|"Bargarh"|"Urban"|44.9|55.1|47.8|92.6
+"21"|"ODISHA"|"371"|"Jharsuguda"|"Total"|25.8|74.2|74.7|95.3
+"21"|"ODISHA"|"371"|"Jharsuguda"|"Rural"|10.5|89.5|91.2|97.1
+"21"|"ODISHA"|"371"|"Jharsuguda"|"Urban"|50.7|49.3|47.5|92.3
+"21"|"ODISHA"|"372"|"Sambalpur"|"Total"|23.1|76.9|78.1|95.4
+"21"|"ODISHA"|"372"|"Sambalpur"|"Rural"|10.4|89.6|92.1|98.2
+"21"|"ODISHA"|"372"|"Sambalpur"|"Urban"|55.5|44.5|42.2|88.4
+"21"|"ODISHA"|"373"|"Debagarh"|"Total"|11.3|88.7|91.6|99.5
+"21"|"ODISHA"|"373"|"Debagarh"|"Rural"|9|91|94.7|99.8
+"21"|"ODISHA"|"373"|"Debagarh"|"Urban"|40.1|59.9|49.7|95.6
+"21"|"ODISHA"|"374"|"Sundargarh"|"Total"|25|75|73.3|89.7
+"21"|"ODISHA"|"374"|"Sundargarh"|"Rural"|9.4|90.6|92.6|98.4
+"21"|"ODISHA"|"374"|"Sundargarh"|"Urban"|54.7|45.3|36.6|72.9
+"21"|"ODISHA"|"375"|"Kendujhar"|"Total"|17.1|82.9|86.5|98.3
+"21"|"ODISHA"|"375"|"Kendujhar"|"Rural"|12.6|87.4|92.2|99.3
+"21"|"ODISHA"|"375"|"Kendujhar"|"Urban"|44.4|55.6|51.2|91.9
+"21"|"ODISHA"|"376"|"Mayurbhanj"|"Total"|16.4|83.6|84.7|99
+"21"|"ODISHA"|"376"|"Mayurbhanj"|"Rural"|12.8|87.2|88.3|99.5
+"21"|"ODISHA"|"376"|"Mayurbhanj"|"Urban"|61.6|38.4|38.3|92.8
+"21"|"ODISHA"|"377"|"Baleshwar"|"Total"|39.4|60.6|78.9|97.8
+"21"|"ODISHA"|"377"|"Baleshwar"|"Rural"|36.9|63.1|83.7|98.8
+"21"|"ODISHA"|"377"|"Baleshwar"|"Urban"|60.6|39.4|37.5|88.8
+"21"|"ODISHA"|"378"|"Bhadrak"|"Total"|35.2|64.8|83.5|97.8
+"21"|"ODISHA"|"378"|"Bhadrak"|"Rural"|31.7|68.3|87.2|98.7
+"21"|"ODISHA"|"378"|"Bhadrak"|"Urban"|61.8|38.2|54.9|90.9
+"21"|"ODISHA"|"379"|"Kendrapara "|"Total"|17.5|82.5|84|98.2
+"21"|"ODISHA"|"379"|"Kendrapara "|"Rural"|15.4|84.6|86.2|98.5
+"21"|"ODISHA"|"379"|"Kendrapara "|"Urban"|58.3|41.7|43.7|90.8
+"21"|"ODISHA"|"380"|"Jagatsinghapur "|"Total"|39.1|60.9|76.9|95.6
+"21"|"ODISHA"|"380"|"Jagatsinghapur "|"Rural"|37.7|62.3|79.3|97.6
+"21"|"ODISHA"|"380"|"Jagatsinghapur "|"Urban"|50.4|49.6|57.5|78.2
+"21"|"ODISHA"|"381"|"Cuttack"|"Total"|41.7|58.3|65.7|91.2
+"21"|"ODISHA"|"381"|"Cuttack"|"Rural"|30.8|69.2|79.5|98
+"21"|"ODISHA"|"381"|"Cuttack"|"Urban"|74.3|25.7|24.4|70.5
+"21"|"ODISHA"|"382"|"Jajapur  "|"Total"|34.3|65.7|79.6|97.6
+"21"|"ODISHA"|"382"|"Jajapur  "|"Rural"|32.3|67.7|82.5|98.3
+"21"|"ODISHA"|"382"|"Jajapur  "|"Urban"|59.5|40.5|43.2|88.3
+"21"|"ODISHA"|"383"|"Dhenkanal"|"Total"|19.6|80.4|83.6|98.5
+"21"|"ODISHA"|"383"|"Dhenkanal"|"Rural"|16.2|83.8|87.6|99
+"21"|"ODISHA"|"383"|"Dhenkanal"|"Urban"|53.4|46.6|43.3|92.8
+"21"|"ODISHA"|"384"|"Anugul  "|"Total"|25|75|77.9|95
+"21"|"ODISHA"|"384"|"Anugul  "|"Rural"|18.9|81.1|85.2|98
+"21"|"ODISHA"|"384"|"Anugul  "|"Urban"|58|42|38.4|78.7
+"21"|"ODISHA"|"385"|"Nayagarh  "|"Total"|12|88|83.6|97.9
+"21"|"ODISHA"|"385"|"Nayagarh  "|"Rural"|9.6|90.4|86.5|98.8
+"21"|"ODISHA"|"385"|"Nayagarh  "|"Urban"|41.5|58.5|48|87.3
+"21"|"ODISHA"|"386"|"Khordha "|"Total"|47.2|52.8|55.2|78.6
+"21"|"ODISHA"|"386"|"Khordha "|"Rural"|25.3|74.7|83.2|96.6
+"21"|"ODISHA"|"386"|"Khordha "|"Urban"|69.6|30.4|26.5|60.1
+"21"|"ODISHA"|"387"|"Puri"|"Total"|33.3|66.7|77.7|95
+"21"|"ODISHA"|"387"|"Puri"|"Rural"|26.9|73.1|85.7|97
+"21"|"ODISHA"|"387"|"Puri"|"Urban"|72.4|27.6|29|83
+"21"|"ODISHA"|"388"|"Ganjam"|"Total"|18.6|81.4|74|94.7
+"21"|"ODISHA"|"388"|"Ganjam"|"Rural"|11.2|88.8|82.9|97.2
+"21"|"ODISHA"|"388"|"Ganjam"|"Urban"|47.3|52.7|39.6|84.8
+"21"|"ODISHA"|"389"|"Gajapati"|"Total"|10|90|84|97.7
+"21"|"ODISHA"|"389"|"Gajapati"|"Rural"|5.9|94.1|89.5|98.3
+"21"|"ODISHA"|"389"|"Gajapati"|"Urban"|39.6|60.4|44.7|93.5
+"21"|"ODISHA"|"390"|"Kandhamal"|"Total"|9.8|90.2|90.1|98.8
+"21"|"ODISHA"|"390"|"Kandhamal"|"Rural"|6.8|93.2|94.8|99.6
+"21"|"ODISHA"|"390"|"Kandhamal"|"Urban"|38.1|61.9|46.7|91.1
+"21"|"ODISHA"|"391"|"Baudh"|"Total"|8.4|91.6|91.5|99.2
+"21"|"ODISHA"|"391"|"Baudh"|"Rural"|7.3|92.7|93.2|99.5
+"21"|"ODISHA"|"391"|"Baudh"|"Urban"|34|66|54.6|93.2
+"21"|"ODISHA"|"392"|"Subarnapur"|"Total"|7.2|92.8|90.6|98.8
+"21"|"ODISHA"|"392"|"Subarnapur"|"Rural"|5.3|94.7|92.8|99.2
+"21"|"ODISHA"|"392"|"Subarnapur"|"Urban"|30.1|69.9|62.3|93.6
+"21"|"ODISHA"|"393"|"Balangir"|"Total"|8.7|91.3|87.1|98.3
+"21"|"ODISHA"|"393"|"Balangir"|"Rural"|4.6|95.4|92.1|99.2
+"21"|"ODISHA"|"393"|"Balangir"|"Urban"|43.9|56.1|44.1|90.7
+"21"|"ODISHA"|"394"|"Nuapada"|"Total"|7.4|92.6|88.7|99
+"21"|"ODISHA"|"394"|"Nuapada"|"Rural"|6.1|93.9|90.6|99.3
+"21"|"ODISHA"|"394"|"Nuapada"|"Urban"|30.9|69.1|52.9|91.8
+"21"|"ODISHA"|"395"|"Kalahandi"|"Total"|8.5|91.5|90.1|98.9
+"21"|"ODISHA"|"395"|"Kalahandi"|"Rural"|6|94|93.1|99.4
+"21"|"ODISHA"|"395"|"Kalahandi"|"Urban"|42.7|57.3|46.4|93.1
+"21"|"ODISHA"|"396"|"Rayagada  "|"Total"|11.7|88.3|86.3|97
+"21"|"ODISHA"|"396"|"Rayagada  "|"Rural"|4.7|95.3|94.4|99.2
+"21"|"ODISHA"|"396"|"Rayagada  "|"Urban"|50.8|49.2|41.7|85
+"21"|"ODISHA"|"397"|"Nabarangapur "|"Total"|7.4|92.6|92.9|99.2
+"21"|"ODISHA"|"397"|"Nabarangapur "|"Rural"|5|95|96.3|99.6
+"21"|"ODISHA"|"397"|"Nabarangapur "|"Urban"|37.2|62.8|49.7|93.5
+"21"|"ODISHA"|"398"|"Koraput"|"Total"|13.7|86.3|83.8|95.1
+"21"|"ODISHA"|"398"|"Koraput"|"Rural"|5.6|94.4|92.7|98.5
+"21"|"ODISHA"|"398"|"Koraput"|"Urban"|55.6|44.4|36.8|77.7
+"21"|"ODISHA"|"399"|"Malkangiri  "|"Total"|5.7|94.3|91.4|99.4
+"21"|"ODISHA"|"399"|"Malkangiri  "|"Rural"|3.4|96.6|94.9|99.8
+"21"|"ODISHA"|"399"|"Malkangiri  "|"Urban"|31.8|68.2|53.1|94.4
+"22"|"CHHATTISGARH"|"400"|"Koriya"|"Total"|25.6|74.4|77.9|92.3
+"22"|"CHHATTISGARH"|"400"|"Koriya"|"Rural"|15|85|92.6|96.7
+"22"|"CHHATTISGARH"|"400"|"Koriya"|"Urban"|51.2|48.8|42.3|81.6
+"22"|"CHHATTISGARH"|"401"|"Surguja"|"Total"|14.4|85.6|76.5|95.3
+"22"|"CHHATTISGARH"|"401"|"Surguja"|"Rural"|10.3|89.7|80.3|96.7
+"22"|"CHHATTISGARH"|"401"|"Surguja"|"Urban"|55.9|44.1|39.1|81.9
+"22"|"CHHATTISGARH"|"402"|"Jashpur "|"Total"|9.4|90.6|88.5|99.1
+"22"|"CHHATTISGARH"|"402"|"Jashpur "|"Rural"|6.6|93.4|91.3|99.5
+"22"|"CHHATTISGARH"|"402"|"Jashpur "|"Urban"|40.8|59.2|58.4|94.2
+"22"|"CHHATTISGARH"|"403"|"Raigarh"|"Total"|15.9|84.1|81.9|95.8
+"22"|"CHHATTISGARH"|"403"|"Raigarh"|"Rural"|9.9|90.1|88.3|97.6
+"22"|"CHHATTISGARH"|"403"|"Raigarh"|"Urban"|51.9|48.1|43.8|85.6
+"22"|"CHHATTISGARH"|"404"|"Korba "|"Total"|25.9|74.1|73.1|93.1
+"22"|"CHHATTISGARH"|"404"|"Korba "|"Rural"|11.2|88.8|89.6|98.9
+"22"|"CHHATTISGARH"|"404"|"Korba "|"Urban"|53.4|46.6|42|82.3
+"22"|"CHHATTISGARH"|"405"|"Janjgir - Champa"|"Total"|15.5|84.5|85.6|96.8
+"22"|"CHHATTISGARH"|"405"|"Janjgir - Champa"|"Rural"|12|88|89.9|98.4
+"22"|"CHHATTISGARH"|"405"|"Janjgir - Champa"|"Urban"|39.5|60.5|56.3|85.1
+"22"|"CHHATTISGARH"|"406"|"Bilaspur"|"Total"|23.3|76.7|73.8|94.1
+"22"|"CHHATTISGARH"|"406"|"Bilaspur"|"Rural"|12.9|87.1|85.3|98.4
+"22"|"CHHATTISGARH"|"406"|"Bilaspur"|"Urban"|58.6|41.4|34.9|79.7
+"22"|"CHHATTISGARH"|"407"|"Kabeerdham"|"Total"|13|87|88.4|98.7
+"22"|"CHHATTISGARH"|"407"|"Kabeerdham"|"Rural"|9.3|90.7|92.8|99.4
+"22"|"CHHATTISGARH"|"407"|"Kabeerdham"|"Urban"|45.5|54.5|51.1|93.1
+"22"|"CHHATTISGARH"|"408"|"Rajnandgaon"|"Total"|17.2|82.8|78.1|96.4
+"22"|"CHHATTISGARH"|"408"|"Rajnandgaon"|"Rural"|11.3|88.7|85.1|97.7
+"22"|"CHHATTISGARH"|"408"|"Rajnandgaon"|"Urban"|43|57|47.4|91.2
+"22"|"CHHATTISGARH"|"409"|"Durg"|"Total"|25.9|74.1|67.9|88
+"22"|"CHHATTISGARH"|"409"|"Durg"|"Rural"|12|88|87.1|97.9
+"22"|"CHHATTISGARH"|"409"|"Durg"|"Urban"|47.7|52.3|37.9|72.4
+"22"|"CHHATTISGARH"|"410"|"Raipur"|"Total"|24.1|75.9|70.2|93.7
+"22"|"CHHATTISGARH"|"410"|"Raipur"|"Rural"|10.5|89.5|88.5|97.8
+"22"|"CHHATTISGARH"|"410"|"Raipur"|"Urban"|49.6|50.4|35.8|86
+"22"|"CHHATTISGARH"|"411"|"Mahasamund"|"Total"|11.4|88.6|84|97.2
+"22"|"CHHATTISGARH"|"411"|"Mahasamund"|"Rural"|7.3|92.7|88|97.9
+"22"|"CHHATTISGARH"|"411"|"Mahasamund"|"Urban"|47.1|52.9|50.2|91.8
+"22"|"CHHATTISGARH"|"412"|"Dhamtari "|"Total"|22.1|77.9|73.6|96.2
+"22"|"CHHATTISGARH"|"412"|"Dhamtari "|"Rural"|16.4|83.6|79.8|98.3
+"22"|"CHHATTISGARH"|"412"|"Dhamtari "|"Urban"|47|53|46.8|87
+"22"|"CHHATTISGARH"|"413"|"Uttar Bastar Kanker"|"Total"|13.7|86.3|81.9|98.9
+"22"|"CHHATTISGARH"|"413"|"Uttar Bastar Kanker"|"Rural"|9.1|90.9|86.9|99.4
+"22"|"CHHATTISGARH"|"413"|"Uttar Bastar Kanker"|"Urban"|52|48|39.6|94.7
+"22"|"CHHATTISGARH"|"414"|"Bastar"|"Total"|11.6|88.4|80.7|98.5
+"22"|"CHHATTISGARH"|"414"|"Bastar"|"Rural"|5.3|94.7|87.1|99.8
+"22"|"CHHATTISGARH"|"414"|"Bastar"|"Urban"|51.4|48.6|39.4|90.3
+"22"|"CHHATTISGARH"|"415"|"Narayanpur"|"Total"|8.8|91.2|89.4|99.3
+"22"|"CHHATTISGARH"|"415"|"Narayanpur"|"Rural"|1.8|98.2|96|99.8
+"22"|"CHHATTISGARH"|"415"|"Narayanpur"|"Urban"|44.2|55.8|56|96.8
+"22"|"CHHATTISGARH"|"416"|"Dakshin Bastar Dantewada"|"Total"|10.8|89.2|85.2|96.1
+"22"|"CHHATTISGARH"|"416"|"Dakshin Bastar Dantewada"|"Rural"|3.4|96.6|93.2|99.7
+"22"|"CHHATTISGARH"|"416"|"Dakshin Bastar Dantewada"|"Urban"|42.1|57.9|50.9|80.8
+"22"|"CHHATTISGARH"|"417"|"Bijapur"|"Total"|4.9|95.1|94.9|99.6
+"22"|"CHHATTISGARH"|"417"|"Bijapur"|"Rural"|3.6|96.4|97.9|99.9
+"22"|"CHHATTISGARH"|"417"|"Bijapur"|"Urban"|14.6|85.4|72|97.2
+"23"|"MADHYA PRADESH"|"418"|"Sheopur "|"Total"|13.9|86.1|88.5|98.2
+"23"|"MADHYA PRADESH"|"418"|"Sheopur "|"Rural"|6|94|94.7|99.2
+"23"|"MADHYA PRADESH"|"418"|"Sheopur "|"Urban"|63.1|36.9|50.1|92.4
+"23"|"MADHYA PRADESH"|"419"|"Morena"|"Total"|20.1|79.9|79.6|96.2
+"23"|"MADHYA PRADESH"|"419"|"Morena"|"Rural"|7.8|92.2|93.8|98.4
+"23"|"MADHYA PRADESH"|"419"|"Morena"|"Urban"|66.1|33.9|27.1|88
+"23"|"MADHYA PRADESH"|"420"|"Bhind"|"Total"|17.2|82.8|77.8|97.1
+"23"|"MADHYA PRADESH"|"420"|"Bhind"|"Rural"|6.6|93.4|91.2|98.6
+"23"|"MADHYA PRADESH"|"420"|"Bhind"|"Urban"|51.3|48.7|34.7|92.6
+"23"|"MADHYA PRADESH"|"421"|"Gwalior"|"Total"|48.2|51.8|41|66.4
+"23"|"MADHYA PRADESH"|"421"|"Gwalior"|"Rural"|13.1|86.9|83.6|97.1
+"23"|"MADHYA PRADESH"|"421"|"Gwalior"|"Urban"|70.6|29.4|13.8|46.6
+"23"|"MADHYA PRADESH"|"422"|"Datia"|"Total"|21.1|78.9|78.4|95.6
+"23"|"MADHYA PRADESH"|"422"|"Datia"|"Rural"|11.3|88.7|89|97.5
+"23"|"MADHYA PRADESH"|"422"|"Datia"|"Urban"|58.4|41.6|37.6|88.4
+"23"|"MADHYA PRADESH"|"423"|"Shivpuri"|"Total"|11.2|88.8|85.7|96.8
+"23"|"MADHYA PRADESH"|"423"|"Shivpuri"|"Rural"|5.7|94.3|94.7|98.3
+"23"|"MADHYA PRADESH"|"423"|"Shivpuri"|"Urban"|42.1|57.9|35.1|88.6
+"23"|"MADHYA PRADESH"|"424"|"Tikamgarh"|"Total"|8.7|91.3|90|97.6
+"23"|"MADHYA PRADESH"|"424"|"Tikamgarh"|"Rural"|4.1|95.9|96.4|98.9
+"23"|"MADHYA PRADESH"|"424"|"Tikamgarh"|"Urban"|34.5|65.5|55.2|90
+"23"|"MADHYA PRADESH"|"425"|"Chhatarpur"|"Total"|12.8|87.2|85.1|94.4
+"23"|"MADHYA PRADESH"|"425"|"Chhatarpur"|"Rural"|6.3|93.7|95.1|98.2
+"23"|"MADHYA PRADESH"|"425"|"Chhatarpur"|"Urban"|40|60|42.9|78.7
+"23"|"MADHYA PRADESH"|"426"|"Panna"|"Total"|11.1|88.9|90.4|95.2
+"23"|"MADHYA PRADESH"|"426"|"Panna"|"Rural"|7.3|92.7|95.4|97.2
+"23"|"MADHYA PRADESH"|"426"|"Panna"|"Urban"|43.2|56.8|47.3|77.9
+"23"|"MADHYA PRADESH"|"427"|"Sagar"|"Total"|21.1|78.9|75.9|92.4
+"23"|"MADHYA PRADESH"|"427"|"Sagar"|"Rural"|10.7|89.3|89.9|97.8
+"23"|"MADHYA PRADESH"|"427"|"Sagar"|"Urban"|50.6|49.4|36.2|76.9
+"23"|"MADHYA PRADESH"|"428"|"Damoh"|"Total"|12|88|86|95.5
+"23"|"MADHYA PRADESH"|"428"|"Damoh"|"Rural"|6.9|93.1|94.4|97.7
+"23"|"MADHYA PRADESH"|"428"|"Damoh"|"Urban"|37.1|62.9|44.8|84.8
+"23"|"MADHYA PRADESH"|"429"|"Satna"|"Total"|19.4|80.6|72.7|94.8
+"23"|"MADHYA PRADESH"|"429"|"Satna"|"Rural"|12.5|87.5|79.9|97.9
+"23"|"MADHYA PRADESH"|"429"|"Satna"|"Urban"|50|50|41.1|81.1
+"23"|"MADHYA PRADESH"|"430"|"Rewa"|"Total"|22.1|77.9|78.4|95.4
+"23"|"MADHYA PRADESH"|"430"|"Rewa"|"Rural"|17.6|82.4|84|98.3
+"23"|"MADHYA PRADESH"|"430"|"Rewa"|"Urban"|50.6|49.4|42.3|76.9
+"23"|"MADHYA PRADESH"|"431"|"Umaria"|"Total"|20.3|79.7|87.2|95.5
+"23"|"MADHYA PRADESH"|"431"|"Umaria"|"Rural"|13.6|86.4|94.9|98.7
+"23"|"MADHYA PRADESH"|"431"|"Umaria"|"Urban"|55.4|44.6|47.1|78.5
+"23"|"MADHYA PRADESH"|"432"|"Neemuch "|"Total"|28.9|71.1|74.1|92.6
+"23"|"MADHYA PRADESH"|"432"|"Neemuch "|"Rural"|18.9|81.1|87.2|97
+"23"|"MADHYA PRADESH"|"432"|"Neemuch "|"Urban"|57.3|42.7|36.9|80.2
+"23"|"MADHYA PRADESH"|"433"|"Mandsaur"|"Total"|24.5|75.5|76.4|93.2
+"23"|"MADHYA PRADESH"|"433"|"Mandsaur"|"Rural"|16.4|83.6|87.2|97.6
+"23"|"MADHYA PRADESH"|"433"|"Mandsaur"|"Urban"|57.9|42.1|32.2|75.2
+"23"|"MADHYA PRADESH"|"434"|"Ratlam"|"Total"|21.4|78.6|68.2|89.7
+"23"|"MADHYA PRADESH"|"434"|"Ratlam"|"Rural"|6.8|93.2|87.3|98.1
+"23"|"MADHYA PRADESH"|"434"|"Ratlam"|"Urban"|59.2|40.8|19.3|68
+"23"|"MADHYA PRADESH"|"435"|"Ujjain"|"Total"|29.1|70.9|57.9|87
+"23"|"MADHYA PRADESH"|"435"|"Ujjain"|"Rural"|9.1|90.9|82.7|97.8
+"23"|"MADHYA PRADESH"|"435"|"Ujjain"|"Urban"|61.4|38.6|18|69.6
+"23"|"MADHYA PRADESH"|"436"|"Shajapur"|"Total"|15.3|84.7|77.4|95.8
+"23"|"MADHYA PRADESH"|"436"|"Shajapur"|"Rural"|7.9|92.1|87.1|98.1
+"23"|"MADHYA PRADESH"|"436"|"Shajapur"|"Urban"|48.4|51.6|34.2|85.7
+"23"|"MADHYA PRADESH"|"437"|"Dewas"|"Total"|23|77|63.7|90.3
+"23"|"MADHYA PRADESH"|"437"|"Dewas"|"Rural"|14.4|85.6|78.7|97.9
+"23"|"MADHYA PRADESH"|"437"|"Dewas"|"Urban"|45.6|54.4|24.2|70.4
+"23"|"MADHYA PRADESH"|"438"|"Dhar"|"Total"|21.3|78.7|71.3|92
+"23"|"MADHYA PRADESH"|"438"|"Dhar"|"Rural"|13.5|86.5|82.2|96.7
+"23"|"MADHYA PRADESH"|"438"|"Dhar"|"Urban"|54.4|45.6|24.6|71.6
+"23"|"MADHYA PRADESH"|"439"|"Indore"|"Total"|49.1|50.9|23.6|48.2
+"23"|"MADHYA PRADESH"|"439"|"Indore"|"Rural"|19.9|80.1|59.3|92.4
+"23"|"MADHYA PRADESH"|"439"|"Indore"|"Urban"|58.8|41.2|11.9|33.5
+"23"|"MADHYA PRADESH"|"440"|"Khargone (West Nimar)"|"Total"|30.1|69.9|78.2|93
+"23"|"MADHYA PRADESH"|"440"|"Khargone (West Nimar)"|"Rural"|24.6|75.4|87.5|95.8
+"23"|"MADHYA PRADESH"|"440"|"Khargone (West Nimar)"|"Urban"|59.6|40.4|27.4|78.1
+"23"|"MADHYA PRADESH"|"441"|"Barwani "|"Total"|19.8|80.2|82.1|95.3
+"23"|"MADHYA PRADESH"|"441"|"Barwani "|"Rural"|15.1|84.9|90.6|97.8
+"23"|"MADHYA PRADESH"|"441"|"Barwani "|"Urban"|45.9|54.1|35.7|81.3
+"23"|"MADHYA PRADESH"|"442"|"Rajgarh"|"Total"|10.5|89.5|85|97
+"23"|"MADHYA PRADESH"|"442"|"Rajgarh"|"Rural"|4.5|95.5|92.8|98.6
+"23"|"MADHYA PRADESH"|"442"|"Rajgarh"|"Urban"|43.9|56.1|41.3|88.2
+"23"|"MADHYA PRADESH"|"443"|"Vidisha"|"Total"|27|73|76|94.2
+"23"|"MADHYA PRADESH"|"443"|"Vidisha"|"Rural"|17.6|82.4|89|96.1
+"23"|"MADHYA PRADESH"|"443"|"Vidisha"|"Urban"|60.1|39.9|29.4|87.6
+"23"|"MADHYA PRADESH"|"444"|"Bhopal"|"Total"|48.6|51.4|29.1|51.7
+"23"|"MADHYA PRADESH"|"444"|"Bhopal"|"Rural"|15.4|84.6|79.1|93.8
+"23"|"MADHYA PRADESH"|"444"|"Bhopal"|"Urban"|56.2|43.8|17.7|42.1
+"23"|"MADHYA PRADESH"|"445"|"Sehore"|"Total"|21.9|78.1|68.9|96.9
+"23"|"MADHYA PRADESH"|"445"|"Sehore"|"Rural"|15.7|84.3|79|98.5
+"23"|"MADHYA PRADESH"|"445"|"Sehore"|"Urban"|50.6|49.4|22.4|89.2
+"23"|"MADHYA PRADESH"|"446"|"Raisen"|"Total"|25.7|74.3|70.7|94.8
+"23"|"MADHYA PRADESH"|"446"|"Raisen"|"Rural"|19|81|82.1|98.4
+"23"|"MADHYA PRADESH"|"446"|"Raisen"|"Urban"|50.1|49.9|29.6|81.9
+"23"|"MADHYA PRADESH"|"447"|"Betul"|"Total"|20.9|79.1|76.5|96.9
+"23"|"MADHYA PRADESH"|"447"|"Betul"|"Rural"|13.3|86.7|88.3|98.8
+"23"|"MADHYA PRADESH"|"447"|"Betul"|"Urban"|50.9|49.1|30.2|88.9
+"23"|"MADHYA PRADESH"|"448"|"Harda "|"Total"|34.6|65.4|54.2|93.1
+"23"|"MADHYA PRADESH"|"448"|"Harda "|"Rural"|28.1|71.9|62.6|93.9
+"23"|"MADHYA PRADESH"|"448"|"Harda "|"Urban"|59.8|40.2|21.7|89.8
+"23"|"MADHYA PRADESH"|"449"|"Hoshangabad"|"Total"|43.1|56.9|53.2|91.5
+"23"|"MADHYA PRADESH"|"449"|"Hoshangabad"|"Rural"|31.9|68.1|67.6|97.4
+"23"|"MADHYA PRADESH"|"449"|"Hoshangabad"|"Urban"|68.1|31.9|21.4|78.7
+"23"|"MADHYA PRADESH"|"450"|"Katni "|"Total"|19.1|80.9|81.3|92.9
+"23"|"MADHYA PRADESH"|"450"|"Katni "|"Rural"|9.4|90.6|92.2|96.6
+"23"|"MADHYA PRADESH"|"450"|"Katni "|"Urban"|60.5|39.5|34.8|77.2
+"23"|"MADHYA PRADESH"|"451"|"Jabalpur"|"Total"|36.4|63.6|46.7|80.3
+"23"|"MADHYA PRADESH"|"451"|"Jabalpur"|"Rural"|13.2|86.8|75.8|96.8
+"23"|"MADHYA PRADESH"|"451"|"Jabalpur"|"Urban"|56|44|22|66.2
+"23"|"MADHYA PRADESH"|"452"|"Narsimhapur"|"Total"|28.5|71.5|66.2|94
+"23"|"MADHYA PRADESH"|"452"|"Narsimhapur"|"Rural"|22|78|73.7|97.4
+"23"|"MADHYA PRADESH"|"452"|"Narsimhapur"|"Urban"|59.3|40.7|29.9|77.5
+"23"|"MADHYA PRADESH"|"453"|"Dindori "|"Total"|5.9|94.1|94.6|98.4
+"23"|"MADHYA PRADESH"|"453"|"Dindori "|"Rural"|4.1|95.9|96.8|99.3
+"23"|"MADHYA PRADESH"|"453"|"Dindori "|"Urban"|46.4|53.6|45.6|80.5
+"23"|"MADHYA PRADESH"|"454"|"Mandla"|"Total"|12.3|87.7|87.6|98.2
+"23"|"MADHYA PRADESH"|"454"|"Mandla"|"Rural"|7.1|92.9|94.3|99.4
+"23"|"MADHYA PRADESH"|"454"|"Mandla"|"Urban"|53.1|46.9|36.5|89
+"23"|"MADHYA PRADESH"|"455"|"Chhindwara"|"Total"|23.3|76.7|75.5|96
+"23"|"MADHYA PRADESH"|"455"|"Chhindwara"|"Rural"|14.4|85.6|88.6|98.1
+"23"|"MADHYA PRADESH"|"455"|"Chhindwara"|"Urban"|50.5|49.5|34.8|89.4
+"23"|"MADHYA PRADESH"|"456"|"Seoni"|"Total"|19.5|80.5|81.4|97.5
+"23"|"MADHYA PRADESH"|"456"|"Seoni"|"Rural"|14.8|85.2|88.1|99.3
+"23"|"MADHYA PRADESH"|"456"|"Seoni"|"Urban"|56.4|43.6|27.5|83.1
+"23"|"MADHYA PRADESH"|"457"|"Balaghat"|"Total"|22.1|77.9|82.9|97.7
+"23"|"MADHYA PRADESH"|"457"|"Balaghat"|"Rural"|17.8|82.2|89.8|99.4
+"23"|"MADHYA PRADESH"|"457"|"Balaghat"|"Urban"|49.6|50.4|38.5|87
+"23"|"MADHYA PRADESH"|"458"|"Guna"|"Total"|21|79|80.8|94.1
+"23"|"MADHYA PRADESH"|"458"|"Guna"|"Rural"|9|91|93.2|98.5
+"23"|"MADHYA PRADESH"|"458"|"Guna"|"Urban"|58.9|41.1|41.4|80.2
+"23"|"MADHYA PRADESH"|"459"|"Ashoknagar"|"Total"|17.8|82.2|85.1|96.5
+"23"|"MADHYA PRADESH"|"459"|"Ashoknagar"|"Rural"|11.8|88.2|93.4|98
+"23"|"MADHYA PRADESH"|"459"|"Ashoknagar"|"Urban"|47.6|52.4|45.1|89
+"23"|"MADHYA PRADESH"|"460"|"Shahdol"|"Total"|30.1|69.9|83.5|95.4
+"23"|"MADHYA PRADESH"|"460"|"Shahdol"|"Rural"|24|76|93.5|98.5
+"23"|"MADHYA PRADESH"|"460"|"Shahdol"|"Urban"|58.5|41.5|37.2|80.5
+"23"|"MADHYA PRADESH"|"461"|"Anuppur"|"Total"|28|72|82.9|93.4
+"23"|"MADHYA PRADESH"|"461"|"Anuppur"|"Rural"|18.1|81.9|96.1|96.3
+"23"|"MADHYA PRADESH"|"461"|"Anuppur"|"Urban"|57.4|42.6|43.5|84.8
+"23"|"MADHYA PRADESH"|"462"|"Sidhi"|"Total"|16.7|83.3|93|97.9
+"23"|"MADHYA PRADESH"|"462"|"Sidhi"|"Rural"|15|85|96.5|99.1
+"23"|"MADHYA PRADESH"|"462"|"Sidhi"|"Urban"|37.2|62.8|51.4|83.6
+"23"|"MADHYA PRADESH"|"463"|"Singrauli"|"Total"|20.6|79.4|88.8|94.9
+"23"|"MADHYA PRADESH"|"463"|"Singrauli"|"Rural"|12.9|87.1|98.1|98.7
+"23"|"MADHYA PRADESH"|"463"|"Singrauli"|"Urban"|54.7|45.3|48.3|77.8
+"23"|"MADHYA PRADESH"|"464"|"Jhabua"|"Total"|9.4|90.6|88.7|97.3
+"23"|"MADHYA PRADESH"|"464"|"Jhabua"|"Rural"|4.7|95.3|94.6|99.3
+"23"|"MADHYA PRADESH"|"464"|"Jhabua"|"Urban"|61.2|38.8|23.5|75.5
+"23"|"MADHYA PRADESH"|"465"|"Alirajpur"|"Total"|11.4|88.6|89.9|97.6
+"23"|"MADHYA PRADESH"|"465"|"Alirajpur"|"Rural"|8|92|95.5|99.5
+"23"|"MADHYA PRADESH"|"465"|"Alirajpur"|"Urban"|51.3|48.7|25.2|75.8
+"23"|"MADHYA PRADESH"|"466"|"Khandwa (East Nimar)"|"Total"|22.9|77.1|75|92.1
+"23"|"MADHYA PRADESH"|"466"|"Khandwa (East Nimar)"|"Rural"|16|84|84.7|96.9
+"23"|"MADHYA PRADESH"|"466"|"Khandwa (East Nimar)"|"Urban"|53.8|46.2|32.1|70.4
+"23"|"MADHYA PRADESH"|"467"|"Burhanpur"|"Total"|35.2|64.8|66.4|92.2
+"23"|"MADHYA PRADESH"|"467"|"Burhanpur"|"Rural"|26.4|73.6|83.1|96.7
+"23"|"MADHYA PRADESH"|"467"|"Burhanpur"|"Urban"|52.9|47.1|32.9|83.1
+"24"|"GUJARAT"|"468"|"Kachchh"|"Total"|70.4|29.6|37.4|57.3
+"24"|"GUJARAT"|"468"|"Kachchh"|"Rural"|63.9|36.1|51.2|75.3
+"24"|"GUJARAT"|"468"|"Kachchh"|"Urban"|82|18|12.8|24.8
+"24"|"GUJARAT"|"469"|"Banas Kantha"|"Total"|52.6|47.4|74.2|89.8
+"24"|"GUJARAT"|"469"|"Banas Kantha"|"Rural"|47.7|52.3|83|91.7
+"24"|"GUJARAT"|"469"|"Banas Kantha"|"Urban"|81.5|18.5|22.3|78.5
+"24"|"GUJARAT"|"470"|"Patan  "|"Total"|67.8|32.2|54.3|71.5
+"24"|"GUJARAT"|"470"|"Patan  "|"Rural"|62.7|37.3|64.3|78.1
+"24"|"GUJARAT"|"470"|"Patan  "|"Urban"|86.5|13.5|17.8|47.6
+"24"|"GUJARAT"|"471"|"Mahesana"|"Total"|77.1|22.9|45.5|60.2
+"24"|"GUJARAT"|"471"|"Mahesana"|"Rural"|74.3|25.7|55.8|67.4
+"24"|"GUJARAT"|"471"|"Mahesana"|"Urban"|85.5|14.5|15.2|38.9
+"24"|"GUJARAT"|"472"|"Sabar Kantha"|"Total"|52.5|47.5|62.3|86.4
+"24"|"GUJARAT"|"472"|"Sabar Kantha"|"Rural"|47.8|52.2|69.4|90.6
+"24"|"GUJARAT"|"472"|"Sabar Kantha"|"Urban"|78.1|21.9|23.6|63.4
+"24"|"GUJARAT"|"473"|"Gandhinagar"|"Total"|77.3|22.7|40.9|57.9
+"24"|"GUJARAT"|"473"|"Gandhinagar"|"Rural"|70.1|29.9|57.6|79.8
+"24"|"GUJARAT"|"473"|"Gandhinagar"|"Urban"|86.4|13.6|19.5|30.4
+"24"|"GUJARAT"|"474"|"Ahmadabad"|"Total"|86.1|13.9|17.3|23.3
+"24"|"GUJARAT"|"474"|"Ahmadabad"|"Rural"|59.9|40.1|67.5|86.5
+"24"|"GUJARAT"|"474"|"Ahmadabad"|"Urban"|90.8|9.2|8.2|11.9
+"24"|"GUJARAT"|"475"|"Surendranagar"|"Total"|58|42|64.9|95.7
+"24"|"GUJARAT"|"475"|"Surendranagar"|"Rural"|49.4|50.6|79.4|97.9
+"24"|"GUJARAT"|"475"|"Surendranagar"|"Urban"|78.7|21.3|30.1|90.3
+"24"|"GUJARAT"|"476"|"Rajkot"|"Total"|77.3|22.7|31.3|60.4
+"24"|"GUJARAT"|"476"|"Rajkot"|"Rural"|67.2|32.8|56.3|86.8
+"24"|"GUJARAT"|"476"|"Rajkot"|"Urban"|84.1|15.9|14.6|42.7
+"24"|"GUJARAT"|"477"|"Jamnagar"|"Total"|65.1|34.9|43.6|82.2
+"24"|"GUJARAT"|"477"|"Jamnagar"|"Rural"|53.5|46.5|65.6|92.8
+"24"|"GUJARAT"|"477"|"Jamnagar"|"Urban"|78.9|21.1|17.5|69.6
+"24"|"GUJARAT"|"478"|"Porbandar "|"Total"|58.4|41.6|42.5|91.6
+"24"|"GUJARAT"|"478"|"Porbandar "|"Rural"|49|51|61.3|96.6
+"24"|"GUJARAT"|"478"|"Porbandar "|"Urban"|68.3|31.7|23.2|86.4
+"24"|"GUJARAT"|"479"|"Junagadh"|"Total"|60.3|39.7|40.7|81.4
+"24"|"GUJARAT"|"479"|"Junagadh"|"Rural"|54.7|45.3|54.2|94.1
+"24"|"GUJARAT"|"479"|"Junagadh"|"Urban"|71.2|28.8|14.7|56.8
+"24"|"GUJARAT"|"480"|"Amreli"|"Total"|65|35|41.5|85.8
+"24"|"GUJARAT"|"480"|"Amreli"|"Rural"|61.1|38.9|48.1|87.9
+"24"|"GUJARAT"|"480"|"Amreli"|"Urban"|76.3|23.7|22|79.7
+"24"|"GUJARAT"|"481"|"Bhavnagar"|"Total"|66.6|33.4|46.6|60
+"24"|"GUJARAT"|"481"|"Bhavnagar"|"Rural"|56.5|43.5|68.2|82.3
+"24"|"GUJARAT"|"481"|"Bhavnagar"|"Urban"|79.6|20.4|19.2|31.5
+"24"|"GUJARAT"|"482"|"Anand  "|"Total"|66.4|33.6|46.4|70.3
+"24"|"GUJARAT"|"482"|"Anand  "|"Rural"|59.7|40.3|59.1|80.1
+"24"|"GUJARAT"|"482"|"Anand  "|"Urban"|81.7|18.3|17.4|47.8
+"24"|"GUJARAT"|"483"|"Kheda"|"Total"|50.5|49.5|63.1|80.9
+"24"|"GUJARAT"|"483"|"Kheda"|"Rural"|42|58|75|93.1
+"24"|"GUJARAT"|"483"|"Kheda"|"Urban"|79.9|20.1|21.8|39.1
+"24"|"GUJARAT"|"484"|"Panch Mahals"|"Total"|28.9|71.1|73.8|96.2
+"24"|"GUJARAT"|"484"|"Panch Mahals"|"Rural"|21|79|84.1|98.4
+"24"|"GUJARAT"|"484"|"Panch Mahals"|"Urban"|72.8|27.2|16.4|83.5
+"24"|"GUJARAT"|"485"|"Dohad  "|"Total"|16.5|83.5|87.6|97.4
+"24"|"GUJARAT"|"485"|"Dohad  "|"Rural"|10.9|89.1|94.5|99.5
+"24"|"GUJARAT"|"485"|"Dohad  "|"Urban"|64|36|28.7|79.4
+"24"|"GUJARAT"|"486"|"Vadodara"|"Total"|64.4|35.6|38.7|51.6
+"24"|"GUJARAT"|"486"|"Vadodara"|"Rural"|41.6|58.4|72.1|89.6
+"24"|"GUJARAT"|"486"|"Vadodara"|"Urban"|85.2|14.8|8.5|17.1
+"24"|"GUJARAT"|"487"|"Narmada"|"Total"|33.4|66.6|79.3|94.8
+"24"|"GUJARAT"|"487"|"Narmada"|"Rural"|27.8|72.2|85.7|97.1
+"24"|"GUJARAT"|"487"|"Narmada"|"Urban"|80.1|19.9|25.9|75.8
+"24"|"GUJARAT"|"488"|"Bharuch"|"Total"|61.1|38.9|39.7|67.3
+"24"|"GUJARAT"|"488"|"Bharuch"|"Rural"|51.9|48.1|55.1|85.9
+"24"|"GUJARAT"|"488"|"Bharuch"|"Urban"|78|22|11.5|33.1
+"24"|"GUJARAT"|"489"|"The Dangs"|"Total"|11.3|88.7|73.5|98.7
+"24"|"GUJARAT"|"489"|"The Dangs"|"Rural"|9.9|90.1|76.6|99.6
+"24"|"GUJARAT"|"489"|"The Dangs"|"Urban"|24.4|75.6|43.6|89
+"24"|"GUJARAT"|"490"|"Navsari  "|"Total"|53.6|46.4|43.7|71.3
+"24"|"GUJARAT"|"490"|"Navsari  "|"Rural"|41.3|58.7|56.3|93
+"24"|"GUJARAT"|"490"|"Navsari  "|"Urban"|81.2|18.8|14.9|22.6
+"24"|"GUJARAT"|"491"|"Valsad"|"Total"|45.2|54.8|53.7|79.3
+"24"|"GUJARAT"|"491"|"Valsad"|"Rural"|31.9|68.1|73.4|96.3
+"24"|"GUJARAT"|"491"|"Valsad"|"Urban"|64.7|35.3|24.8|54.4
+"24"|"GUJARAT"|"492"|"Surat"|"Total"|77.6|22.4|15.9|23.6
+"24"|"GUJARAT"|"492"|"Surat"|"Rural"|44.4|55.6|52|78
+"24"|"GUJARAT"|"492"|"Surat"|"Urban"|86.1|13.9|6.8|9.8
+"24"|"GUJARAT"|"493"|"Tapi"|"Total"|28.3|71.7|72.9|91.9
+"24"|"GUJARAT"|"493"|"Tapi"|"Rural"|23.6|76.4|78|96.8
+"24"|"GUJARAT"|"493"|"Tapi"|"Urban"|73.1|26.9|23.3|44
+"25"|"DAMAN & DIU"|"494"|"Diu"|"Total"|84.4|15.6|41.6|73.8
+"25"|"DAMAN & DIU"|"494"|"Diu"|"Rural"|80.6|19.4|57|96.2
+"25"|"DAMAN & DIU"|"494"|"Diu"|"Urban"|88.3|11.7|25.8|50.8
+"25"|"DAMAN & DIU"|"495"|"Daman"|"Total"|74.7|25.3|17.9|58.2
+"25"|"DAMAN & DIU"|"495"|"Daman"|"Rural"|66.7|33.3|43.2|83.6
+"25"|"DAMAN & DIU"|"495"|"Daman"|"Urban"|76.1|23.9|13.3|53.8
+"26"|"DADRA & NAGAR HAVELI"|"496"|"Dadra & Nagar Haveli"|"Total"|52.6|47.4|45.7|73
+"26"|"DADRA & NAGAR HAVELI"|"496"|"Dadra & Nagar Haveli"|"Rural"|32.6|67.4|73.9|94.2
+"26"|"DADRA & NAGAR HAVELI"|"496"|"Dadra & Nagar Haveli"|"Urban"|71.5|28.5|19.2|53
+"27"|"MAHARASHTRA"|"497"|"Nandurbar"|"Total"|36.9|63.1|73|86.7
+"27"|"MAHARASHTRA"|"497"|"Nandurbar"|"Rural"|31.1|68.9|79.5|92.3
+"27"|"MAHARASHTRA"|"497"|"Nandurbar"|"Urban"|68.9|31.1|37.4|56.1
+"27"|"MAHARASHTRA"|"498"|"Dhule"|"Total"|60.2|39.8|69.7|91
+"27"|"MAHARASHTRA"|"498"|"Dhule"|"Rural"|53.1|46.9|82.2|93.1
+"27"|"MAHARASHTRA"|"498"|"Dhule"|"Urban"|79.6|20.4|35.4|85.5
+"27"|"MAHARASHTRA"|"499"|"Jalgaon"|"Total"|64.3|35.7|65|91.3
+"27"|"MAHARASHTRA"|"499"|"Jalgaon"|"Rural"|58.8|41.2|77.9|94.2
+"27"|"MAHARASHTRA"|"499"|"Jalgaon"|"Urban"|76.8|23.2|35.8|84.9
+"27"|"MAHARASHTRA"|"500"|"Buldana"|"Total"|44.8|55.2|65.6|90.9
+"27"|"MAHARASHTRA"|"500"|"Buldana"|"Rural"|40.4|59.6|71.8|91.1
+"27"|"MAHARASHTRA"|"500"|"Buldana"|"Urban"|62.8|37.2|40|90.3
+"27"|"MAHARASHTRA"|"501"|"Akola"|"Total"|48.7|51.3|56.7|92.8
+"27"|"MAHARASHTRA"|"501"|"Akola"|"Rural"|40|60|70.7|93.7
+"27"|"MAHARASHTRA"|"501"|"Akola"|"Urban"|63.7|36.3|32.4|91.4
+"27"|"MAHARASHTRA"|"502"|"Washim"|"Total"|35.9|64.1|67.3|86.1
+"27"|"MAHARASHTRA"|"502"|"Washim"|"Rural"|31.9|68.1|73.6|85.7
+"27"|"MAHARASHTRA"|"502"|"Washim"|"Urban"|57.7|42.3|33.7|88.1
+"27"|"MAHARASHTRA"|"503"|"Amravati"|"Total"|55.6|44.4|48.1|92.6
+"27"|"MAHARASHTRA"|"503"|"Amravati"|"Rural"|48.3|51.7|60.6|93.8
+"27"|"MAHARASHTRA"|"503"|"Amravati"|"Urban"|70|30|23.2|90.4
+"27"|"MAHARASHTRA"|"504"|"Wardha"|"Total"|57.2|42.8|44.1|88.9
+"27"|"MAHARASHTRA"|"504"|"Wardha"|"Rural"|49.7|50.3|53.8|88.6
+"27"|"MAHARASHTRA"|"504"|"Wardha"|"Urban"|74.2|25.8|22.2|89.5
+"27"|"MAHARASHTRA"|"505"|"Nagpur"|"Total"|71.4|28.6|25.6|42.8
+"27"|"MAHARASHTRA"|"505"|"Nagpur"|"Rural"|49.6|50.4|54.6|83.5
+"27"|"MAHARASHTRA"|"505"|"Nagpur"|"Urban"|81.9|18.1|11.5|23.1
+"27"|"MAHARASHTRA"|"506"|"Bhandara"|"Total"|40.1|59.9|41.4|86.9
+"27"|"MAHARASHTRA"|"506"|"Bhandara"|"Rural"|32.5|67.5|47.4|91.6
+"27"|"MAHARASHTRA"|"506"|"Bhandara"|"Urban"|72.2|27.8|16.1|67.1
+"27"|"MAHARASHTRA"|"507"|"Gondiya"|"Total"|32.7|67.3|53|91.6
+"27"|"MAHARASHTRA"|"507"|"Gondiya"|"Rural"|27.5|72.5|58.8|94.7
+"27"|"MAHARASHTRA"|"507"|"Gondiya"|"Urban"|59.2|40.8|23.6|76
+"27"|"MAHARASHTRA"|"508"|"Gadchiroli"|"Total"|27|73|74.9|95.6
+"27"|"MAHARASHTRA"|"508"|"Gadchiroli"|"Rural"|21.4|78.6|79.7|96.8
+"27"|"MAHARASHTRA"|"508"|"Gadchiroli"|"Urban"|72.4|27.6|35.1|86.4
+"27"|"MAHARASHTRA"|"509"|"Chandrapur"|"Total"|41|59|58.1|85.2
+"27"|"MAHARASHTRA"|"509"|"Chandrapur"|"Rural"|26.3|73.7|72.7|94.2
+"27"|"MAHARASHTRA"|"509"|"Chandrapur"|"Urban"|70.3|29.7|29.2|67.3
+"27"|"MAHARASHTRA"|"510"|"Yavatmal"|"Total"|35.7|64.3|69.7|91.4
+"27"|"MAHARASHTRA"|"510"|"Yavatmal"|"Rural"|28|72|79.1|93.8
+"27"|"MAHARASHTRA"|"510"|"Yavatmal"|"Urban"|66.9|33.1|32.3|81.8
+"27"|"MAHARASHTRA"|"511"|"Nanded"|"Total"|38.1|61.9|68.8|88.4
+"27"|"MAHARASHTRA"|"511"|"Nanded"|"Rural"|28.2|71.8|81.6|95.7
+"27"|"MAHARASHTRA"|"511"|"Nanded"|"Urban"|66.5|33.5|32|67.4
+"27"|"MAHARASHTRA"|"512"|"Hingoli"|"Total"|36.8|63.2|69.1|91.4
+"27"|"MAHARASHTRA"|"512"|"Hingoli"|"Rural"|32.4|67.6|73.9|92.8
+"27"|"MAHARASHTRA"|"512"|"Hingoli"|"Urban"|63.9|36.1|40.4|82.9
+"27"|"MAHARASHTRA"|"513"|"Parbhani"|"Total"|43.7|56.3|72.6|93.3
+"27"|"MAHARASHTRA"|"513"|"Parbhani"|"Rural"|33.1|66.9|87.3|96.4
+"27"|"MAHARASHTRA"|"513"|"Parbhani"|"Urban"|69.7|30.3|36.4|85.8
+"27"|"MAHARASHTRA"|"514"|"Jalna"|"Total"|38.6|61.4|64.8|92
+"27"|"MAHARASHTRA"|"514"|"Jalna"|"Rural"|32.9|67.1|71.7|94.9
+"27"|"MAHARASHTRA"|"514"|"Jalna"|"Urban"|64.6|35.4|33.8|79
+"27"|"MAHARASHTRA"|"515"|"Aurangabad"|"Total"|57.3|42.7|53.1|66.6
+"27"|"MAHARASHTRA"|"515"|"Aurangabad"|"Rural"|39.8|60.2|81.1|93.5
+"27"|"MAHARASHTRA"|"515"|"Aurangabad"|"Urban"|80.4|19.6|16.1|31.1
+"27"|"MAHARASHTRA"|"516"|"Nashik"|"Total"|58.5|41.5|54|69
+"27"|"MAHARASHTRA"|"516"|"Nashik"|"Rural"|42.1|57.9|71.6|94
+"27"|"MAHARASHTRA"|"516"|"Nashik"|"Urban"|79.4|20.6|31.6|37
+"27"|"MAHARASHTRA"|"517"|"Thane"|"Total"|71.9|28.1|34.7|37.2
+"27"|"MAHARASHTRA"|"517"|"Thane"|"Rural"|36.3|63.7|61.6|86.7
+"27"|"MAHARASHTRA"|"517"|"Thane"|"Urban"|81.8|18.2|27.2|23.6
+"27"|"MAHARASHTRA"|"518"|"Mumbai Suburban"|"Total"|77.2|22.8|47.2|20.8
+"27"|"MAHARASHTRA"|"518"|"Mumbai Suburban"|"Urban"|77.2|22.8|47.2|20.8
+"27"|"MAHARASHTRA"|"519"|"Mumbai"|"Total"|84.9|15.1|34.8|10.5
+"27"|"MAHARASHTRA"|"519"|"Mumbai"|"Urban"|84.9|15.1|34.8|10.5
+"27"|"MAHARASHTRA"|"520"|"Raigarh"|"Total"|56.8|43.2|38.9|63.4
+"27"|"MAHARASHTRA"|"520"|"Raigarh"|"Rural"|40.8|59.2|49.7|80.2
+"27"|"MAHARASHTRA"|"520"|"Raigarh"|"Urban"|84.2|15.8|20.4|34.6
+"27"|"MAHARASHTRA"|"521"|"Pune"|"Total"|75.9|24.1|27.7|37.2
+"27"|"MAHARASHTRA"|"521"|"Pune"|"Rural"|53.6|46.4|39.2|78.1
+"27"|"MAHARASHTRA"|"521"|"Pune"|"Urban"|88.3|11.7|21.4|14.3
+"27"|"MAHARASHTRA"|"522"|"Ahmadnagar"|"Total"|53.6|46.4|54.7|84.8
+"27"|"MAHARASHTRA"|"522"|"Ahmadnagar"|"Rural"|46.3|53.7|61.4|93.7
+"27"|"MAHARASHTRA"|"522"|"Ahmadnagar"|"Urban"|82|18|28.6|49.9
+"27"|"MAHARASHTRA"|"523"|"Bid"|"Total"|38.5|61.5|75.6|94.4
+"27"|"MAHARASHTRA"|"523"|"Bid"|"Rural"|30.9|69.1|85.1|96.6
+"27"|"MAHARASHTRA"|"523"|"Bid"|"Urban"|72.9|27.1|32.9|84.4
+"27"|"MAHARASHTRA"|"524"|"Latur"|"Total"|48.9|51.1|63.1|94.2
+"27"|"MAHARASHTRA"|"524"|"Latur"|"Rural"|39.2|60.8|75.7|96.3
+"27"|"MAHARASHTRA"|"524"|"Latur"|"Urban"|79.3|20.7|23.7|87.4
+"27"|"MAHARASHTRA"|"525"|"Osmanabad"|"Total"|42.6|57.4|73.1|94.6
+"27"|"MAHARASHTRA"|"525"|"Osmanabad"|"Rural"|38.3|61.7|78.5|95.7
+"27"|"MAHARASHTRA"|"525"|"Osmanabad"|"Urban"|66.3|33.7|43.1|88.6
+"27"|"MAHARASHTRA"|"526"|"Solapur"|"Total"|49.8|50.2|59.7|78.9
+"27"|"MAHARASHTRA"|"526"|"Solapur"|"Rural"|41.7|58.3|68.4|90.9
+"27"|"MAHARASHTRA"|"526"|"Solapur"|"Urban"|67.1|32.9|41.4|53.7
+"27"|"MAHARASHTRA"|"527"|"Satara"|"Total"|65.5|34.5|29.3|81.7
+"27"|"MAHARASHTRA"|"527"|"Satara"|"Rural"|61|39|30.5|88.7
+"27"|"MAHARASHTRA"|"527"|"Satara"|"Urban"|84.6|15.4|24.9|51.9
+"27"|"MAHARASHTRA"|"528"|"Ratnagiri"|"Total"|46.8|53.2|31|80.1
+"27"|"MAHARASHTRA"|"528"|"Ratnagiri"|"Rural"|40|60|33.3|85
+"27"|"MAHARASHTRA"|"528"|"Ratnagiri"|"Urban"|84.9|15.1|18.5|53.1
+"27"|"MAHARASHTRA"|"529"|"Sindhudurg"|"Total"|54.6|45.4|24.4|86.4
+"27"|"MAHARASHTRA"|"529"|"Sindhudurg"|"Rural"|51.4|48.6|25.8|89
+"27"|"MAHARASHTRA"|"529"|"Sindhudurg"|"Urban"|78.3|21.7|13.4|67.4
+"27"|"MAHARASHTRA"|"530"|"Kolhapur"|"Total"|74.5|25.5|26.2|87.2
+"27"|"MAHARASHTRA"|"530"|"Kolhapur"|"Rural"|69.6|30.4|26.1|92.3
+"27"|"MAHARASHTRA"|"530"|"Kolhapur"|"Urban"|84.9|15.1|26.5|76.6
+"27"|"MAHARASHTRA"|"531"|"Sangli"|"Total"|64.8|35.2|36.5|85.9
+"27"|"MAHARASHTRA"|"531"|"Sangli"|"Rural"|59.7|40.3|40|91.8
+"27"|"MAHARASHTRA"|"531"|"Sangli"|"Urban"|79.2|20.8|26.2|69.1
+"28"|"ANDHRA PRADESH"|"532"|"Adilabad"|"Total"|35.2|64.8|72.1|88.1
+"28"|"ANDHRA PRADESH"|"532"|"Adilabad"|"Rural"|25.8|74.2|86.9|95.6
+"28"|"ANDHRA PRADESH"|"532"|"Adilabad"|"Urban"|60.5|39.5|32.2|67.9
+"28"|"ANDHRA PRADESH"|"533"|"Nizamabad"|"Total"|41.1|58.9|61.7|84.4
+"28"|"ANDHRA PRADESH"|"533"|"Nizamabad"|"Rural"|36.9|63.1|71.6|88.6
+"28"|"ANDHRA PRADESH"|"533"|"Nizamabad"|"Urban"|56.1|43.9|25.2|69.5
+"28"|"ANDHRA PRADESH"|"534"|"Karimnagar"|"Total"|64.6|35.4|56.7|82.6
+"28"|"ANDHRA PRADESH"|"534"|"Karimnagar"|"Rural"|61.4|38.6|67.4|91.6
+"28"|"ANDHRA PRADESH"|"534"|"Karimnagar"|"Urban"|74.7|25.3|22.2|53.6
+"28"|"ANDHRA PRADESH"|"535"|"Medak"|"Total"|41.7|58.3|58.7|78.2
+"28"|"ANDHRA PRADESH"|"535"|"Medak"|"Rural"|34.6|65.4|70.2|86.8
+"28"|"ANDHRA PRADESH"|"535"|"Medak"|"Urban"|65.2|34.8|20.8|49.5
+"28"|"ANDHRA PRADESH"|"536"|"Hyderabad"|"Total"|92.4|7.6|2.7|3.5
+"28"|"ANDHRA PRADESH"|"536"|"Hyderabad"|"Urban"|92.4|7.6|2.7|3.5
+"28"|"ANDHRA PRADESH"|"537"|"Rangareddy"|"Total"|71.8|28.2|21.2|32.8
+"28"|"ANDHRA PRADESH"|"537"|"Rangareddy"|"Rural"|41|59|58.3|75.7
+"28"|"ANDHRA PRADESH"|"537"|"Rangareddy"|"Urban"|83.7|16.3|6.9|16.2
+"28"|"ANDHRA PRADESH"|"538"|"Mahbubnagar"|"Total"|33.2|66.8|75.6|90.7
+"28"|"ANDHRA PRADESH"|"538"|"Mahbubnagar"|"Rural"|28.1|71.9|83.7|95
+"28"|"ANDHRA PRADESH"|"538"|"Mahbubnagar"|"Urban"|64.1|35.9|26.7|64.5
+"28"|"ANDHRA PRADESH"|"539"|"Nalgonda"|"Total"|39.7|60.3|61.7|91.7
+"28"|"ANDHRA PRADESH"|"539"|"Nalgonda"|"Rural"|35.7|64.3|70|95.4
+"28"|"ANDHRA PRADESH"|"539"|"Nalgonda"|"Urban"|58.2|41.8|23|74
+"28"|"ANDHRA PRADESH"|"540"|"Warangal"|"Total"|52|48|61.7|90.4
+"28"|"ANDHRA PRADESH"|"540"|"Warangal"|"Rural"|46.6|53.4|73.3|96.5
+"28"|"ANDHRA PRADESH"|"540"|"Warangal"|"Urban"|66.9|33.1|29.5|73.3
+"28"|"ANDHRA PRADESH"|"541"|"Khammam"|"Total"|47.4|52.6|53|89.9
+"28"|"ANDHRA PRADESH"|"541"|"Khammam"|"Rural"|43.3|56.7|64|96
+"28"|"ANDHRA PRADESH"|"541"|"Khammam"|"Urban"|61.6|38.4|15.7|68.8
+"28"|"ANDHRA PRADESH"|"542"|"Srikakulam"|"Total"|15.6|84.4|79.1|92.1
+"28"|"ANDHRA PRADESH"|"542"|"Srikakulam"|"Rural"|11|89|87.4|95.3
+"28"|"ANDHRA PRADESH"|"542"|"Srikakulam"|"Urban"|39.8|60.2|35|75.8
+"28"|"ANDHRA PRADESH"|"543"|"Vizianagaram"|"Total"|15.9|84.1|78.2|89.1
+"28"|"ANDHRA PRADESH"|"543"|"Vizianagaram"|"Rural"|8.9|91.1|89.5|94.4
+"28"|"ANDHRA PRADESH"|"543"|"Vizianagaram"|"Urban"|43.5|56.5|34.3|68.2
+"28"|"ANDHRA PRADESH"|"544"|"Visakhapatnam"|"Total"|34.1|65.9|49.5|76.6
+"28"|"ANDHRA PRADESH"|"544"|"Visakhapatnam"|"Rural"|9.5|90.5|79.2|95.6
+"28"|"ANDHRA PRADESH"|"544"|"Visakhapatnam"|"Urban"|60.6|39.4|17.7|56.2
+"28"|"ANDHRA PRADESH"|"545"|"East Godavari"|"Total"|43.6|56.4|43.8|86.9
+"28"|"ANDHRA PRADESH"|"545"|"East Godavari"|"Rural"|37.2|62.8|53.5|92.9
+"28"|"ANDHRA PRADESH"|"545"|"East Godavari"|"Urban"|63.4|36.6|13.5|68.3
+"28"|"ANDHRA PRADESH"|"546"|"West Godavari"|"Total"|55.1|44.9|36|89.8
+"28"|"ANDHRA PRADESH"|"546"|"West Godavari"|"Rural"|51.4|48.6|41.6|92.4
+"28"|"ANDHRA PRADESH"|"546"|"West Godavari"|"Urban"|71.1|28.9|11.8|78.9
+"28"|"ANDHRA PRADESH"|"547"|"Krishna"|"Total"|49.9|50.1|30.8|79.7
+"28"|"ANDHRA PRADESH"|"547"|"Krishna"|"Rural"|32.8|67.2|44.6|94.7
+"28"|"ANDHRA PRADESH"|"547"|"Krishna"|"Urban"|77|23|8.5|55.7
+"28"|"ANDHRA PRADESH"|"548"|"Guntur"|"Total"|43.1|56.9|41.4|86.7
+"28"|"ANDHRA PRADESH"|"548"|"Guntur"|"Rural"|32.6|67.4|54|94.1
+"28"|"ANDHRA PRADESH"|"548"|"Guntur"|"Urban"|65.4|34.6|14.5|70.7
+"28"|"ANDHRA PRADESH"|"549"|"Prakasam"|"Total"|23|77|63.1|92.1
+"28"|"ANDHRA PRADESH"|"549"|"Prakasam"|"Rural"|18.2|81.8|72.6|94.2
+"28"|"ANDHRA PRADESH"|"549"|"Prakasam"|"Urban"|43.4|56.6|23.5|83.2
+"28"|"ANDHRA PRADESH"|"550"|"Sri Potti Sriramulu Nellore"|"Total"|43.9|56.1|61.3|85.2
+"28"|"ANDHRA PRADESH"|"550"|"Sri Potti Sriramulu Nellore"|"Rural"|36.5|63.5|75.1|91.9
+"28"|"ANDHRA PRADESH"|"550"|"Sri Potti Sriramulu Nellore"|"Urban"|64.4|35.6|23.5|66.8
+"28"|"ANDHRA PRADESH"|"551"|"Y.S.R."|"Total"|33.9|66.1|56.6|75.3
+"28"|"ANDHRA PRADESH"|"551"|"Y.S.R."|"Rural"|25.7|74.3|72.7|81.7
+"28"|"ANDHRA PRADESH"|"551"|"Y.S.R."|"Urban"|51.3|48.7|23.2|61.9
+"28"|"ANDHRA PRADESH"|"552"|"Kurnool"|"Total"|25.9|74.1|60.8|80.8
+"28"|"ANDHRA PRADESH"|"552"|"Kurnool"|"Rural"|15.2|84.8|73.3|84.7
+"28"|"ANDHRA PRADESH"|"552"|"Kurnool"|"Urban"|53.3|46.7|29|70.7
+"28"|"ANDHRA PRADESH"|"553"|"Anantapur"|"Total"|23.4|76.6|65.7|80.3
+"28"|"ANDHRA PRADESH"|"553"|"Anantapur"|"Rural"|16|84|78.6|86.4
+"28"|"ANDHRA PRADESH"|"553"|"Anantapur"|"Urban"|43.3|56.7|31.5|64.2
+"28"|"ANDHRA PRADESH"|"554"|"Chittoor"|"Total"|33.5|66.5|63.9|78.6
+"28"|"ANDHRA PRADESH"|"554"|"Chittoor"|"Rural"|26.3|73.7|81.2|88
+"28"|"ANDHRA PRADESH"|"554"|"Chittoor"|"Urban"|51.3|48.7|21.4|55.7
+"29"|"KARNATAKA"|"555"|"Belgaum"|"Total"|35.3|64.7|67.9|86.6
+"29"|"KARNATAKA"|"555"|"Belgaum"|"Rural"|24.2|75.8|82.1|95.2
+"29"|"KARNATAKA"|"555"|"Belgaum"|"Urban"|66.1|33.9|28.9|62.6
+"29"|"KARNATAKA"|"556"|"Bagalkot "|"Total"|28.8|71.2|81.7|88.4
+"29"|"KARNATAKA"|"556"|"Bagalkot "|"Rural"|20.7|79.3|93.1|96.1
+"29"|"KARNATAKA"|"556"|"Bagalkot "|"Urban"|45.6|54.4|58.3|73
+"29"|"KARNATAKA"|"557"|"Bijapur"|"Total"|25.8|74.2|82.3|86.2
+"29"|"KARNATAKA"|"557"|"Bijapur"|"Rural"|14.8|85.2|95.2|97.7
+"29"|"KARNATAKA"|"557"|"Bijapur"|"Urban"|60.6|39.4|41.5|49.9
+"29"|"KARNATAKA"|"558"|"Bidar"|"Total"|29.4|70.6|79|90.8
+"29"|"KARNATAKA"|"558"|"Bidar"|"Rural"|20.1|79.9|91.8|95.9
+"29"|"KARNATAKA"|"558"|"Bidar"|"Urban"|58.3|41.7|39.1|75
+"29"|"KARNATAKA"|"559"|"Raichur"|"Total"|24.1|75.9|80.6|89.5
+"29"|"KARNATAKA"|"559"|"Raichur"|"Rural"|15.6|84.4|90.5|96.3
+"29"|"KARNATAKA"|"559"|"Raichur"|"Urban"|47.7|52.3|52.8|70.4
+"29"|"KARNATAKA"|"560"|"Koppal"|"Total"|22.7|77.3|81.8|95.1
+"29"|"KARNATAKA"|"560"|"Koppal"|"Rural"|19.3|80.7|88.3|95.8
+"29"|"KARNATAKA"|"560"|"Koppal"|"Urban"|38.6|61.4|52.1|91.8
+"29"|"KARNATAKA"|"561"|"Gadag"|"Total"|29.6|70.4|79.8|89.2
+"29"|"KARNATAKA"|"561"|"Gadag"|"Rural"|21.4|78.6|91.3|91.3
+"29"|"KARNATAKA"|"561"|"Gadag"|"Urban"|44.2|55.8|59.5|85.5
+"29"|"KARNATAKA"|"562"|"Dharwad"|"Total"|57.3|42.7|43.9|59.6
+"29"|"KARNATAKA"|"562"|"Dharwad"|"Rural"|29.4|70.6|78.1|91.6
+"29"|"KARNATAKA"|"562"|"Dharwad"|"Urban"|77.8|22.2|18.6|36
+"29"|"KARNATAKA"|"563"|"Uttara Kannada"|"Total"|58.3|41.7|41.3|91
+"29"|"KARNATAKA"|"563"|"Uttara Kannada"|"Rural"|52|48|50.1|94.5
+"29"|"KARNATAKA"|"563"|"Uttara Kannada"|"Urban"|73.6|26.4|19.9|82.4
+"29"|"KARNATAKA"|"564"|"Haveri"|"Total"|28.2|71.8|64.6|93.4
+"29"|"KARNATAKA"|"564"|"Haveri"|"Rural"|20.9|79.1|72.9|96.3
+"29"|"KARNATAKA"|"564"|"Haveri"|"Urban"|54|46|34.8|82.9
+"29"|"KARNATAKA"|"565"|"Bellary"|"Total"|34.2|65.8|68.5|79.5
+"29"|"KARNATAKA"|"565"|"Bellary"|"Rural"|18.6|81.4|88.3|94.9
+"29"|"KARNATAKA"|"565"|"Bellary"|"Urban"|58|42|38.3|55.7
+"29"|"KARNATAKA"|"566"|"Chitradurga"|"Total"|24.5|75.5|71.6|91.3
+"29"|"KARNATAKA"|"566"|"Chitradurga"|"Rural"|17.6|82.4|81.7|96.7
+"29"|"KARNATAKA"|"566"|"Chitradurga"|"Urban"|51.6|48.4|31.9|70.2
+"29"|"KARNATAKA"|"567"|"Davanagere"|"Total"|30|70|55|78.3
+"29"|"KARNATAKA"|"567"|"Davanagere"|"Rural"|16.8|83.2|70.7|94.6
+"29"|"KARNATAKA"|"567"|"Davanagere"|"Urban"|57.2|42.8|22.7|44.6
+"29"|"KARNATAKA"|"568"|"Shimoga"|"Total"|45|55|30.4|85.2
+"29"|"KARNATAKA"|"568"|"Shimoga"|"Rural"|34.2|65.8|39.9|95.5
+"29"|"KARNATAKA"|"568"|"Shimoga"|"Urban"|64.1|35.9|13.3|67
+"29"|"KARNATAKA"|"569"|"Udupi"|"Total"|75.3|24.7|12.9|92.6
+"29"|"KARNATAKA"|"569"|"Udupi"|"Rural"|71.6|28.4|16.6|95.4
+"29"|"KARNATAKA"|"569"|"Udupi"|"Urban"|84.2|15.8|4.1|86.1
+"29"|"KARNATAKA"|"570"|"Chikmagalur"|"Total"|39.7|60.3|39.1|92.3
+"29"|"KARNATAKA"|"570"|"Chikmagalur"|"Rural"|33.3|66.7|46.3|95.1
+"29"|"KARNATAKA"|"570"|"Chikmagalur"|"Urban"|64.1|35.9|11.7|81.8
+"29"|"KARNATAKA"|"571"|"Tumkur"|"Total"|25.7|74.3|68.6|91.2
+"29"|"KARNATAKA"|"571"|"Tumkur"|"Rural"|16.1|83.9|82.2|97.1
+"29"|"KARNATAKA"|"571"|"Tumkur"|"Urban"|59.7|40.3|20.8|70.3
+"29"|"KARNATAKA"|"572"|"Bangalore"|"Total"|76.8|23.2|6.1|22.9
+"29"|"KARNATAKA"|"572"|"Bangalore"|"Rural"|41.3|58.7|26.2|78.7
+"29"|"KARNATAKA"|"572"|"Bangalore"|"Urban"|80.2|19.8|4.3|17.6
+"29"|"KARNATAKA"|"573"|"Mandya"|"Total"|37.7|62.3|63.3|87.8
+"29"|"KARNATAKA"|"573"|"Mandya"|"Rural"|30.1|69.9|72.9|94.1
+"29"|"KARNATAKA"|"573"|"Mandya"|"Urban"|74.7|25.3|16.3|56.8
+"29"|"KARNATAKA"|"574"|"Hassan"|"Total"|34.5|65.5|60.6|88.5
+"29"|"KARNATAKA"|"574"|"Hassan"|"Rural"|25.3|74.7|73.7|96.8
+"29"|"KARNATAKA"|"574"|"Hassan"|"Urban"|69.2|30.8|10.6|57
+"29"|"KARNATAKA"|"575"|"Dakshina Kannada"|"Total"|79.3|20.7|7.4|79.5
+"29"|"KARNATAKA"|"575"|"Dakshina Kannada"|"Rural"|72.2|27.8|12.2|88.7
+"29"|"KARNATAKA"|"575"|"Dakshina Kannada"|"Urban"|86.9|13.1|2.5|69.5
+"29"|"KARNATAKA"|"576"|"Kodagu"|"Total"|55|45|19.7|79.1
+"29"|"KARNATAKA"|"576"|"Kodagu"|"Rural"|50.8|49.2|22.4|83.1
+"29"|"KARNATAKA"|"576"|"Kodagu"|"Urban"|79.7|20.3|3.3|55.3
+"29"|"KARNATAKA"|"577"|"Mysore"|"Total"|59.5|40.5|46|64.3
+"29"|"KARNATAKA"|"577"|"Mysore"|"Rural"|40.6|59.4|73.8|94.4
+"29"|"KARNATAKA"|"577"|"Mysore"|"Urban"|86|14|7|22
+"29"|"KARNATAKA"|"578"|"Chamarajanagar"|"Total"|31.6|68.4|77.9|89.9
+"29"|"KARNATAKA"|"578"|"Chamarajanagar"|"Rural"|26.5|73.5|85.2|91.8
+"29"|"KARNATAKA"|"578"|"Chamarajanagar"|"Urban"|57|43|41.6|80
+"29"|"KARNATAKA"|"579"|"Gulbarga"|"Total"|31.4|68.6|76|84.2
+"29"|"KARNATAKA"|"579"|"Gulbarga"|"Rural"|16.7|83.3|95.8|97.4
+"29"|"KARNATAKA"|"579"|"Gulbarga"|"Urban"|61.2|38.8|35.8|57.4
+"29"|"KARNATAKA"|"580"|"Yadgir"|"Total"|19.8|80.2|89.6|95.9
+"29"|"KARNATAKA"|"580"|"Yadgir"|"Rural"|13.3|86.7|96|97.7
+"29"|"KARNATAKA"|"580"|"Yadgir"|"Urban"|46.9|53.1|63|88.1
+"29"|"KARNATAKA"|"581"|"Kolar"|"Total"|26|74|59.2|86.2
+"29"|"KARNATAKA"|"581"|"Kolar"|"Rural"|17.6|82.4|75.2|93.6
+"29"|"KARNATAKA"|"581"|"Kolar"|"Urban"|44.1|55.9|24.4|70.3
+"29"|"KARNATAKA"|"582"|"Chikkaballapura"|"Total"|23.2|76.8|65.1|89.8
+"29"|"KARNATAKA"|"582"|"Chikkaballapura"|"Rural"|16.6|83.4|78|96
+"29"|"KARNATAKA"|"582"|"Chikkaballapura"|"Urban"|46.9|53.1|19|68.3
+"29"|"KARNATAKA"|"583"|"Bangalore Rural"|"Total"|26.4|73.6|23.5|88.7
+"29"|"KARNATAKA"|"583"|"Bangalore Rural"|"Rural"|21.4|78.6|25.7|91.1
+"29"|"KARNATAKA"|"583"|"Bangalore Rural"|"Urban"|39.5|60.5|17.9|82.5
+"29"|"KARNATAKA"|"584"|"Ramanagara"|"Total"|29.5|70.5|60.3|86.6
+"29"|"KARNATAKA"|"584"|"Ramanagara"|"Rural"|17.3|82.7|72.7|93.1
+"29"|"KARNATAKA"|"584"|"Ramanagara"|"Urban"|70.3|29.7|18.7|64.6
+"30"|"GOA"|"585"|"North Goa"|"Total"|80.4|19.6|22.3|60.2
+"30"|"GOA"|"585"|"North Goa"|"Rural"|74.4|25.6|32.4|76.7
+"30"|"GOA"|"585"|"North Goa"|"Urban"|84.4|15.6|15.8|49.4
+"30"|"GOA"|"586"|"South Goa"|"Total"|78.8|21.2|21.9|51.5
+"30"|"GOA"|"586"|"South Goa"|"Rural"|66.9|33.1|29.9|70.3
+"30"|"GOA"|"586"|"South Goa"|"Urban"|85.9|14.1|17.3|40.3
+"31"|"LAKSHADWEEP"|"587"|"Lakshadweep"|"Total"|83.7|16.3|2.2|88.6
+"31"|"LAKSHADWEEP"|"587"|"Lakshadweep"|"Rural"|79.7|20.3|2|99.7
+"31"|"LAKSHADWEEP"|"587"|"Lakshadweep"|"Urban"|84.9|15.1|2.3|85.2
+"32"|"KERALA"|"588"|"Kasaragod"|"Total"|73|27|8.9|85.7
+"32"|"KERALA"|"588"|"Kasaragod"|"Rural"|65.9|34.1|12|86.2
+"32"|"KERALA"|"588"|"Kasaragod"|"Urban"|84.7|15.3|3.8|84.8
+"32"|"KERALA"|"589"|"Kannur"|"Total"|81.1|18.9|2.8|65.7
+"32"|"KERALA"|"589"|"Kannur"|"Rural"|73.1|26.9|4.6|81.8
+"32"|"KERALA"|"589"|"Kannur"|"Urban"|85.7|14.3|1.7|56.4
+"32"|"KERALA"|"590"|"Wayanad"|"Total"|60.2|39.8|11.7|87.3
+"32"|"KERALA"|"590"|"Wayanad"|"Rural"|59.7|40.3|11.9|87.6
+"32"|"KERALA"|"590"|"Wayanad"|"Urban"|74.1|25.9|5.5|78.1
+"32"|"KERALA"|"591"|"Kozhikode"|"Total"|79.3|20.7|2.6|61.3
+"32"|"KERALA"|"591"|"Kozhikode"|"Rural"|74|26|3.8|68.3
+"32"|"KERALA"|"591"|"Kozhikode"|"Urban"|82|18|2.1|57.6
+"32"|"KERALA"|"592"|"Malappuram"|"Total"|81.2|18.8|2.8|81.3
+"32"|"KERALA"|"592"|"Malappuram"|"Rural"|78.5|21.5|3.7|83.5
+"32"|"KERALA"|"592"|"Malappuram"|"Urban"|84.7|15.3|1.7|78.3
+"32"|"KERALA"|"593"|"Palakkad"|"Total"|71.7|28.3|10.6|88.4
+"32"|"KERALA"|"593"|"Palakkad"|"Rural"|69.3|30.7|12.4|91.1
+"32"|"KERALA"|"593"|"Palakkad"|"Urban"|79.2|20.8|5.4|79.8
+"32"|"KERALA"|"594"|"Thrissur"|"Total"|83.8|16.2|2.6|74.7
+"32"|"KERALA"|"594"|"Thrissur"|"Rural"|80.3|19.7|3.7|80.7
+"32"|"KERALA"|"594"|"Thrissur"|"Urban"|85.5|14.5|2.1|71.7
+"32"|"KERALA"|"595"|"Ernakulam"|"Total"|80.3|19.7|3|59.2
+"32"|"KERALA"|"595"|"Ernakulam"|"Rural"|78.1|21.9|4|74.8
+"32"|"KERALA"|"595"|"Ernakulam"|"Urban"|81.3|18.7|2.7|51.7
+"32"|"KERALA"|"596"|"Idukki "|"Total"|41.4|58.6|14.5|85.8
+"32"|"KERALA"|"596"|"Idukki "|"Rural"|39.5|60.5|15|87.5
+"32"|"KERALA"|"596"|"Idukki "|"Urban"|83.7|16.3|1.3|50
+"32"|"KERALA"|"597"|"Kottayam"|"Total"|72.9|27.1|4.2|67.5
+"32"|"KERALA"|"597"|"Kottayam"|"Rural"|69.8|30.2|4.9|72.9
+"32"|"KERALA"|"597"|"Kottayam"|"Urban"|80.8|19.2|2.2|54
+"32"|"KERALA"|"598"|"Alappuzha"|"Total"|72.7|27.3|9.2|77.4
+"32"|"KERALA"|"598"|"Alappuzha"|"Rural"|70|30|11.5|79.8
+"32"|"KERALA"|"598"|"Alappuzha"|"Urban"|75.1|24.9|7.3|75.2
+"32"|"KERALA"|"599"|"Pathanamthitta"|"Total"|79.7|20.3|7.2|73.1
+"32"|"KERALA"|"599"|"Pathanamthitta"|"Rural"|78.9|21.1|7.5|75
+"32"|"KERALA"|"599"|"Pathanamthitta"|"Urban"|86.1|13.9|4.6|57.4
+"32"|"KERALA"|"600"|"Kollam"|"Total"|85.7|14.3|6.8|80.7
+"32"|"KERALA"|"600"|"Kollam"|"Rural"|85|15|8.2|84
+"32"|"KERALA"|"600"|"Kollam"|"Urban"|86.6|13.4|5.1|76.5
+"32"|"KERALA"|"601"|"Thiruvananthapuram"|"Total"|84.2|15.8|6.6|78.6
+"32"|"KERALA"|"601"|"Thiruvananthapuram"|"Rural"|82.1|17.9|9|88.4
+"32"|"KERALA"|"601"|"Thiruvananthapuram"|"Urban"|86.1|13.9|4.6|70
+"33"|"TAMIL NADU"|"602"|"Thiruvallur"|"Total"|36.6|63.4|33.8|64.5
+"33"|"TAMIL NADU"|"602"|"Thiruvallur"|"Rural"|22.6|77.4|72.7|88.9
+"33"|"TAMIL NADU"|"602"|"Thiruvallur"|"Urban"|44|56|13.1|51.5
+"33"|"TAMIL NADU"|"603"|"Chennai"|"Total"|76.3|23.7|5|4
+"33"|"TAMIL NADU"|"603"|"Chennai"|"Urban"|76.3|23.7|5|4
+"33"|"TAMIL NADU"|"604"|"Kancheepuram"|"Total"|43.8|56.2|35.7|65.5
+"33"|"TAMIL NADU"|"604"|"Kancheepuram"|"Rural"|24.7|75.3|71.3|88.8
+"33"|"TAMIL NADU"|"604"|"Kancheepuram"|"Urban"|54.5|45.5|16|52.7
+"33"|"TAMIL NADU"|"605"|"Vellore"|"Total"|35|65|62.2|80.4
+"33"|"TAMIL NADU"|"605"|"Vellore"|"Rural"|22.1|77.9|81.3|92.6
+"33"|"TAMIL NADU"|"605"|"Vellore"|"Urban"|52.6|47.4|36|63.6
+"33"|"TAMIL NADU"|"606"|"Tiruvannamalai"|"Total"|26.6|73.4|78|91.1
+"33"|"TAMIL NADU"|"606"|"Tiruvannamalai"|"Rural"|18.8|81.2|87.9|96.5
+"33"|"TAMIL NADU"|"606"|"Tiruvannamalai"|"Urban"|58.7|41.3|37.3|68.8
+"33"|"TAMIL NADU"|"607"|"Viluppuram"|"Total"|16.7|83.3|79.5|91.9
+"33"|"TAMIL NADU"|"607"|"Viluppuram"|"Rural"|11.7|88.3|87.3|96.2
+"33"|"TAMIL NADU"|"607"|"Viluppuram"|"Urban"|45.2|54.8|35.3|67.9
+"33"|"TAMIL NADU"|"608"|"Salem"|"Total"|24.7|75.3|69|82.5
+"33"|"TAMIL NADU"|"608"|"Salem"|"Rural"|9|91|86.1|94.3
+"33"|"TAMIL NADU"|"608"|"Salem"|"Urban"|40.1|59.9|52.2|71
+"33"|"TAMIL NADU"|"609"|"Namakkal   "|"Total"|29.4|70.6|60.1|81.7
+"33"|"TAMIL NADU"|"609"|"Namakkal   "|"Rural"|19.1|80.9|69.3|88.8
+"33"|"TAMIL NADU"|"609"|"Namakkal   "|"Urban"|44.6|55.4|46.2|71.5
+"33"|"TAMIL NADU"|"610"|"Erode"|"Total"|35.6|64.4|51.9|73.9
+"33"|"TAMIL NADU"|"610"|"Erode"|"Rural"|18.5|81.5|67.1|87.6
+"33"|"TAMIL NADU"|"610"|"Erode"|"Urban"|52|48|37.1|60.5
+"33"|"TAMIL NADU"|"611"|"The Nilgiris"|"Total"|21.4|78.6|50.6|75.8
+"33"|"TAMIL NADU"|"611"|"The Nilgiris"|"Rural"|8.9|91.1|59|86.5
+"33"|"TAMIL NADU"|"611"|"The Nilgiris"|"Urban"|30.6|69.4|44.4|67.9
+"33"|"TAMIL NADU"|"612"|"Dindigul"|"Total"|25|75|67.8|86.7
+"33"|"TAMIL NADU"|"612"|"Dindigul"|"Rural"|14.6|85.4|81.8|93.9
+"33"|"TAMIL NADU"|"612"|"Dindigul"|"Urban"|42.4|57.6|44.1|74.7
+"33"|"TAMIL NADU"|"613"|"Karur "|"Total"|36.9|63.1|59.7|81.1
+"33"|"TAMIL NADU"|"613"|"Karur "|"Rural"|16.8|83.2|77.8|94.1
+"33"|"TAMIL NADU"|"613"|"Karur "|"Urban"|65.3|34.7|33.9|62.8
+"33"|"TAMIL NADU"|"614"|"Tiruchirappalli"|"Total"|41|59|53.8|73.7
+"33"|"TAMIL NADU"|"614"|"Tiruchirappalli"|"Rural"|22.6|77.4|76.8|92.3
+"33"|"TAMIL NADU"|"614"|"Tiruchirappalli"|"Urban"|60.3|39.7|29.6|54.3
+"33"|"TAMIL NADU"|"615"|"Perambalur  "|"Total"|19.2|80.8|78.7|91.7
+"33"|"TAMIL NADU"|"615"|"Perambalur  "|"Rural"|13.4|86.6|85.1|95
+"33"|"TAMIL NADU"|"615"|"Perambalur  "|"Urban"|48.3|51.7|46|75.2
+"33"|"TAMIL NADU"|"616"|"Ariyalur  "|"Total"|16.6|83.4|82.3|94.5
+"33"|"TAMIL NADU"|"616"|"Ariyalur  "|"Rural"|14.6|85.4|86.2|96.2
+"33"|"TAMIL NADU"|"616"|"Ariyalur  "|"Urban"|33.1|66.9|49|80.4
+"33"|"TAMIL NADU"|"617"|"Cuddalore"|"Total"|33.4|66.6|64.5|83.5
+"33"|"TAMIL NADU"|"617"|"Cuddalore"|"Rural"|22.5|77.5|80.7|93.8
+"33"|"TAMIL NADU"|"617"|"Cuddalore"|"Urban"|55.2|44.8|32.4|62.9
+"33"|"TAMIL NADU"|"618"|"Nagapattinam  "|"Total"|25.3|74.7|61.2|86.5
+"33"|"TAMIL NADU"|"618"|"Nagapattinam  "|"Rural"|20.6|79.4|69.5|91.9
+"33"|"TAMIL NADU"|"618"|"Nagapattinam  "|"Urban"|42.6|57.4|31.1|67.3
+"33"|"TAMIL NADU"|"619"|"Thiruvarur"|"Total"|25|75|60.8|88.4
+"33"|"TAMIL NADU"|"619"|"Thiruvarur"|"Rural"|19.5|80.5|69.2|91.9
+"33"|"TAMIL NADU"|"619"|"Thiruvarur"|"Urban"|47.2|52.8|27.6|74.1
+"33"|"TAMIL NADU"|"620"|"Thanjavur"|"Total"|34.7|65.3|56.8|83.6
+"33"|"TAMIL NADU"|"620"|"Thanjavur"|"Rural"|23.5|76.5|71.5|93.1
+"33"|"TAMIL NADU"|"620"|"Thanjavur"|"Urban"|55.1|44.9|30.1|66.2
+"33"|"TAMIL NADU"|"621"|"Pudukkottai"|"Total"|14.6|85.4|73.2|91
+"33"|"TAMIL NADU"|"621"|"Pudukkottai"|"Rural"|7|93|82.8|95.4
+"33"|"TAMIL NADU"|"621"|"Pudukkottai"|"Urban"|45.1|54.9|35|72.9
+"33"|"TAMIL NADU"|"622"|"Sivaganga"|"Total"|24.7|75.3|60.1|87.2
+"33"|"TAMIL NADU"|"622"|"Sivaganga"|"Rural"|12.7|87.3|76.8|93.8
+"33"|"TAMIL NADU"|"622"|"Sivaganga"|"Urban"|51.7|48.3|22.5|72.6
+"33"|"TAMIL NADU"|"623"|"Madurai"|"Total"|37.4|62.6|42|58.4
+"33"|"TAMIL NADU"|"623"|"Madurai"|"Rural"|14.4|85.6|80.3|93
+"33"|"TAMIL NADU"|"623"|"Madurai"|"Urban"|52.8|47.2|16.5|35.3
+"33"|"TAMIL NADU"|"624"|"Theni  "|"Total"|39.3|60.7|61.3|77.7
+"33"|"TAMIL NADU"|"624"|"Theni  "|"Rural"|24.1|75.9|75.7|89.2
+"33"|"TAMIL NADU"|"624"|"Theni  "|"Urban"|52.5|47.5|49.1|67.5
+"33"|"TAMIL NADU"|"625"|"Virudhunagar"|"Total"|21.5|78.5|71.5|88
+"33"|"TAMIL NADU"|"625"|"Virudhunagar"|"Rural"|9.6|90.4|86|94.8
+"33"|"TAMIL NADU"|"625"|"Virudhunagar"|"Urban"|33.2|66.8|57.4|81.3
+"33"|"TAMIL NADU"|"626"|"Ramanathapuram"|"Total"|10.5|89.5|65|86.5
+"33"|"TAMIL NADU"|"626"|"Ramanathapuram"|"Rural"|5.6|94.4|78.6|94.2
+"33"|"TAMIL NADU"|"626"|"Ramanathapuram"|"Urban"|22.3|77.7|32.2|67.8
+"33"|"TAMIL NADU"|"627"|"Thoothukkudi"|"Total"|30.4|69.6|50.9|83.4
+"33"|"TAMIL NADU"|"627"|"Thoothukkudi"|"Rural"|10.5|89.5|72.5|95.4
+"33"|"TAMIL NADU"|"627"|"Thoothukkudi"|"Urban"|51.6|48.4|27.8|70.7
+"33"|"TAMIL NADU"|"628"|"Tirunelveli "|"Total"|36.2|63.8|53.7|85.1
+"33"|"TAMIL NADU"|"628"|"Tirunelveli "|"Rural"|19|81|67.3|93.7
+"33"|"TAMIL NADU"|"628"|"Tirunelveli "|"Urban"|54.5|45.5|39.2|76.2
+"33"|"TAMIL NADU"|"629"|"Kanniyakumari"|"Total"|38.8|61.2|13.9|75.5
+"33"|"TAMIL NADU"|"629"|"Kanniyakumari"|"Rural"|34.5|65.5|18.2|81.6
+"33"|"TAMIL NADU"|"629"|"Kanniyakumari"|"Urban"|39.7|60.3|12.9|74.1
+"33"|"TAMIL NADU"|"630"|"Dharmapuri"|"Total"|9.9|90.1|81.5|91.8
+"33"|"TAMIL NADU"|"630"|"Dharmapuri"|"Rural"|5|95|89.6|96
+"33"|"TAMIL NADU"|"630"|"Dharmapuri"|"Urban"|34|66|42.1|71.9
+"33"|"TAMIL NADU"|"631"|"Krishnagiri"|"Total"|18.9|81.1|68|79.3
+"33"|"TAMIL NADU"|"631"|"Krishnagiri"|"Rural"|9.6|90.4|81.7|89.9
+"33"|"TAMIL NADU"|"631"|"Krishnagiri"|"Urban"|49.1|50.9|23.5|44.1
+"33"|"TAMIL NADU"|"632"|"Coimbatore"|"Total"|59.2|40.8|34.2|64.2
+"33"|"TAMIL NADU"|"632"|"Coimbatore"|"Rural"|35.5|64.5|67.4|88
+"33"|"TAMIL NADU"|"632"|"Coimbatore"|"Urban"|67.1|32.9|23.1|56.2
+"33"|"TAMIL NADU"|"633"|"Tiruppur"|"Total"|46.5|53.5|43.7|75.8
+"33"|"TAMIL NADU"|"633"|"Tiruppur"|"Rural"|22|78|69.8|91.1
+"33"|"TAMIL NADU"|"633"|"Tiruppur"|"Urban"|63.2|36.8|25.9|65.5
+"34"|"PUDUCHERRY"|"634"|"Yanam"|"Total"|79.4|20.6|18.2|92
+"34"|"PUDUCHERRY"|"634"|"Yanam"|"Urban"|79.4|20.6|18.2|92
+"34"|"PUDUCHERRY"|"635"|"Puducherry"|"Total"|80.5|19.5|31.9|73.3
+"34"|"PUDUCHERRY"|"635"|"Puducherry"|"Rural"|64.7|35.3|64.5|92.6
+"34"|"PUDUCHERRY"|"635"|"Puducherry"|"Urban"|87.4|12.6|17.9|65
+"34"|"PUDUCHERRY"|"636"|"Mahe"|"Total"|93|7|2.3|39.4
+"34"|"PUDUCHERRY"|"636"|"Mahe"|"Urban"|93|7|2.3|39.4
+"34"|"PUDUCHERRY"|"637"|"Karaikal"|"Total"|60.1|39.9|39.5|87.5
+"34"|"PUDUCHERRY"|"637"|"Karaikal"|"Rural"|50.2|49.8|52.4|94.5
+"34"|"PUDUCHERRY"|"637"|"Karaikal"|"Urban"|70.7|29.3|25.8|80.1
+"35"|"ANDAMAN & NICOBAR ISLANDS"|"638"|"Nicobars"|"Total"|55.2|44.8|19.5|90.9
+"35"|"ANDAMAN & NICOBAR ISLANDS"|"638"|"Nicobars"|"Rural"|55.2|44.8|19.5|90.9
+"35"|"ANDAMAN & NICOBAR ISLANDS"|"639"|"North  & Middle Andaman"|"Total"|42.8|57.2|58.2|97
+"35"|"ANDAMAN & NICOBAR ISLANDS"|"639"|"North  & Middle Andaman"|"Rural"|42.2|57.8|58.5|96.9
+"35"|"ANDAMAN & NICOBAR ISLANDS"|"639"|"North  & Middle Andaman"|"Urban"|63.4|36.6|44.8|98.8
+"35"|"ANDAMAN & NICOBAR ISLANDS"|"640"|"South Andaman"|"Total"|69.8|30.2|22.9|90.9
+"35"|"ANDAMAN & NICOBAR ISLANDS"|"640"|"South Andaman"|"Rural"|49|51|37.9|95.5
+"35"|"ANDAMAN & NICOBAR ISLANDS"|"640"|"South Andaman"|"Urban"|84.3|15.7|12.4|87.7
