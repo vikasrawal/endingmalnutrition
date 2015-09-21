@@ -6,6 +6,6 @@ All files except official logo files and the cover files are included. These wer
 
 I have included the biblatex.cfg file from my local texmf directory, since some biblatex customisations are in that file.
 
-I export the org file to latex, and then compile it using compilebook.sh.
+I export nutritionbook.org file to latex, and then compile it using compilebook.sh.
 
 The master branch creates the print version, while the ebook branch creates the version used for the FAO repository.
