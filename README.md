@@ -6,6 +6,19 @@ All files except official logo files and the cover files are included. These wer
 
 I have included the biblatex.cfg file from my local texmf directory, since some biblatex customisations are in that file.
 
+The book uses memoir class, which was defined in my .emacs as 
+
+    (add-to-list 'org-latex-classes
+                 '("vmemoir"
+                   "\\documentclass[11pt]{memoir}"
+                   ("\\chapter{%s}" . "\\chapter*{%s}")
+                   ("\\section{%s}" . "\\section*{%s}")
+                   ("\\subsection{%s}" . "\\subsection*{%s}")
+                   ("\\subsubsection{%s}" . "\\subsubsection*{%s}")))
+
+
+My emacs uses Eric Schulte's [emacs24-starter-kit](https://eschulte.github.io/emacs24-starter-kit/). My own customisations are as in https://github.com/vikasrawal/orgpaper/blob/master/research-toolkit.org
+
 I export nutritionbook.org file to latex, and then compile it using compilebook.sh.
 
 The master branch creates the print version, while the ebook branch creates the version used for the FAO repository.
