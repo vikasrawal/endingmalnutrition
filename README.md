@@ -1,4 +1,3 @@
-# endingmalnutrition
 # Ending Malnutrition: from commitment to action
 
 This repository has the source files used for producing the book "Ending Malnutrition: from commitment to action". 
