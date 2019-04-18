@@ -17,7 +17,7 @@ The book uses memoir class, which was defined in my .emacs as
                    ("\\subsubsection{%s}" . "\\subsubsection*{%s}")))
 
 
-My emacs uses Eric Schulte's [emacs24-starter-kit](https://eschulte.github.io/emacs24-starter-kit/). My own customisations are as in [https://github.com/vikasrawal/orgpaper/blob/master/research-toolkit.el](https://github.com/vikasrawal/orgpaper/blob/master/research-toolkit.el)
+I customise emacs using [Prelude](https://github.com/bbatsov/prelude). My own customisations are as in [https://github.com/vikasrawal/orgpaper/blob/master/research-toolkit.el](https://github.com/vikasrawal/orgpaper/blob/master/research-toolkit.el)
 
 I export nutritionbook.org file to latex, and then compile it using compilebook.sh.
 
